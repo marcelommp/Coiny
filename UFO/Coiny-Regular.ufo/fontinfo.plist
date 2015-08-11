@@ -15,7 +15,7 @@
     <key>unitsPerEm</key>
     <integer>1000</integer>
     <key>xHeight</key>
-    <integer>512</integer>
+    <integer>515</integer>
     <key>ascender</key>
     <integer>760</integer>
     <key>descender</key>
@@ -25,7 +25,7 @@
     <key>note</key>
     <string></string>
     <key>openTypeHeadCreated</key>
-    <string>2015/08/10 22:46:47</string>
+    <string>2015/08/11 14:30:23</string>
     <key>openTypeHheaAscender</key>
     <integer>765</integer>
     <key>openTypeHheaDescender</key>
