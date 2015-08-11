@@ -4,6 +4,7 @@
   <unicode hex="0067"/>
   <outline>
     <contour>
+<<<<<<< Updated upstream
       <point x="393.572" y="40" type="curve" smooth="yes"/>
       <point x="393.572" y="126.49"/>
       <point x="394.981" y="315"/>
@@ -36,6 +37,40 @@
       <point x="393.572" y="-24.5"/>
     </contour>
     <component base="uni0089" xOffset="24.4516"/>
+=======
+      <point x="587.121" y="40" type="curve" smooth="yes"/>
+      <point x="587.121" y="126.49"/>
+      <point x="588.53" y="315"/>
+      <point x="588.53" y="388.514" type="curve" smooth="yes"/>
+      <point x="588.53" y="462.028"/>
+      <point x="629.098" y="511.777"/>
+      <point x="697.401" y="510.964" type="curve" smooth="yes"/>
+      <point x="765.705" y="510.15"/>
+      <point x="820.129" y="489.89"/>
+      <point x="820.129" y="391.695" type="curve" smooth="yes"/>
+      <point x="820.129" y="293.5"/>
+      <point x="823.248" y="103.597"/>
+      <point x="823.248" y="15.8115" type="curve" smooth="yes"/>
+      <point x="823.248" y="-148"/>
+      <point x="688.822" y="-240.229"/>
+      <point x="517.828" y="-240.229" type="curve" smooth="yes"/>
+      <point x="351.313" y="-240.229"/>
+      <point x="260.143" y="-118.5"/>
+      <point x="260.143" y="-70" type="curve" smooth="yes"/>
+      <point x="260.143" y="-49"/>
+      <point x="277.143" y="-29.0879"/>
+      <point x="312.069" y="-29.0879" type="curve" smooth="yes"/>
+      <point x="330.9" y="-29.0879"/>
+      <point x="344.589" y="-47.7803"/>
+      <point x="379.224" y="-57.9492" type="curve" smooth="yes"/>
+      <point x="406.643" y="-66"/>
+      <point x="441.61" y="-70"/>
+      <point x="475.643" y="-70" type="curve" smooth="yes"/>
+      <point x="544.219" y="-70"/>
+      <point x="587.121" y="-24.5"/>
+    </contour>
+    <component base="uni0089" xOffset="204"/>
+>>>>>>> Stashed changes
   </outline>
   <lib>
     <dict>

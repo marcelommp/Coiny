@@ -3,8 +3,13 @@
   <advance width="542"/>
   <unicode hex="0066"/>
   <outline>
+<<<<<<< Updated upstream
     <component base="uni008B" xOffset="59.4834"/>
     <component base="uni0082" xOffset="-33.5166"/>
+=======
+    <component base="uni008B" xOffset="83"/>
+    <component base="uni0082" xOffset="-12"/>
+>>>>>>> Stashed changes
   </outline>
   <lib>
     <dict>

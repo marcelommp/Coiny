@@ -3,6 +3,7 @@
   <advance width="680"/>
   <unicode hex="0062"/>
   <outline>
+<<<<<<< Updated upstream
     <contour>
       <point x="289.013" y="167.18" type="curve"/>
       <point x="300.629" y="144.981"/>
@@ -46,6 +47,10 @@
       <point x="285.784" y="574.924"/>
       <point x="287.081" y="521.514"/>
     </contour>
+=======
+    <component base="uni0085" xOffset="-23"/>
+    <component base="uni008A" xOffset="124"/>
+>>>>>>> Stashed changes
   </outline>
   <lib>
     <dict>
