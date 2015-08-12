@@ -68,5 +68,11 @@
     <string>q.glif</string>
     <key>k</key>
     <string>k.glif</string>
+    <key>y</key>
+    <string>y.glif</string>
+    <key>j</key>
+    <string>j.glif</string>
+    <key>v</key>
+    <string>v.glif</string>
   </dict>
 </plist>
