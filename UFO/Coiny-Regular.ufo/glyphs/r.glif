@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
+<<<<<<< Updated upstream
   <advance width="579"/>
   <unicode hex="0072"/>
   <outline>
     <component base="uni0083" xOffset="27.4421"/>
     <component base="dotlessi" xOffset="-4.55789"/>
+=======
+  <advance width="561"/>
+  <unicode hex="0072"/>
+  <outline>
+    <component base="uni0083" xOffset="16"/>
+    <component base="dotlessi" xOffset="-23"/>
+>>>>>>> Stashed changes
   </outline>
   <lib>
     <dict>

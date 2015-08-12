@@ -62,17 +62,23 @@
     <string>uni008B_.glif</string>
     <key>dotlessi</key>
     <string>dotlessi.glif</string>
+<<<<<<< Updated upstream
     <key>p</key>
     <string>p.glif</string>
     <key>q</key>
     <string>q.glif</string>
     <key>k</key>
     <string>k.glif</string>
+<<<<<<< HEAD
     <key>y</key>
     <string>y.glif</string>
     <key>j</key>
     <string>j.glif</string>
     <key>v</key>
     <string>v.glif</string>
+=======
+=======
+>>>>>>> Stashed changes
+>>>>>>> origin/gh-pages
   </dict>
 </plist>
