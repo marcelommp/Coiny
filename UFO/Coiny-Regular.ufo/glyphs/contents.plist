@@ -48,12 +48,8 @@
     <string>uni0084.glif</string>
     <key>uni0085</key>
     <string>uni0085.glif</string>
-    <key>uni0086</key>
-    <string>uni0086.glif</string>
     <key>uni0087</key>
     <string>uni0087.glif</string>
-    <key>uni0088</key>
-    <string>uni0088.glif</string>
     <key>uni0089</key>
     <string>uni0089.glif</string>
     <key>uni008A</key>
@@ -62,23 +58,23 @@
     <string>uni008B_.glif</string>
     <key>dotlessi</key>
     <string>dotlessi.glif</string>
-<<<<<<< Updated upstream
     <key>p</key>
     <string>p.glif</string>
     <key>q</key>
     <string>q.glif</string>
     <key>k</key>
     <string>k.glif</string>
-<<<<<<< HEAD
     <key>y</key>
     <string>y.glif</string>
     <key>j</key>
     <string>j.glif</string>
     <key>v</key>
     <string>v.glif</string>
-=======
-=======
->>>>>>> Stashed changes
->>>>>>> origin/gh-pages
+    <key>w</key>
+    <string>w.glif</string>
+    <key>x</key>
+    <string>x.glif</string>
+    <key>z</key>
+    <string>z.glif</string>
   </dict>
 </plist>

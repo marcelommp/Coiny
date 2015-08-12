@@ -2,16 +2,8 @@
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\space \a \b \c \d \e \f \g \h \i \l \m \n \o \r \s \t \u \uni0082 \uni0083 
-	\uni0084 \uni0085 \uni0086 \uni0087 \uni0088 \uni0089 \uni008A \uni008B 
-<<<<<<< HEAD
-	\dotlessi \p \q \k \y \j \v ];
-=======
-<<<<<<< Updated upstream
-	\dotlessi \p \z \q \k \j ];
-=======
-	\dotlessi ];
->>>>>>> Stashed changes
->>>>>>> origin/gh-pages
+	\uni0084 \uni0085 \uni0087 \uni0089 \uni008A \uni008B \dotlessi \p \q \k \y \j \v \w 
+	\x \z ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
