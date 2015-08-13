@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="g" format="1">
-  <advance width="618"/>
+  <advance width="587"/>
   <unicode hex="0067"/>
   <outline>
     <contour>
-      <point x="353.896" y="40" type="curve" smooth="yes"/>
-      <point x="353.896" y="126.49"/>
-      <point x="355.306" y="315"/>
-      <point x="355.306" y="388.514" type="curve" smooth="yes"/>
-      <point x="355.306" y="462.028"/>
-      <point x="395.874" y="511.777"/>
-      <point x="464.177" y="510.964" type="curve" smooth="yes"/>
-      <point x="532.481" y="510.15"/>
-      <point x="586.905" y="489.89"/>
-      <point x="586.905" y="391.695" type="curve" smooth="yes"/>
-      <point x="586.905" y="293.5"/>
-      <point x="590.024" y="103.597"/>
-      <point x="590.024" y="15.8115" type="curve" smooth="yes"/>
-      <point x="590.024" y="-148"/>
-      <point x="485.598" y="-220.229"/>
-      <point x="314.604" y="-220.229" type="curve" smooth="yes"/>
-      <point x="148.089" y="-220.229"/>
-      <point x="56.9189" y="-118.5"/>
-      <point x="56.9189" y="-70" type="curve" smooth="yes"/>
-      <point x="56.9189" y="-49"/>
-      <point x="73.9189" y="-29.0879"/>
-      <point x="108.845" y="-29.0879" type="curve" smooth="yes"/>
-      <point x="127.676" y="-29.0879"/>
-      <point x="141.365" y="-47.7803"/>
-      <point x="176" y="-57.9492" type="curve" smooth="yes"/>
-      <point x="203.419" y="-66"/>
-      <point x="238.386" y="-70"/>
-      <point x="272.419" y="-70" type="curve" smooth="yes"/>
-      <point x="340.995" y="-70"/>
-      <point x="353.896" y="-24.5"/>
+      <point x="363.521" y="13.4775" type="curve" smooth="yes"/>
+      <point x="363.521" y="82.6689"/>
+      <point x="364.649" y="233.478"/>
+      <point x="364.649" y="292.288" type="curve" smooth="yes"/>
+      <point x="364.649" y="351.1"/>
+      <point x="397.104" y="390.899"/>
+      <point x="451.746" y="390.248" type="curve" smooth="yes"/>
+      <point x="506.39" y="389.598"/>
+      <point x="549.929" y="373.389"/>
+      <point x="549.929" y="294.833" type="curve" smooth="yes"/>
+      <point x="549.929" y="216.277"/>
+      <point x="552.424" y="64.3545"/>
+      <point x="552.424" y="-5.87402" type="curve" smooth="yes"/>
+      <point x="552.424" y="-136.923"/>
+      <point x="468.883" y="-194.706"/>
+      <point x="332.087" y="-194.706" type="curve" smooth="yes"/>
+      <point x="198.876" y="-194.706"/>
+      <point x="125.939" y="-113.323"/>
+      <point x="125.939" y="-74.5225" type="curve" smooth="yes"/>
+      <point x="125.939" y="-57.7227"/>
+      <point x="139.54" y="-41.793"/>
+      <point x="167.48" y="-41.793" type="curve" smooth="yes"/>
+      <point x="182.545" y="-41.793"/>
+      <point x="193.497" y="-56.7471"/>
+      <point x="221.204" y="-64.8818" type="curve" smooth="yes"/>
+      <point x="243.14" y="-71.3232"/>
+      <point x="271.113" y="-74.5225"/>
+      <point x="298.34" y="-74.5225" type="curve" smooth="yes"/>
+      <point x="353.2" y="-74.5225"/>
+      <point x="363.521" y="-38.123"/>
     </contour>
-    <component base="uni0089" xOffset="3.77614"/>
+    <component base="uni0089" xOffset="19.0558"/>
   </outline>
   <lib>
     <dict>
@@ -45,42 +45,42 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-240</integer>
+            <integer>-211</integer>
             <key>width</key>
-            <integer>170</integer>
+            <integer>136</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>-4</integer>
+            <integer>-22</integer>
             <key>width</key>
-            <integer>134</integer>
+            <integer>107</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>380</integer>
+            <integer>285</integer>
             <key>width</key>
-            <integer>135</integer>
+            <integer>108</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>2</integer>
+            <integer>82</integer>
             <key>width</key>
-            <integer>236</integer>
+            <integer>189</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>354</integer>
+            <integer>363</integer>
             <key>width</key>
-            <integer>236</integer>
+            <integer>189</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>372</integer>
+            <integer>378</integer>
             <key>width</key>
-            <integer>102</integer>
+            <integer>82</integer>
           </dict>
         </array>
       </dict>
