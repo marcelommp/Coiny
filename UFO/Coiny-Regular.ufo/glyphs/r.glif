@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="344"/>
+  <advance width="436"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="327.385" y="314.891" type="curve" smooth="yes"/>
-      <point x="327.385" y="240.49"/>
-      <point x="297.785" y="220.49"/>
-      <point x="246.585" y="220.49" type="curve" smooth="yes"/>
-      <point x="190.585" y="220.49"/>
-      <point x="177.337" y="282.092"/>
-      <point x="151.434" y="282.092" type="curve" smooth="yes"/>
-      <point x="125.529" y="282.092"/>
-      <point x="122.471" y="262.66"/>
-      <point x="123.209" y="219.748" type="curve"/>
-      <point x="48.0088" y="219.292" type="line"/>
-      <point x="48.0088" y="270.963"/>
-      <point x="69.5068" y="327.899"/>
-      <point x="108.911" y="362.283" type="curve" smooth="yes"/>
-      <point x="149.033" y="397.291"/>
-      <point x="168.985" y="412.091"/>
-      <point x="230.612" y="412.436" type="curve" smooth="yes"/>
-      <point x="296.478" y="412.804"/>
-      <point x="327.385" y="379.69"/>
+      <point x="424" y="314.891" type="curve" smooth="yes"/>
+      <point x="424" y="240.49"/>
+      <point x="394.4" y="220.49"/>
+      <point x="343.2" y="220.49" type="curve" smooth="yes"/>
+      <point x="287.2" y="220.49"/>
+      <point x="273.952" y="282.092"/>
+      <point x="248.049" y="282.092" type="curve" smooth="yes"/>
+      <point x="222.145" y="282.092"/>
+      <point x="219.086" y="262.66"/>
+      <point x="219.824" y="219.748" type="curve"/>
+      <point x="144.624" y="219.292" type="line"/>
+      <point x="144.624" y="270.963"/>
+      <point x="166.122" y="327.899"/>
+      <point x="205.526" y="362.283" type="curve" smooth="yes"/>
+      <point x="245.648" y="397.291"/>
+      <point x="265.601" y="412.091"/>
+      <point x="327.228" y="412.436" type="curve" smooth="yes"/>
+      <point x="393.093" y="412.804"/>
+      <point x="424" y="379.69"/>
     </contour>
-    <component base="dotlessi" xOffset="-147.429"/>
+    <component base="dotlessi" xOffset="-50.8132"/>
   </outline>
   <lib>
     <dict>
@@ -43,13 +43,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-65</integer>
+            <integer>32</integer>
             <key>width</key>
             <integer>189</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>48</integer>
+            <integer>145</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>

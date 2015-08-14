@@ -3,7 +3,7 @@
 
 @GDEF_Simple = [\space \a \b \c \d \e \f \g \h \i \l \m \n \o \r \s \t \u \uni0082 \uni0083 
 	\uni0084 \uni0085 \uni0087 \uni0089 \uni008A \uni008B \dotlessi \p \q \k \y \j \v \w 
-	\x \z \uni0B85 \uni0B86 \glyph39 \glyph40 ];
+	\x \z \uni0B85 \uni0B86 ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
