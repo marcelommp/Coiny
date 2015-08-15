@@ -4,7 +4,7 @@
   <unicode hex="0070"/>
   <outline>
     <component base="uni008A" xOffset="68.643"/>
-    <component base="uni0085" xOffset="-48.1569" yOffset="-176.8"/>
+    <component base="uni0085" xOffset="-48.1569" yOffset="-180.8"/>
   </outline>
   <lib>
     <dict>
@@ -14,9 +14,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-178</integer>
+            <integer>-187</integer>
             <key>width</key>
-            <integer>586</integer>
+            <integer>595</integer>
           </dict>
           <dict>
             <key>position</key>

@@ -3,8 +3,8 @@
   <advance width="511"/>
   <unicode hex="0075"/>
   <outline>
-    <component base="uni0084" xOffset="-47.7907" yOffset="-3"/>
-    <component base="dotlessi" xOffset="205.73" yOffset="-3"/>
+    <component base="uni0084" xOffset="-47.7907" yOffset="2"/>
+    <component base="dotlessi" xOffset="205.73" yOffset="-1"/>
   </outline>
   <lib>
     <dict>
@@ -14,7 +14,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-2</integer>
+            <integer>-7</integer>
+            <key>width</key>
+            <integer>415</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-4</integer>
             <key>width</key>
             <integer>134</integer>
           </dict>

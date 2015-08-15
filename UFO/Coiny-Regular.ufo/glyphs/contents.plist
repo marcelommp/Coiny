@@ -2,10 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>.notdef</key>
-    <string>_notdef.glif</string>
     <key>space</key>
     <string>space.glif</string>
+    <key>uni0B85</key>
+    <string>uni0B_85.glif</string>
+    <key>uni0B86</key>
+    <string>uni0B_86.glif</string>
+    <key>uni0B87</key>
+    <string>uni0B_87.glif</string>
+    <key>uni0B88</key>
+    <string>uni0B_88.glif</string>
+    <key>uni0B8E</key>
+    <string>uni0B_8E_.glif</string>
+    <key>uni0B8F</key>
+    <string>uni0B_8F_.glif</string>
+    <key>uni0BBE</key>
+    <string>uni0B_B_E_.glif</string>
+    <key>colon</key>
+    <string>colon.glif</string>
+    <key>period</key>
+    <string>period.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>b</key>
@@ -24,6 +40,10 @@
     <string>h.glif</string>
     <key>i</key>
     <string>i.glif</string>
+    <key>j</key>
+    <string>j.glif</string>
+    <key>k</key>
+    <string>k.glif</string>
     <key>l</key>
     <string>l.glif</string>
     <key>m</key>
@@ -32,6 +52,10 @@
     <string>n.glif</string>
     <key>o</key>
     <string>o.glif</string>
+    <key>p</key>
+    <string>p.glif</string>
+    <key>q</key>
+    <string>q.glif</string>
     <key>r</key>
     <string>r.glif</string>
     <key>s</key>
@@ -40,6 +64,22 @@
     <string>t.glif</string>
     <key>u</key>
     <string>u.glif</string>
+    <key>v</key>
+    <string>v.glif</string>
+    <key>w</key>
+    <string>w.glif</string>
+    <key>x</key>
+    <string>x.glif</string>
+    <key>y</key>
+    <string>y.glif</string>
+    <key>z</key>
+    <string>z.glif</string>
+    <key>dotlessi</key>
+    <string>dotlessi.glif</string>
+    <key>quotesingle</key>
+    <string>quotesingle.glif</string>
+    <key>.notdef</key>
+    <string>_notdef.glif</string>
     <key>uni0082</key>
     <string>uni0082.glif</string>
     <key>uni0083</key>
@@ -56,33 +96,5 @@
     <string>uni008A_.glif</string>
     <key>uni008B</key>
     <string>uni008B_.glif</string>
-    <key>dotlessi</key>
-    <string>dotlessi.glif</string>
-    <key>p</key>
-    <string>p.glif</string>
-    <key>q</key>
-    <string>q.glif</string>
-    <key>k</key>
-    <string>k.glif</string>
-    <key>y</key>
-    <string>y.glif</string>
-    <key>j</key>
-    <string>j.glif</string>
-    <key>v</key>
-    <string>v.glif</string>
-    <key>w</key>
-    <string>w.glif</string>
-    <key>x</key>
-    <string>x.glif</string>
-    <key>z</key>
-    <string>z.glif</string>
-    <key>uni0B85</key>
-    <string>uni0B_85.glif</string>
-    <key>uni0B86</key>
-    <string>uni0B_86.glif</string>
-    <key>uni0B87</key>
-    <string>uni0B_87.glif</string>
-    <key>period</key>
-    <string>period.glif</string>
   </dict>
 </plist>

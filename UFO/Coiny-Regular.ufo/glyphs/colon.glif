@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="l" format="1">
-  <advance width="261"/>
-  <unicode hex="006C"/>
+<glyph name="colon" format="1">
+  <advance width="275"/>
+  <unicode hex="003A"/>
   <outline>
-    <component base="uni0085" xOffset="-45.5857"/>
+    <component base="period" yOffset="283"/>
+    <component base="period"/>
   </outline>
   <lib>
     <dict>
@@ -15,16 +16,22 @@
             <key>position</key>
             <integer>-6</integer>
             <key>width</key>
-            <integer>595</integer>
+            <integer>132</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>277</integer>
+            <key>width</key>
+            <integer>132</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>36</integer>
+            <integer>41</integer>
             <key>width</key>
-            <integer>190</integer>
+            <integer>189</integer>
           </dict>
         </array>
       </dict>
