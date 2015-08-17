@@ -1,27 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni008B" format="1">
-  <advance width="492"/>
+  <advance width="532"/>
   <unicode hex="008B"/>
   <outline>
     <contour>
-      <point x="308.618" y="447.861" type="curve" smooth="yes"/>
-      <point x="245.484" y="448.597"/>
-      <point x="180.587" y="448.923"/>
-      <point x="111.432" y="448.923" type="curve" smooth="yes"/>
-      <point x="46" y="448.923"/>
-      <point x="35.4932" y="427"/>
-      <point x="35.4932" y="393.098" type="curve" smooth="yes"/>
-      <point x="35.4932" y="360.541"/>
-      <point x="53.4414" y="342.617"/>
-      <point x="106" y="342" type="curve" smooth="yes"/>
-      <point x="158.561" y="341.382"/>
-      <point x="239.127" y="338.7"/>
-      <point x="300.476" y="338.7" type="curve" smooth="yes"/>
-      <point x="363" y="338.7"/>
-      <point x="392.171" y="349.011"/>
-      <point x="392.171" y="389.724" type="curve" smooth="yes"/>
-      <point x="392.171" y="434"/>
-      <point x="371.751" y="447.126"/>
+      <point x="328.618" y="454" type="curve" smooth="yes"/>
+      <point x="131.432" y="454" type="line" smooth="yes"/>
+      <point x="71" y="454"/>
+      <point x="55.4932" y="430"/>
+      <point x="55.4932" y="399.098" type="curve" smooth="yes"/>
+      <point x="55.4932" y="366.541"/>
+      <point x="73.4541" y="348"/>
+      <point x="126" y="348" type="curve" smooth="yes"/>
+      <point x="320.476" y="348" type="line" smooth="yes"/>
+      <point x="382.985" y="348"/>
+      <point x="412.171" y="357.644"/>
+      <point x="412.171" y="395.724" type="curve" smooth="yes"/>
+      <point x="412.171" y="440"/>
+      <point x="391.753" y="453.66"/>
     </contour>
   </outline>
   <lib>
@@ -32,9 +28,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>339</integer>
+            <integer>348</integer>
             <key>width</key>
-            <integer>109</integer>
+            <integer>106</integer>
           </dict>
         </array>
       </dict>
