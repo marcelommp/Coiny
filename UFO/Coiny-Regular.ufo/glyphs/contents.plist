@@ -116,5 +116,31 @@
     <string>plus.glif</string>
     <key>hyphen</key>
     <string>hyphen.glif</string>
+    <key>uni0BB0</key>
+    <string>uni0B_B_0.glif</string>
+    <key>uni0B89</key>
+    <string>uni0B_89.glif</string>
+    <key>uni0B8A</key>
+    <string>uni0B_8A_.glif</string>
+    <key>uni0BA8</key>
+    <string>uni0B_A_8.glif</string>
+    <key>uni0BAA</key>
+    <string>uni0B_A_A_.glif</string>
+    <key>uni0B9F</key>
+    <string>uni0B_9F_.glif</string>
+    <key>uni0B82</key>
+    <string>uni0B_82.glif</string>
+    <key>uni0B83</key>
+    <string>uni0B_83.glif</string>
+    <key>I</key>
+    <string>I_.glif</string>
+    <key>E</key>
+    <string>E_.glif</string>
+    <key>T</key>
+    <string>T_.glif</string>
+    <key>F</key>
+    <string>F_.glif</string>
+    <key>J</key>
+    <string>J_.glif</string>
   </dict>
 </plist>

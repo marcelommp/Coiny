@@ -19,8 +19,8 @@
       <point x="197.507" y="349"/>
       <point x="257.938" y="349" type="curve" smooth="yes"/>
     </contour>
-    <component base="L" xOffset="336"/>
-    <component base="L" xOffset="-24"/>
+    <component base="I" xOffset="337"/>
+    <component base="I" xOffset="-23"/>
   </outline>
   <lib>
     <dict>
