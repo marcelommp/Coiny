@@ -6,7 +6,12 @@
 	\z \dotlessi \quotesingle \uni0082 \uni0083 \uni0084 \uni0085 \uni0087 \uni0089 
 	\uni008A \uni008B \H \grave \A \L \O \uni0B9E \comma \plus \hyphen \uni0BB0 \uni0B89 
 	\uni0B8A \uni0BA8 \uni0BAA \uni0B9F \uni0B82 \uni0B83 \I \E \T \F \J \K \P \R \B \S \V \N 
-	\U \D \M \C \G \Q \W \Z \Y \X \backslash ];
+	\U \D \M \C \G \Q \W \Z \Y \X \semicolon \ellipsis \exclam \exclamdown \question 
+	\questiondown \quoteleft \quoteright \quotedblleft \quotedblright 
+	\quotesinglbase \quotedblbase \guilsinglleft \guilsinglright \guillemotleft 
+	\guillemotright \parenleft \parenright \braceleft \braceright \bracketleft 
+	\bracketright \bar \slash \endash \emdash \bullet \periodcentered \asterisk 
+	\dagger \daggerdbl \section \paragraph ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;
