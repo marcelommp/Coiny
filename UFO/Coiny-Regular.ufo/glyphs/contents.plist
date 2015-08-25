@@ -260,5 +260,25 @@
     <string>uni0B_B_4.glif</string>
     <key>uni0BB7</key>
     <string>uni0B_B_7.glif</string>
+    <key>uni0BB8</key>
+    <string>uni0B_B_8.glif</string>
+    <key>uni0BB9</key>
+    <string>uni0B_B_9.glif</string>
+    <key>uni0BA3</key>
+    <string>uni0B_A_3.glif</string>
+    <key>uni0BA9</key>
+    <string>uni0B_A_9.glif</string>
+    <key>zero</key>
+    <string>zero.glif</string>
+    <key>one</key>
+    <string>one.glif</string>
+    <key>two</key>
+    <string>two.glif</string>
+    <key>three</key>
+    <string>three.glif</string>
+    <key>four</key>
+    <string>four.glif</string>
+    <key>seven</key>
+    <string>seven.glif</string>
   </dict>
 </plist>

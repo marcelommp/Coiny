@@ -48,7 +48,7 @@
       <point x="994.99" y="-333.31"/>
       <point x="1032.85" y="-327.832"/>
     </contour>
-    <component base="uni0B85" xOffset="-82" yOffset="-5"/>
+    <component base="uni0B85" xOffset="-82" yOffset="1"/>
   </outline>
   <lib>
     <dict>
