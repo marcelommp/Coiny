@@ -242,5 +242,23 @@
     <string>section.glif</string>
     <key>paragraph</key>
     <string>paragraph.glif</string>
+    <key>uni0BB3</key>
+    <string>uni0B_B_3.glif</string>
+    <key>uni0BB5</key>
+    <string>uni0B_B_5.glif</string>
+    <key>uni0BB2</key>
+    <string>uni0B_B_2.glif</string>
+    <key>uni0BAE</key>
+    <string>uni0B_A_E_.glif</string>
+    <key>uni0BAF</key>
+    <string>uni0B_A_F_.glif</string>
+    <key>uni0BB1</key>
+    <string>uni0B_B_1.glif</string>
+    <key>uni0BB6</key>
+    <string>uni0B_B_6.glif</string>
+    <key>uni0BB4</key>
+    <string>uni0B_B_4.glif</string>
+    <key>uni0BB7</key>
+    <string>uni0B_B_7.glif</string>
   </dict>
 </plist>
