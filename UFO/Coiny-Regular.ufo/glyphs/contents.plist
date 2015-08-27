@@ -280,5 +280,13 @@
     <string>four.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
+    <key>six</key>
+    <string>six.glif</string>
+    <key>five</key>
+    <string>five.glif</string>
+    <key>nine</key>
+    <string>nine.glif</string>
+    <key>eight</key>
+    <string>eight.glif</string>
   </dict>
 </plist>

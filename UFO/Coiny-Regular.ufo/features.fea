@@ -13,7 +13,7 @@
 	\bracketright \bar \slash \endash \emdash \bullet \periodcentered \asterisk 
 	\dagger \daggerdbl \section \paragraph \uni0BB3 \uni0BB5 \uni0BB2 \uni0BAE 
 	\uni0BAF \uni0BB1 \uni0BB6 \uni0BB4 \uni0BB7 \uni0BB8 \uni0BB9 \uni0BA3 \uni0BA9 
-	\zero \one \two \three \four \seven ];
+	\zero \one \two \three \four \seven \six \five \nine \eight \equal ];
 
 table GDEF {
   GlyphClassDef @GDEF_Simple, , , ;

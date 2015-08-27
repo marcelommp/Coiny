@@ -66,7 +66,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 476 17 7
+WinInfo: 0 17 7
 BeginPrivate: 5
 BlueValues 14 [-4 0 515 515]
 OtherBlues 11 [-240 -240]
@@ -5398,6 +5398,7 @@ EndChar
 
 StartChar: uni0BB1
 Encoding: 33 2993 125
+GlifName: uni0B_B_1
 Width: 808
 VWidth: 0
 Flags: HW
@@ -5435,6 +5436,7 @@ EndChar
 
 StartChar: uni0BB6
 Encoding: 38 2998 126
+GlifName: uni0B_B_6
 Width: 1018
 VWidth: 0
 Flags: HW
@@ -5474,6 +5476,7 @@ EndChar
 
 StartChar: uni0BB4
 Encoding: 36 2996 127
+GlifName: uni0B_B_4
 Width: 794
 VWidth: 0
 Flags: HW
@@ -5506,6 +5509,7 @@ EndChar
 
 StartChar: uni0BB7
 Encoding: 39 2999 128
+GlifName: uni0B_B_7
 Width: 1408
 VWidth: 0
 Flags: HW
@@ -5646,6 +5650,7 @@ EndChar
 
 StartChar: uni0BB8
 Encoding: 40 3000 129
+GlifName: uni0B_B_8
 Width: 1345
 VWidth: 0
 Flags: HW
@@ -5695,6 +5700,7 @@ EndChar
 
 StartChar: uni0BB9
 Encoding: 41 3001 130
+GlifName: uni0B_B_9
 Width: 1665
 VWidth: 0
 Flags: HW
@@ -5758,6 +5764,7 @@ EndChar
 
 StartChar: uni0BA3
 Encoding: 25 2979 131
+GlifName: uni0B_A_3
 Width: 1791
 VWidth: 0
 Flags: HW
@@ -5845,6 +5852,7 @@ EndChar
 
 StartChar: uni0BA9
 Encoding: 28 2985 132
+GlifName: uni0B_A_9
 Width: 1791
 VWidth: 0
 Flags: HW
@@ -5943,6 +5951,7 @@ EndChar
 
 StartChar: zero
 Encoding: 491 48 133
+GlifName: zero
 Width: 574
 VWidth: 0
 Flags: HW
@@ -5965,6 +5974,7 @@ EndChar
 
 StartChar: one
 Encoding: 492 49 134
+GlifName: one
 Width: 359
 VWidth: 0
 Flags: HW
@@ -5986,6 +5996,7 @@ EndChar
 
 StartChar: two
 Encoding: 493 50 135
+GlifName: two
 Width: 527
 VWidth: 0
 Flags: HW
@@ -6014,6 +6025,7 @@ EndChar
 
 StartChar: three
 Encoding: 494 51 136
+GlifName: three
 Width: 662
 VWidth: 0
 Flags: HW
@@ -6024,6 +6036,7 @@ EndChar
 
 StartChar: four
 Encoding: 495 52 137
+GlifName: four
 Width: 508
 VWidth: 0
 Flags: HW
@@ -6052,6 +6065,7 @@ EndChar
 
 StartChar: seven
 Encoding: 498 55 138
+GlifName: seven
 Width: 541
 VWidth: 0
 Flags: HW
