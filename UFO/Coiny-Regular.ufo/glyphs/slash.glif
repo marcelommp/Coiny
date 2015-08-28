@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="1">
-  <advance width="980"/>
+  <advance width="498"/>
   <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="260.596" y="51.4053" type="line" smooth="yes"/>
+      <point x="242.243" y="15.6123"/>
+      <point x="219.966" y="0.113281"/>
+      <point x="192.497" y="0.113281" type="curve" smooth="yes"/>
+      <point x="138.807" y="0.113281"/>
+      <point x="76" y="48.7441"/>
+      <point x="76" y="90" type="curve" smooth="yes"/>
+      <point x="76" y="102.311"/>
+      <point x="80.833" y="116.129"/>
+      <point x="88.8926" y="131.985" type="curve" smooth="yes"/>
+      <point x="303.911" y="554.963" type="line" smooth="yes"/>
+      <point x="318.81" y="584.014"/>
+      <point x="341.03" y="596.183"/>
+      <point x="366.497" y="596.183" type="curve" smooth="yes"/>
+      <point x="416.186" y="596.183"/>
+      <point x="487.839" y="552.243"/>
+      <point x="487.839" y="513" type="curve" smooth="yes"/>
+      <point x="487.839" y="501.91"/>
+      <point x="485.132" y="489.306"/>
+      <point x="477.622" y="474.663" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
 </glyph>

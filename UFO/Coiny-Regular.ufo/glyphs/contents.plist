@@ -288,5 +288,13 @@
     <string>nine.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>underscore</key>
+    <string>underscore.glif</string>
+    <key>acute</key>
+    <string>acute.glif</string>
+    <key>circumflex</key>
+    <string>circumflex.glif</string>
+    <key>dieresis</key>
+    <string>dieresis.glif</string>
   </dict>
 </plist>
