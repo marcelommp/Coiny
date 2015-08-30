@@ -4,41 +4,44 @@
   <unicode hex="0072"/>
   <outline>
     <contour>
-      <point x="222" y="92.8662" type="line" smooth="yes"/>
-      <point x="222" y="22.6387"/>
-      <point x="196" y="0.0947266"/>
-      <point x="123.346" y="0.0947266" type="curve" smooth="yes"/>
-      <point x="52" y="0.0947266"/>
-      <point x="35" y="33.3027"/>
-      <point x="35" y="102.494" type="curve" smooth="yes"/>
-      <point x="35" y="316.906" type="line" smooth="yes"/>
-      <point x="35" y="375.717"/>
-      <point x="69" y="414.866"/>
-      <point x="122.819" y="414.866" type="curve" smooth="yes"/>
-      <point x="177.466" y="414.866"/>
-      <point x="222" y="398.007"/>
-      <point x="222" y="319.45" type="curve" smooth="yes"/>
+      <point x="222.779" y="106.704" type="line" smooth="yes"/>
+      <point x="222.779" y="46.5664"/>
+      <point x="172.46" y="0.0175781"/>
+      <point x="109.326" y="0.0175781" type="qcurve" smooth="yes"/>
+      <point x="50.3203" y="0.0175781"/>
+      <point x="7.72949" y="54.8428"/>
+      <point x="7.72949" y="117.776" type="qcurve" smooth="yes"/>
+      <point x="7.72949" y="364.351" type="line" smooth="yes"/>
+      <point x="7.72949" y="415.328"/>
+      <point x="62.5273" y="477.004"/>
+      <point x="108.722" y="477.004" type="qcurve" smooth="yes"/>
+      <point x="162.453" y="477.004"/>
+      <point x="222.779" y="429.875"/>
+      <point x="222.779" y="367.276" type="qcurve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="172.612" y="339" type="curve" smooth="yes"/>
-      <point x="193.612" y="369"/>
-      <point x="251.813" y="414.857"/>
-      <point x="307.612" y="414.857" type="curve" smooth="yes"/>
-      <point x="368.813" y="414.857"/>
-      <point x="398.612" y="387"/>
-      <point x="398.612" y="328" type="curve" smooth="yes"/>
-      <point x="398.612" y="282"/>
-      <point x="369.612" y="250"/>
-      <point x="326.612" y="250" type="curve" smooth="yes"/>
-      <point x="281.612" y="250"/>
-      <point x="283.612" y="280.742"/>
-      <point x="250.813" y="280.742" type="curve" smooth="yes"/>
-      <point x="218.612" y="280.742"/>
-      <point x="211.242" y="253.884"/>
-      <point x="211.242" y="216.069" type="curve"/>
-      <point x="135.009" y="215.325" type="line"/>
-      <point x="135.009" y="266.004"/>
-      <point x="138.116" y="289.72"/>
+      <point x="165.983" y="389.758" type="qcurve" smooth="yes"/>
+      <point x="175.485" y="403.333"/>
+      <point x="207.884" y="432.767"/>
+      <point x="248.76" y="459.648"/>
+      <point x="298.399" y="476.994"/>
+      <point x="321.233" y="476.994" type="qcurve" smooth="yes"/>
+      <point x="425.883" y="476.994"/>
+      <point x="425.883" y="377.108" type="qcurve" smooth="yes"/>
+      <point x="425.883" y="350.901"/>
+      <point x="405.245" y="310.095"/>
+      <point x="367.493" y="287.408"/>
+      <point x="343.083" y="287.408" type="qcurve" smooth="yes"/>
+      <point x="321.131" y="287.408"/>
+      <point x="293.458" y="305.085"/>
+      <point x="271.241" y="322.762"/>
+      <point x="255.915" y="322.762" type="qcurve" smooth="yes"/>
+      <point x="229.982" y="322.762"/>
+      <point x="210.407" y="284.593"/>
+      <point x="210.407" y="248.388" type="qcurve"/>
+      <point x="122.739" y="247.532" type="line"/>
+      <point x="122.739" y="294.826"/>
+      <point x="137.865" y="349.59"/>
     </contour>
   </outline>
   <lib>
@@ -51,28 +54,28 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>415</integer>
+            <integer>477</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>281</integer>
+            <integer>323</integer>
             <key>width</key>
-            <integer>134</integer>
+            <integer>154</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>44</integer>
+            <integer>18</integer>
             <key>width</key>
-            <integer>189</integer>
+            <integer>217</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>135</integer>
+            <integer>123</integer>
             <key>width</key>
-            <integer>76</integer>
+            <integer>87</integer>
           </dict>
         </array>
       </dict>

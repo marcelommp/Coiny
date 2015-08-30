@@ -3,8 +3,8 @@
   <advance width="228"/>
   <unicode hex="003A"/>
   <outline>
-    <component base="period" xOffset="9.99992" yOffset="294"/>
-    <component base="period" xOffset="9.99992" yOffset="-1"/>
+    <component base="period" xOffset="11.4999" yOffset="338.1"/>
+    <component base="period" xOffset="11.4999" yOffset="-1.15"/>
   </outline>
   <lib>
     <dict>
@@ -14,24 +14,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-5</integer>
+            <integer>-6</integer>
             <key>width</key>
-            <integer>132</integer>
+            <integer>152</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>278</integer>
+            <integer>320</integer>
             <key>width</key>
-            <integer>132</integer>
+            <integer>152</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>29</integer>
+            <integer>16</integer>
             <key>width</key>
-            <integer>189</integer>
+            <integer>217</integer>
           </dict>
         </array>
       </dict>

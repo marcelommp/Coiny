@@ -4,18 +4,19 @@
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="29" y="213" type="curve" smooth="yes"/>
-      <point x="29" y="147.487"/>
-      <point x="79.3311" y="125.841"/>
-      <point x="132.165" y="125.841" type="curve" smooth="yes"/>
-      <point x="194.223" y="125.841"/>
-      <point x="235.165" y="145.157"/>
-      <point x="235.165" y="218" type="curve" smooth="yes"/>
-      <point x="235.165" y="277.166"/>
-      <point x="199.848" y="305"/>
-      <point x="131.165" y="305" type="curve" smooth="yes"/>
-      <point x="64.0215" y="305"/>
-      <point x="29" y="265.293"/>
+      <point x="13.5381" y="243.667" type="qcurve" smooth="yes"/>
+      <point x="13.5381" y="191.196"/>
+      <point x="80.917" y="143.435"/>
+      <point x="132.178" y="143.435" type="qcurve" smooth="yes"/>
+      <point x="190.302" y="143.435"/>
+      <point x="250.627" y="190.152"/>
+      <point x="250.627" y="249.417" type="qcurve" smooth="yes"/>
+      <point x="250.627" y="349.467"/>
+      <point x="131.027" y="349.467" type="qcurve" smooth="yes"/>
+      <point x="102.729" y="349.467"/>
+      <point x="57.6797" y="333.377"/>
+      <point x="28.7559" y="304.801"/>
+      <point x="13.5381" y="266.396"/>
     </contour>
   </outline>
 </glyph>

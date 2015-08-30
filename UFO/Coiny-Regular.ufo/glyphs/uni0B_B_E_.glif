@@ -4,22 +4,23 @@
   <unicode hex="0BBE"/>
   <outline>
     <contour>
-      <point x="686" y="415" type="line" smooth="yes"/>
-      <point x="735.223" y="415"/>
-      <point x="749.695" y="400.803"/>
-      <point x="749.695" y="359" type="curve" smooth="yes"/>
-      <point x="749.695" y="315.476"/>
-      <point x="724" y="306"/>
-      <point x="681" y="306" type="curve" smooth="yes"/>
-      <point x="681" y="306"/>
-      <point x="278" y="306"/>
-      <point x="56" y="306" type="curve"/>
-      <point x="56" y="372.146"/>
-      <point x="89.3813" y="415"/>
-      <point x="146" y="415" type="curve" smooth="yes"/>
+      <point x="730.35" y="477.158" type="line" smooth="yes"/>
+      <point x="772.42" y="477.158"/>
+      <point x="788.01" y="463.158" type="qcurve" smooth="yes"/>
+      <point x="803.599" y="449.158"/>
+      <point x="803.599" y="412.758" type="qcurve" smooth="yes"/>
+      <point x="803.599" y="377.384"/>
+      <point x="784.279" y="364.596" type="qcurve" smooth="yes"/>
+      <point x="764.959" y="351.809"/>
+      <point x="724.6" y="351.809" type="qcurve" smooth="yes"/>
+      <point x="5.84961" y="351.809" type="line"/>
+      <point x="5.84961" y="409.309"/>
+      <point x="33.4502" y="443.233" type="qcurve" smooth="yes"/>
+      <point x="61.0498" y="477.158"/>
+      <point x="109.35" y="477.158" type="qcurve" smooth="yes"/>
     </contour>
-    <component base="dotlessi" xOffset="311"/>
-    <component base="dotlessi" xOffset="-48"/>
+    <component base="dotlessi" xOffset="357.65"/>
+    <component base="dotlessi" xOffset="-55.2"/>
   </outline>
   <lib>
     <dict>
@@ -31,28 +32,28 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>415</integer>
+            <integer>477</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>306</integer>
+            <integer>352</integer>
             <key>width</key>
-            <integer>109</integer>
+            <integer>125</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>54</integer>
+            <integer>4</integer>
             <key>width</key>
-            <integer>189</integer>
+            <integer>217</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>413</integer>
+            <integer>416</integer>
             <key>width</key>
-            <integer>189</integer>
+            <integer>217</integer>
           </dict>
         </array>
       </dict>
