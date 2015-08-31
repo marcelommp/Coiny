@@ -1,46 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="1">
-  <advance width="382"/>
+  <advance width="458"/>
   <unicode hex="02C6"/>
   <outline>
-    <contour>
-      <point x="251.123" y="895" type="qcurve" smooth="yes"/>
-      <point x="299.612" y="853.974"/>
-      <point x="362.855" y="793.557" type="qcurve" smooth="yes"/>
-      <point x="364.305" y="792.172"/>
-      <point x="367.216" y="789.41" type="qcurve" smooth="yes"/>
-      <point x="382.01" y="775.374"/>
-      <point x="396.784" y="759.132"/>
-      <point x="411.54" y="729.579"/>
-      <point x="411.54" y="714.021" type="qcurve" smooth="yes"/>
-      <point x="411.54" y="684.37"/>
-      <point x="372.537" y="646.999"/>
-      <point x="342.375" y="646.999" type="qcurve" smooth="yes"/>
-      <point x="311.969" y="646.999"/>
-      <point x="276.203" y="666.373" type="qcurve" smooth="yes"/>
-      <point x="256.627" y="676.973"/>
-      <point x="202.979" y="705.173"/>
-      <point x="191.15" y="711.645" type="qcurve"/>
-      <point x="184.398" y="707.95"/>
-      <point x="169.046" y="699.769"/>
-      <point x="153.695" y="691.702"/>
-      <point x="137.442" y="683.156"/>
-      <point x="116.531" y="672.022"/>
-      <point x="106.098" y="666.373" type="qcurve" smooth="yes"/>
-      <point x="70.332" y="646.999"/>
-      <point x="39.9258" y="646.999" type="qcurve" smooth="yes"/>
-      <point x="9.7627" y="646.999"/>
-      <point x="-29.2393" y="684.37"/>
-      <point x="-29.2393" y="714.021" type="qcurve" smooth="yes"/>
-      <point x="-29.2393" y="730.504"/>
-      <point x="-11.6162" y="762.809"/>
-      <point x="1.4541" y="776.371"/>
-      <point x="19.4453" y="793.557" type="qcurve" smooth="yes"/>
-      <point x="82.6885" y="853.974"/>
-      <point x="131.178" y="895" type="qcurve" smooth="yes"/>
-      <point x="159.771" y="919.197"/>
-      <point x="194.025" y="919.197" type="qcurve" smooth="yes"/>
-      <point x="222.528" y="919.197"/>
-    </contour>
+    <component base="asciicircum"/>
   </outline>
 </glyph>

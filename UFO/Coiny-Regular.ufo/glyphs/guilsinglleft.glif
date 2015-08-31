@@ -1,34 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft" format="1">
-  <advance width="324"/>
+  <advance width="471"/>
   <unicode hex="2039"/>
   <outline>
-    <contour>
-      <point x="180.027" y="110.22" type="qcurve" smooth="yes"/>
-      <point x="59.5059" y="179.804" type="line" smooth="yes"/>
-      <point x="28.502" y="197.703"/>
-      <point x="7.46094" y="230.354"/>
-      <point x="7.46094" y="255.947" type="qcurve" smooth="yes"/>
-      <point x="7.46094" y="292.21"/>
-      <point x="59.5059" y="322.257" type="qcurve" smooth="yes"/>
-      <point x="180.027" y="391.841" type="line" smooth="yes"/>
-      <point x="221.793" y="415.954"/>
-      <point x="245.049" y="415.954" type="qcurve" smooth="yes"/>
-      <point x="266.921" y="415.954"/>
-      <point x="310.782" y="369.356"/>
-      <point x="310.782" y="341.047" type="qcurve" smooth="yes"/>
-      <point x="310.782" y="322.379"/>
-      <point x="276.531" y="288.209"/>
-      <point x="240.918" y="267.648" type="qcurve" smooth="yes"/>
-      <point x="212.136" y="251.03" type="line"/>
-      <point x="240.918" y="234.412" type="line" smooth="yes"/>
-      <point x="276.531" y="213.852"/>
-      <point x="310.782" y="179.682"/>
-      <point x="310.782" y="161.014" type="qcurve" smooth="yes"/>
-      <point x="310.782" y="132.704"/>
-      <point x="266.921" y="86.1064"/>
-      <point x="245.049" y="86.1064" type="qcurve" smooth="yes"/>
-      <point x="221.793" y="86.1064"/>
-    </contour>
+    <component base="less"/>
   </outline>
 </glyph>

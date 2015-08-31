@@ -1,35 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="270"/>
+  <advance width="458"/>
   <unicode hex="0069"/>
   <outline>
-    <contour>
-      <point x="239.468" y="93.7197" type="line" smooth="yes"/>
-      <point x="239.468" y="33.582"/>
-      <point x="189.148" y="-12.9678"/>
-      <point x="126.016" y="-12.9678" type="qcurve" smooth="yes"/>
-      <point x="67.0098" y="-12.9678"/>
-      <point x="24.418" y="41.8584"/>
-      <point x="24.418" y="104.791" type="qcurve" smooth="yes"/>
-      <point x="24.418" y="351.365" type="line" smooth="yes"/>
-      <point x="24.418" y="402.343"/>
-      <point x="79.2168" y="464.02"/>
-      <point x="125.41" y="464.02" type="qcurve" smooth="yes"/>
-      <point x="179.143" y="464.02"/>
-      <point x="239.468" y="416.891"/>
-      <point x="239.468" y="354.291" type="qcurve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="15.8975" y="587.224" type="qcurve" smooth="yes"/>
-      <point x="15.8975" y="547.508"/>
-      <point x="79.3535" y="511.14"/>
-      <point x="126.487" y="511.14" type="qcurve" smooth="yes"/>
-      <point x="244.938" y="511.14"/>
-      <point x="244.938" y="663.123"/>
-      <point x="126.487" y="663.123" type="qcurve" smooth="yes"/>
-      <point x="74.5615" y="663.123"/>
-      <point x="15.8975" y="620.631"/>
-    </contour>
+    <component base="dotaccent" xOffset="224" yOffset="483.7"/>
+    <component base="dotlessi"/>
   </outline>
   <lib>
     <dict>
@@ -54,13 +29,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>27</integer>
+            <integer>65</integer>
             <key>width</key>
             <integer>229</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>35</integer>
+            <integer>73</integer>
             <key>width</key>
             <integer>217</integer>
           </dict>

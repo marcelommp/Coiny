@@ -1,58 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblright" format="1">
-  <advance width="534"/>
+  <advance width="529"/>
   <unicode hex="201D"/>
   <outline>
-    <contour>
-      <point x="15.9561" y="578.027" type="qcurve" smooth="yes"/>
-      <point x="15.9561" y="552.204"/>
-      <point x="46.4658" y="518.581"/>
-      <point x="90.6572" y="505.749"/>
-      <point x="119.157" y="505.749" type="qcurve"/>
-      <point x="103.101" y="480.776"/>
-      <point x="63.4932" y="450.967"/>
-      <point x="20.7129" y="430.04" type="qcurve" smooth="yes"/>
-      <point x="6.85547" y="423.262"/>
-      <point x="6.85547" y="403.054" type="qcurve" smooth="yes"/>
-      <point x="6.85547" y="392.931"/>
-      <point x="15.8223" y="377.029"/>
-      <point x="32.5508" y="368.009"/>
-      <point x="43.4492" y="368.009" type="qcurve" smooth="yes"/>
-      <point x="66.6357" y="368.009"/>
-      <point x="129.072" y="392.974"/>
-      <point x="191.605" y="437.939"/>
-      <point x="234.637" y="514.487"/>
-      <point x="234.637" y="559.281" type="qcurve" smooth="yes"/>
-      <point x="234.637" y="650.133"/>
-      <point x="118.832" y="650.133" type="qcurve" smooth="yes"/>
-      <point x="69.7188" y="650.133"/>
-      <point x="15.9561" y="609.959"/>
-    </contour>
-    <contour>
-      <point x="295.306" y="578.027" type="qcurve" smooth="yes"/>
-      <point x="295.306" y="540.175"/>
-      <point x="353.83" y="505.749"/>
-      <point x="398.507" y="505.749" type="qcurve"/>
-      <point x="387.435" y="488.528"/>
-      <point x="362.146" y="464.396"/>
-      <point x="329.301" y="444.343"/>
-      <point x="300.063" y="430.04" type="qcurve" smooth="yes"/>
-      <point x="286.206" y="423.262"/>
-      <point x="286.206" y="403.054" type="qcurve" smooth="yes"/>
-      <point x="286.206" y="392.931"/>
-      <point x="295.172" y="377.029"/>
-      <point x="311.9" y="368.009"/>
-      <point x="322.8" y="368.009" type="qcurve" smooth="yes"/>
-      <point x="345.986" y="368.009"/>
-      <point x="408.422" y="392.974"/>
-      <point x="470.955" y="437.939"/>
-      <point x="513.987" y="514.487"/>
-      <point x="513.987" y="559.281" type="qcurve" smooth="yes"/>
-      <point x="513.987" y="650.133"/>
-      <point x="398.182" y="650.133" type="qcurve" smooth="yes"/>
-      <point x="365.301" y="650.133"/>
-      <point x="318.11" y="630.998"/>
-      <point x="295.306" y="598.839"/>
-    </contour>
+    <component base="quotedbl"/>
   </outline>
 </glyph>

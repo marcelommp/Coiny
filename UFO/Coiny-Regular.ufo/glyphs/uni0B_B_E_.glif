@@ -1,26 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0BBE" format="1">
-  <advance width="805"/>
+  <advance width="881"/>
   <unicode hex="0BBE"/>
   <outline>
     <contour>
-      <point x="730.35" y="477.158" type="line" smooth="yes"/>
-      <point x="772.42" y="477.158"/>
-      <point x="788.01" y="463.158" type="qcurve" smooth="yes"/>
-      <point x="803.599" y="449.158"/>
-      <point x="803.599" y="412.758" type="qcurve" smooth="yes"/>
-      <point x="803.599" y="377.384"/>
-      <point x="784.279" y="364.596" type="qcurve" smooth="yes"/>
-      <point x="764.959" y="351.809"/>
-      <point x="724.6" y="351.809" type="qcurve" smooth="yes"/>
-      <point x="5.84961" y="351.809" type="line"/>
-      <point x="5.84961" y="409.309"/>
-      <point x="33.4502" y="443.233" type="qcurve" smooth="yes"/>
-      <point x="61.0498" y="477.158"/>
-      <point x="109.35" y="477.158" type="qcurve" smooth="yes"/>
+      <point x="767.298" y="477.148" type="line" smooth="yes"/>
+      <point x="823.904" y="477.148"/>
+      <point x="840.547" y="460.821"/>
+      <point x="840.547" y="412.748" type="curve" smooth="yes"/>
+      <point x="840.547" y="362.695"/>
+      <point x="810.998" y="351.798"/>
+      <point x="761.548" y="351.798" type="curve" smooth="yes"/>
+      <point x="761.548" y="351.798"/>
+      <point x="298.098" y="351.798"/>
+      <point x="42.7979" y="351.798" type="curve"/>
+      <point x="42.7979" y="427.866"/>
+      <point x="81.1865" y="477.148"/>
+      <point x="146.298" y="477.148" type="curve" smooth="yes"/>
     </contour>
-    <component base="dotlessi" xOffset="357.65"/>
-    <component base="dotlessi" xOffset="-55.2"/>
+    <component base="dotlessi" xOffset="395.65"/>
+    <component base="dotlessi" xOffset="-17.2"/>
   </outline>
   <lib>
     <dict>
@@ -45,13 +44,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>4</integer>
+            <integer>40</integer>
             <key>width</key>
             <integer>217</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>416</integer>
+            <integer>453</integer>
             <key>width</key>
             <integer>217</integer>
           </dict>

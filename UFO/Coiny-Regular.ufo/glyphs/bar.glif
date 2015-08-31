@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bar" format="1">
-  <advance width="274"/>
+  <advance width="350"/>
   <unicode hex="007C"/>
   <outline>
     <contour>
-      <point x="248.852" y="28.0225" type="move" smooth="yes"/>
+      <point x="286.852" y="28.0225" type="move" smooth="yes"/>
     </contour>
     <contour>
-      <point x="248.852" y="28.0225" type="line" smooth="yes"/>
-      <point x="248.852" y="-22.9395"/>
-      <point x="193.294" y="-72.8311"/>
-      <point x="138.895" y="-72.8311" type="qcurve" smooth="yes"/>
-      <point x="82.708" y="-72.8311"/>
-      <point x="31.043" y="-31.8574"/>
-      <point x="30.8643" y="20.376" type="qcurve" smooth="yes"/>
-      <point x="28.6387" y="633.482" type="line" smooth="yes"/>
-      <point x="28.6387" y="679.248"/>
-      <point x="88.873" y="722.381"/>
-      <point x="138.895" y="722.381" type="qcurve" smooth="yes"/>
-      <point x="193.387" y="722.381"/>
-      <point x="248.508" y="690.709"/>
-      <point x="248.533" y="642.469" type="qcurve" smooth="yes"/>
+      <point x="286.852" y="28.0225" type="line" smooth="yes"/>
+      <point x="286.852" y="-40.6309"/>
+      <point x="248.644" y="-72.8311"/>
+      <point x="176.895" y="-72.8311" type="curve" smooth="yes"/>
+      <point x="105.145" y="-72.8311"/>
+      <point x="69.1113" y="-51.7852"/>
+      <point x="68.8643" y="20.376" type="curve" smooth="yes"/>
+      <point x="66.6387" y="633.482" type="line" smooth="yes"/>
+      <point x="66.6387" y="697.818"/>
+      <point x="114.828" y="722.381"/>
+      <point x="176.895" y="722.381" type="curve" smooth="yes"/>
+      <point x="239.738" y="722.381"/>
+      <point x="286.497" y="712.43"/>
+      <point x="286.533" y="642.469" type="curve" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

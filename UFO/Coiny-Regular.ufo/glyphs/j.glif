@@ -1,47 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j" format="1">
-  <advance width="283"/>
+  <advance width="359"/>
   <unicode hex="006A"/>
   <outline>
     <contour>
-      <point x="43.6025" y="594.677" type="qcurve" smooth="yes"/>
-      <point x="43.6025" y="554.962"/>
-      <point x="107.059" y="518.594"/>
-      <point x="154.192" y="518.594" type="qcurve" smooth="yes"/>
-      <point x="272.643" y="518.594"/>
-      <point x="272.643" y="670.577"/>
-      <point x="154.192" y="670.577" type="qcurve" smooth="yes"/>
-      <point x="102.268" y="670.577"/>
-      <point x="43.6025" y="628.084"/>
+      <point x="81.6025" y="594.677" type="curve" smooth="yes"/>
+      <point x="81.6025" y="537.489"/>
+      <point x="136.734" y="518.594"/>
+      <point x="192.192" y="518.594" type="curve" smooth="yes"/>
+      <point x="258.016" y="518.594"/>
+      <point x="310.643" y="534.541"/>
+      <point x="310.643" y="594.677" type="curve" smooth="yes"/>
+      <point x="310.643" y="646.294"/>
+      <point x="264.343" y="670.577"/>
+      <point x="192.192" y="670.577" type="curve" smooth="yes"/>
+      <point x="121.024" y="670.577"/>
+      <point x="81.6025" y="637.818"/>
     </contour>
     <contour>
-      <point x="264.593" y="372.3" type="line" smooth="yes"/>
-      <point x="264.593" y="389.288"/>
-      <point x="254.96" y="420.764"/>
-      <point x="236.473" y="446.679"/>
-      <point x="211.202" y="465.998"/>
-      <point x="178.187" y="476.69"/>
-      <point x="159.713" y="476.69" type="qcurve" smooth="yes"/>
-      <point x="109.417" y="476.69"/>
-      <point x="49.4561" y="418.576"/>
-      <point x="49.4561" y="356.742" type="qcurve" smooth="yes"/>
-      <point x="49.4561" y="289.021"/>
-      <point x="48.4092" y="101.665"/>
-      <point x="48.4092" y="48.46" type="qcurve" smooth="yes"/>
-      <point x="48.4092" y="-12.1826"/>
-      <point x="-3.77637" y="-46.4434"/>
-      <point x="-59.707" y="-46.4434" type="qcurve" smooth="yes"/>
-      <point x="-94.0156" y="-46.4434"/>
-      <point x="-133.538" y="-56.2432"/>
-      <point x="-151.211" y="-77.6631"/>
-      <point x="-151.211" y="-96.2109" type="qcurve" smooth="yes"/>
-      <point x="-151.211" y="-118.22"/>
-      <point x="-98.7744" y="-163.111"/>
-      <point x="13.7979" y="-196.472"/>
-      <point x="85.8594" y="-196.472" type="qcurve" smooth="yes"/>
-      <point x="181.889" y="-196.472"/>
-      <point x="266.434" y="-72.0654"/>
-      <point x="266.434" y="46.6201" type="qcurve" smooth="yes"/>
+      <point x="302.593" y="372.3" type="line" smooth="yes"/>
+      <point x="302.593" y="429.34"/>
+      <point x="260.557" y="476.69"/>
+      <point x="197.713" y="476.69" type="curve" smooth="yes"/>
+      <point x="135.153" y="476.69"/>
+      <point x="87.4561" y="443.55"/>
+      <point x="87.4561" y="356.742" type="curve" smooth="yes"/>
+      <point x="87.4561" y="226.139"/>
+      <point x="86.4092" y="159.708"/>
+      <point x="86.4092" y="48.46" type="curve" smooth="yes"/>
+      <point x="86.4092" y="-40.3711"/>
+      <point x="40.7217" y="-46.4434"/>
+      <point x="-21.707" y="-46.4434" type="curve" smooth="yes"/>
+      <point x="-89.5576" y="-46.4434"/>
+      <point x="-113.211" y="-59.6729"/>
+      <point x="-113.211" y="-96.2109" type="curve" smooth="yes"/>
+      <point x="-113.211" y="-137.873"/>
+      <point x="-29.334" y="-196.472"/>
+      <point x="123.859" y="-196.472" type="curve" smooth="yes"/>
+      <point x="257.022" y="-196.472"/>
+      <point x="304.434" y="-104.086"/>
+      <point x="304.434" y="46.6201" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -67,13 +65,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>44</integer>
+            <integer>82</integer>
             <key>width</key>
             <integer>229</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>48</integer>
+            <integer>86</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
