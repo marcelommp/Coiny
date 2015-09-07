@@ -62,7 +62,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-188</integer>
+            <integer>-229</integer>
             <key>width</key>
             <integer>140</integer>
           </dict>
@@ -71,15 +71,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>37</integer>
+            <integer>40</integer>
             <key>width</key>
-            <integer>220</integer>
+            <integer>216</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>344</integer>
             <key>width</key>
-            <integer>220</integer>
+            <integer>215</integer>
           </dict>
         </array>
       </dict>

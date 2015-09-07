@@ -12,11 +12,11 @@
       <point x="810.998" y="351.798"/>
       <point x="761.548" y="351.798" type="curve" smooth="yes"/>
       <point x="761.548" y="351.798"/>
-      <point x="298.098" y="351.798"/>
-      <point x="42.7979" y="351.798" type="curve"/>
-      <point x="42.7979" y="427.866"/>
-      <point x="81.1865" y="477.148"/>
-      <point x="146.298" y="477.148" type="curve" smooth="yes"/>
+      <point x="356.098" y="350.855"/>
+      <point x="100.798" y="350.855" type="curve"/>
+      <point x="100.798" y="427.03"/>
+      <point x="139.187" y="476.206"/>
+      <point x="204.298" y="476.206" type="curve" smooth="yes"/>
     </contour>
     <component base="dotlessi" xOffset="395.65"/>
     <component base="dotlessi" xOffset="-17.2"/>
@@ -35,7 +35,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>352</integer>
+            <integer>351</integer>
             <key>width</key>
             <integer>125</integer>
           </dict>
@@ -44,15 +44,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>40</integer>
+            <integer>100</integer>
             <key>width</key>
-            <integer>217</integer>
+            <integer>215</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>453</integer>
+            <integer>513</integer>
             <key>width</key>
-            <integer>217</integer>
+            <integer>215</integer>
           </dict>
         </array>
       </dict>

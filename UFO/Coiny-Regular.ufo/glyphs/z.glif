@@ -58,13 +58,13 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>125</integer>
+            <integer>126</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>351</integer>
             <key>width</key>
-            <integer>125</integer>
+            <integer>126</integer>
           </dict>
         </array>
       </dict>
