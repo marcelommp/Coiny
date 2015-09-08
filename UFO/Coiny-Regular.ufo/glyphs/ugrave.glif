@@ -3,7 +3,7 @@
   <advance width="607"/>
   <unicode hex="00F9"/>
   <outline>
-    <component base="grave" xOffset="-56.9995" yOffset="-9.41602"/>
+    <component base="grave" xOffset="93.0005" yOffset="-9.41602"/>
     <component base="u"/>
   </outline>
   <lib>
