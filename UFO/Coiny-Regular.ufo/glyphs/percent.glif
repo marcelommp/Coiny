@@ -59,7 +59,7 @@
       <point x="312.892" y="409.153"/>
       <point x="245.923" y="371.079"/>
     </contour>
-    <component base="slash" xOffset="201.017"/>
+    <component base="slash" xOffset="149.017"/>
   </outline>
   <lib>
     <dict>
