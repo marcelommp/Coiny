@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eacute" format="1">
-  <advance width="595"/>
+  <advance width="596"/>
   <unicode hex="00E9"/>
   <outline>
-    <component base="acute" xOffset="184.588" yOffset="-9.03027"/>
+    <component base="acute" xOffset="187.801" yOffset="-9.03027"/>
     <component base="e"/>
   </outline>
   <lib>
@@ -41,13 +41,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>255</integer>
+            <integer>258</integer>
             <key>width</key>
             <integer>331</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>342</integer>
+            <integer>345</integer>
             <key>width</key>
             <integer>202</integer>
           </dict>

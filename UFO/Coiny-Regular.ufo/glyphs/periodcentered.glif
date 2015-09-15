@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="periodcentered" format="1">
-  <advance width="291"/>
+  <advance width="315"/>
   <unicode hex="00B7"/>
   <outline>
     <contour>
-      <point x="32.6475" y="234.042" type="curve" smooth="yes"/>
-      <point x="32.6475" y="176.854"/>
-      <point x="85.4795" y="157.959"/>
-      <point x="140.938" y="157.959" type="curve" smooth="yes"/>
-      <point x="206.761" y="157.959"/>
-      <point x="250.188" y="173.906"/>
-      <point x="250.188" y="234.042" type="curve" smooth="yes"/>
-      <point x="250.188" y="285.66"/>
-      <point x="213.088" y="309.942"/>
-      <point x="140.938" y="309.942" type="curve" smooth="yes"/>
-      <point x="69.7686" y="309.942"/>
-      <point x="32.6475" y="277.184"/>
+      <point x="44.46" y="234.042" type="curve" smooth="yes"/>
+      <point x="44.46" y="176.854"/>
+      <point x="97.292" y="157.959"/>
+      <point x="152.75" y="157.959" type="curve" smooth="yes"/>
+      <point x="218.573" y="157.959"/>
+      <point x="262" y="173.906"/>
+      <point x="262" y="234.042" type="curve" smooth="yes"/>
+      <point x="262" y="285.66"/>
+      <point x="224.9" y="309.942"/>
+      <point x="152.75" y="309.942" type="curve" smooth="yes"/>
+      <point x="81.5811" y="309.942"/>
+      <point x="44.46" y="277.184"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>33</integer>
+            <integer>44</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>

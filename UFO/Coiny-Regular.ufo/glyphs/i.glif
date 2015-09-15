@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i" format="1">
-  <advance width="458"/>
+  <advance width="305"/>
   <unicode hex="0069"/>
   <outline>
-    <component base="dotaccent" xOffset="148" yOffset="480.016"/>
-    <component base="dotlessi"/>
+    <contour>
+      <point x="43.46" y="616.099" type="curve" smooth="yes"/>
+      <point x="43.46" y="558.911"/>
+      <point x="96.292" y="540.016"/>
+      <point x="151.75" y="540.016" type="curve" smooth="yes"/>
+      <point x="217.573" y="540.016"/>
+      <point x="261" y="555.963"/>
+      <point x="261" y="616.099" type="curve" smooth="yes"/>
+      <point x="261" y="667.717"/>
+      <point x="223.9" y="691.999"/>
+      <point x="151.75" y="691.999" type="curve" smooth="yes"/>
+      <point x="80.5811" y="691.999"/>
+      <point x="43.46" y="659.24"/>
+    </contour>
+    <contour>
+      <point x="260.255" y="106.704" type="line" smooth="yes"/>
+      <point x="260.255" y="25.9424"/>
+      <point x="230.354" y="0.0175781"/>
+      <point x="146.802" y="0.0175781" type="curve" smooth="yes"/>
+      <point x="64.7549" y="0.0175781"/>
+      <point x="45.2041" y="38.2061"/>
+      <point x="45.2041" y="117.776" type="curve" smooth="yes"/>
+      <point x="45.2041" y="364.351" type="line" smooth="yes"/>
+      <point x="45.2041" y="431.982"/>
+      <point x="84.3047" y="477.004"/>
+      <point x="146.196" y="477.004" type="curve" smooth="yes"/>
+      <point x="209.04" y="477.004"/>
+      <point x="260.255" y="457.616"/>
+      <point x="260.255" y="367.276" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -29,13 +57,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>117</integer>
+            <integer>45</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>191</integer>
+            <integer>119</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>

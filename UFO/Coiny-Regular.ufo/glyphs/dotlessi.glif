@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="1">
-  <advance width="458"/>
+  <advance width="283"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="332.025" y="106.704" type="line" smooth="yes"/>
-      <point x="332.025" y="25.9424"/>
-      <point x="302.125" y="0.0175781"/>
-      <point x="218.572" y="0.0175781" type="curve" smooth="yes"/>
-      <point x="136.525" y="0.0175781"/>
-      <point x="116.975" y="38.2061"/>
-      <point x="116.975" y="117.776" type="curve" smooth="yes"/>
-      <point x="116.975" y="364.351" type="line" smooth="yes"/>
-      <point x="116.975" y="431.982"/>
-      <point x="156.075" y="477.004"/>
-      <point x="217.967" y="477.004" type="curve" smooth="yes"/>
-      <point x="280.811" y="477.004"/>
-      <point x="332.025" y="457.616"/>
-      <point x="332.025" y="367.276" type="curve" smooth="yes"/>
+      <point x="249" y="106.704" type="line" smooth="yes"/>
+      <point x="249" y="25.9424"/>
+      <point x="219.1" y="0.0175781"/>
+      <point x="135.547" y="0.0175781" type="curve" smooth="yes"/>
+      <point x="53.5" y="0.0175781"/>
+      <point x="33.9492" y="38.2061"/>
+      <point x="33.9492" y="117.776" type="curve" smooth="yes"/>
+      <point x="33.9492" y="364.351" type="line" smooth="yes"/>
+      <point x="33.9492" y="431.982"/>
+      <point x="73.0498" y="477.004"/>
+      <point x="134.941" y="477.004" type="curve" smooth="yes"/>
+      <point x="197.785" y="477.004"/>
+      <point x="249" y="457.616"/>
+      <point x="249" y="367.276" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -37,7 +37,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>117</integer>
+            <integer>34</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>

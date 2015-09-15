@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="bullet" format="1">
-  <advance width="339"/>
+  <advance width="329"/>
   <unicode hex="2022"/>
   <outline>
     <contour>
-      <point x="51.5381" y="243.667" type="curve" smooth="yes"/>
-      <point x="51.5381" y="168.327"/>
-      <point x="109.418" y="143.435"/>
-      <point x="170.178" y="143.435" type="curve" smooth="yes"/>
-      <point x="241.544" y="143.435"/>
-      <point x="288.627" y="165.648"/>
-      <point x="288.627" y="249.417" type="curve" smooth="yes"/>
-      <point x="288.627" y="317.458"/>
-      <point x="248.013" y="349.467"/>
-      <point x="169.027" y="349.467" type="curve" smooth="yes"/>
-      <point x="91.8125" y="349.467"/>
-      <point x="51.5381" y="303.804"/>
+      <point x="44.9111" y="243.667" type="curve" smooth="yes"/>
+      <point x="44.9111" y="168.327"/>
+      <point x="102.791" y="143.435"/>
+      <point x="163.551" y="143.435" type="curve" smooth="yes"/>
+      <point x="234.917" y="143.435"/>
+      <point x="282" y="165.648"/>
+      <point x="282" y="249.417" type="curve" smooth="yes"/>
+      <point x="282" y="317.458"/>
+      <point x="241.386" y="349.467"/>
+      <point x="162.4" y="349.467" type="curve" smooth="yes"/>
+      <point x="85.1855" y="349.467"/>
+      <point x="44.9111" y="303.804"/>
     </contour>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>52</integer>
+            <integer>45</integer>
             <key>width</key>
             <integer>237</integer>
           </dict>

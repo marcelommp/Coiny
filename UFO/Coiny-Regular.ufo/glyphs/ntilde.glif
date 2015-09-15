@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ntilde" format="1">
-  <advance width="608"/>
+  <advance width="616"/>
   <unicode hex="00F1"/>
   <outline>
-    <component base="tilde" xOffset="76.7803" yOffset="65.8066"/>
+    <component base="tilde" xOffset="89.353" yOffset="65.8066"/>
     <component base="n"/>
   </outline>
   <lib>
@@ -35,19 +35,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>32</integer>
+            <integer>44</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>159</integer>
+            <integer>171</integer>
             <key>width</key>
             <integer>88</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>341</integer>
+            <integer>354</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>

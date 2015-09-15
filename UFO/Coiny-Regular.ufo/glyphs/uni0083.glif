@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0083" format="1">
-  <advance width="678"/>
+  <advance width="698"/>
   <unicode hex="0083"/>
   <outline>
     <contour>
-      <point x="571.201" y="380.714" type="curve" smooth="yes"/>
-      <point x="571.201" y="306.545"/>
-      <point x="535.662" y="247.71"/>
-      <point x="451.207" y="247.71" type="curve" smooth="yes"/>
-      <point x="366.752" y="247.71"/>
-      <point x="381.177" y="343.39"/>
-      <point x="351.387" y="343.39" type="curve" smooth="yes"/>
-      <point x="321.598" y="343.39"/>
-      <point x="318.081" y="321.043"/>
-      <point x="318.93" y="271.694" type="curve"/>
-      <point x="232.449" y="271.17" type="line"/>
-      <point x="232.449" y="330.591"/>
-      <point x="257.171" y="396.068"/>
-      <point x="302.899" y="435.968" type="curve" smooth="yes"/>
-      <point x="348.627" y="475.868"/>
-      <point x="383.773" y="493.284"/>
-      <point x="459.52" y="493.284" type="curve" smooth="yes"/>
-      <point x="535.266" y="493.284"/>
-      <point x="571.201" y="444.71"/>
+      <point x="581.201" y="380.714" type="curve" smooth="yes"/>
+      <point x="581.201" y="306.545"/>
+      <point x="545.662" y="247.71"/>
+      <point x="461.207" y="247.71" type="curve" smooth="yes"/>
+      <point x="376.752" y="247.71"/>
+      <point x="391.177" y="343.39"/>
+      <point x="361.387" y="343.39" type="curve" smooth="yes"/>
+      <point x="331.598" y="343.39"/>
+      <point x="328.081" y="321.043"/>
+      <point x="328.93" y="271.694" type="curve"/>
+      <point x="242.449" y="271.17" type="line"/>
+      <point x="242.449" y="330.591"/>
+      <point x="267.171" y="396.068"/>
+      <point x="312.899" y="435.968" type="curve" smooth="yes"/>
+      <point x="358.627" y="475.868"/>
+      <point x="393.773" y="493.284"/>
+      <point x="469.52" y="493.284" type="curve" smooth="yes"/>
+      <point x="545.266" y="493.284"/>
+      <point x="581.201" y="444.71"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +33,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>232</integer>
+            <integer>242</integer>
             <key>width</key>
             <integer>86</integer>
           </dict>

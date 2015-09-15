@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f_f_i" format="1">
-  <advance width="1250"/>
+  <advance width="1270"/>
   <unicode hex="FB03"/>
   <outline>
-    <component base="i" xOffset="830"/>
-    <component base="f" xOffset="434"/>
-    <component base="f" xOffset="38"/>
+    <component base="i" xOffset="840"/>
+    <component base="f" xOffset="444"/>
+    <component base="f" xOffset="48"/>
   </outline>
   <lib>
     <dict>
@@ -36,25 +36,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>138</integer>
+            <integer>148</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>534</integer>
+            <integer>544</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>947</integer>
+            <integer>957</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1021</integer>
+            <integer>1031</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>

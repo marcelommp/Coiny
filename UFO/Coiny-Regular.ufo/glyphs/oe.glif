@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oe" format="1">
-  <advance width="967"/>
+  <advance width="987"/>
   <unicode hex="0153"/>
   <outline>
-    <component base="e" xOffset="422"/>
-    <component base="o" xOffset="38"/>
+    <component base="e" xOffset="432"/>
+    <component base="o" xOffset="48"/>
   </outline>
   <lib>
     <dict>
@@ -47,19 +47,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>70</integer>
+            <integer>80</integer>
             <key>width</key>
             <integer>224</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>400</integer>
+            <integer>410</integer>
             <key>width</key>
             <integer>224</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>764</integer>
+            <integer>774</integer>
             <key>width</key>
             <integer>202</integer>
           </dict>

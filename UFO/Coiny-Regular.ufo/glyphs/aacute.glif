@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aacute" format="1">
-  <advance width="630"/>
+  <advance width="619"/>
   <unicode hex="00E1"/>
   <outline>
-    <component base="acutecomb" xOffset="104.042" yOffset="-9.03027"/>
+    <component base="acutecomb" xOffset="107.265" yOffset="-9.03027"/>
     <component base="a"/>
   </outline>
   <lib>
@@ -41,19 +41,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>39</integer>
+            <integer>42</integer>
             <key>width</key>
             <integer>217</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>120</integer>
+            <integer>124</integer>
             <key>width</key>
             <integer>331</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>379</integer>
+            <integer>382</integer>
             <key>width</key>
             <integer>94</integer>
           </dict>

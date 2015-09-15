@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteleft" format="1">
-  <advance width="364"/>
+  <advance width="371"/>
   <unicode hex="2018"/>
   <outline>
     <component base="grave"/>
@@ -22,7 +22,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>16</integer>
+            <integer>34</integer>
             <key>width</key>
             <integer>331</integer>
           </dict>

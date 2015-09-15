@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave.case" format="1">
-  <advance width="364"/>
+  <advance width="384"/>
   <outline>
-    <component base="grave" yOffset="212"/>
+    <component base="grave" xOffset="10" yOffset="212"/>
   </outline>
 </glyph>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="semicolon" format="1">
-  <advance width="311"/>
+  <advance width="313"/>
   <unicode hex="003B"/>
   <outline>
-    <component base="comma" xOffset="38"/>
-    <component base="period" xOffset="49.4999" yOffset="338.1"/>
+    <component base="comma" xOffset="10.3125"/>
+    <component base="period" xOffset="21.8124" yOffset="338.1"/>
   </outline>
   <lib>
     <dict>
@@ -29,13 +29,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>81</integer>
+            <integer>54</integer>
             <key>width</key>
             <integer>230</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>82</integer>
+            <integer>54</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>

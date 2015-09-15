@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="1">
-  <advance width="800"/>
+  <advance width="850"/>
   <unicode hex="2026"/>
   <outline>
-    <component base="period" xOffset="530"/>
-    <component base="period" xOffset="253"/>
-    <component base="period" xOffset="-15"/>
+    <component base="period" xOffset="566"/>
+    <component base="period" xOffset="289"/>
+    <component base="period" xOffset="21"/>
   </outline>
   <lib>
     <dict>
@@ -24,19 +24,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>18</integer>
+            <integer>54</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>286</integer>
+            <integer>322</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>563</integer>
+            <integer>599</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>

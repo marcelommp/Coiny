@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ydieresis" format="1">
-  <advance width="601"/>
+  <advance width="607"/>
   <unicode hex="00FF"/>
   <outline>
-    <component base="dieresis" xOffset="57.728" yOffset="-199.611"/>
+    <component base="dieresis" xOffset="62.5045" yOffset="-199.611"/>
     <component base="y"/>
   </outline>
   <lib>
@@ -29,25 +29,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>40</integer>
+            <integer>45</integer>
             <key>width</key>
             <integer>216</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>181</integer>
+            <integer>186</integer>
             <key>width</key>
             <integer>174</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>344</integer>
+            <integer>349</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>382</integer>
+            <integer>387</integer>
             <key>width</key>
             <integer>174</integer>
           </dict>

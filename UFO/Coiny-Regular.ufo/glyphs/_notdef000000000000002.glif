@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name=".notdef" format="1">
-  <advance width="1154"/>
+  <advance width="1089"/>
   <outline>
-    <component base="uni0B8E" xOffset="38"/>
+    <component base="uni0B8E" xOffset="48"/>
   </outline>
   <lib>
     <dict>
@@ -33,25 +33,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>98</integer>
+            <integer>65</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>360</integer>
+            <integer>327</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>568</integer>
+            <integer>535</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>748</integer>
+            <integer>715</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>

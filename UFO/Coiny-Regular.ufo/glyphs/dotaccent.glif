@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotaccent" format="1">
-  <advance width="286"/>
+  <advance width="240"/>
   <unicode hex="02D9"/>
   <outline>
-    <component base="period" xOffset="-65.4175" yOffset="66.9834"/>
+    <component base="period" xOffset="-10.4175" yOffset="66.9834"/>
   </outline>
   <lib>
     <dict>
@@ -22,7 +22,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-33</integer>
+            <integer>9</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>

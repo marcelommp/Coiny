@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asciicircum" format="1">
-  <advance width="441"/>
+  <advance width="480"/>
   <unicode hex="005E"/>
   <outline>
-    <component base="circumflex" xOffset="-8.8975" yOffset="100.567"/>
+    <component base="circumflex" xOffset="9.99996" yOffset="100.567"/>
   </outline>
   <lib>
     <dict>
@@ -22,7 +22,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>9</integer>
+            <integer>28</integer>
             <key>width</key>
             <integer>441</integer>
           </dict>

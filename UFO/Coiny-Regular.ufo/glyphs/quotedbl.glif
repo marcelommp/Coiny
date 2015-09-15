@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="1">
-  <advance width="529"/>
+  <advance width="539"/>
   <unicode hex="0022"/>
   <outline>
-    <component base="quotesingle" xOffset="296.75"/>
-    <component base="quotesingle" xOffset="38"/>
+    <component base="quotesingle" xOffset="269"/>
+    <component base="quotesingle" xOffset="10.25"/>
   </outline>
   <lib>
     <dict>
@@ -23,13 +23,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>96</integer>
+            <integer>69</integer>
             <key>width</key>
             <integer>179</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>355</integer>
+            <integer>327</integer>
             <key>width</key>
             <integer>179</integer>
           </dict>
