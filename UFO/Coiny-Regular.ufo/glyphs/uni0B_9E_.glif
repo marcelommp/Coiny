@@ -4,6 +4,12 @@
   <unicode hex="0B9E"/>
   <outline>
     <contour>
+      <point x="1385" y="0" type="move" name="Anchor-1"/>
+    </contour>
+    <contour>
+      <point x="869" y="0" type="move" name="Anchor-0"/>
+    </contour>
+    <contour>
       <point x="276.826" y="322.637" type="curve" smooth="yes"/>
       <point x="256.296" y="281.575"/>
       <point x="246.862" y="239.837"/>
@@ -18,7 +24,7 @@
       <point x="1300.74" y="160.18"/>
       <point x="1270.08" y="160.18" type="curve" smooth="yes"/>
       <point x="1243.13" y="160.18"/>
-      <point x="1224.15" y="143.219"/>
+      <point x="1221.6" y="143.316"/>
       <point x="1221.45" y="105.712" type="curve" smooth="yes"/>
       <point x="1221.15" y="25.9325"/>
       <point x="1191.12" y="0.274414"/>
@@ -44,10 +50,10 @@
       <point x="945.564" y="251.011"/>
       <point x="945.564" y="153.064" type="curve" smooth="yes"/>
       <point x="945.564" y="127.493"/>
-      <point x="940.246" y="104.863"/>
+      <point x="939.744" y="105.103"/>
       <point x="930.645" y="85.3956" type="curve" smooth="yes"/>
       <point x="917.643" y="57.2382"/>
-      <point x="892.296" y="31.8291"/>
+      <point x="892.296" y="31.8288"/>
       <point x="854.631" y="15.2061" type="curve" smooth="yes"/>
       <point x="826.32" y="2.71191"/>
       <point x="791.05" y="-4.81738"/>
@@ -83,13 +89,13 @@
       <point x="27" y="-72.0098"/>
       <point x="27" y="205.899" type="curve" smooth="yes"/>
       <point x="27" y="275.499"/>
-      <point x="42.5762" y="345.845"/>
+      <point x="42.5759" y="345.845"/>
       <point x="76.125" y="412.938" type="curve" smooth="yes"/>
       <point x="97.999" y="456.684"/>
       <point x="135.09" y="482.638"/>
       <point x="174.088" y="482.638" type="curve" smooth="yes"/>
       <point x="192.22" y="482.638"/>
-      <point x="210.767" y="479.726"/>
+      <point x="210.767" y="479.725"/>
       <point x="228.386" y="470.916" type="curve" smooth="yes"/>
       <point x="265.51" y="452.354"/>
       <point x="296.008" y="431.532"/>
@@ -120,72 +126,66 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-324</integer>
+            <integer>-338</integer>
             <key>width</key>
             <integer>184</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>0</integer>
+            <integer>-5</integer>
             <key>width</key>
-            <integer>72</integer>
+            <integer>78</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>174</integer>
+            <integer>160</integer>
             <key>width</key>
             <integer>154</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>236</integer>
+            <integer>237</integer>
             <key>width</key>
             <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>356</integer>
+            <integer>378</integer>
             <key>width</key>
-            <integer>122</integer>
+            <integer>124</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>60</integer>
+            <integer>27</integer>
             <key>width</key>
             <integer>220</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>357</integer>
+            <integer>335</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>619</integer>
+            <integer>597</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>827</integer>
+            <integer>805</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1007</integer>
+            <integer>1006</integer>
             <key>width</key>
             <integer>215</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>1133</integer>
-            <key>width</key>
-            <integer>88</integer>
           </dict>
           <dict>
             <key>position</key>

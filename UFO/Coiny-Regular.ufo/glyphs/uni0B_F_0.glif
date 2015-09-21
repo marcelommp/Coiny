@@ -17,14 +17,14 @@
       <point x="300.478" y="155.163"/>
       <point x="270.98" y="183.146"/>
       <point x="270.98" y="233" type="curve" smooth="yes"/>
-      <point x="270.98" y="287.731"/>
-      <point x="313.048" y="354.696"/>
-      <point x="313.048" y="429" type="curve" smooth="yes"/>
-      <point x="313.048" y="484.516"/>
-      <point x="244.719" y="518.985"/>
-      <point x="169.396" y="518.985" type="curve" smooth="yes"/>
-      <point x="83.9023" y="518.985"/>
-      <point x="27" y="461.756"/>
+      <point x="270.98" y="288.569"/>
+      <point x="313.048" y="356.559"/>
+      <point x="313.048" y="432" type="curve" smooth="yes"/>
+      <point x="313.048" y="487.516"/>
+      <point x="244.719" y="521.985"/>
+      <point x="169.396" y="521.985" type="curve" smooth="yes"/>
+      <point x="83.9023" y="521.985"/>
+      <point x="27" y="463.866"/>
       <point x="27" y="326" type="curve" smooth="yes"/>
       <point x="27" y="77.4814"/>
       <point x="178.066" y="-6.51953"/>
@@ -38,14 +38,14 @@
       <point x="820.034" y="-6.51953"/>
       <point x="971.101" y="77.4814"/>
       <point x="971.101" y="326" type="curve" smooth="yes"/>
-      <point x="971.101" y="461.756"/>
-      <point x="914.198" y="518.985"/>
-      <point x="828.705" y="518.985" type="curve" smooth="yes"/>
-      <point x="753.382" y="518.985"/>
-      <point x="685.053" y="484.516"/>
-      <point x="685.053" y="429" type="curve" smooth="yes"/>
-      <point x="685.053" y="354.696"/>
-      <point x="727.12" y="287.731"/>
+      <point x="971.101" y="463.866"/>
+      <point x="914.198" y="521.985"/>
+      <point x="828.705" y="521.985" type="curve" smooth="yes"/>
+      <point x="753.382" y="521.985"/>
+      <point x="685.053" y="487.516"/>
+      <point x="685.053" y="432" type="curve" smooth="yes"/>
+      <point x="685.053" y="356.559"/>
+      <point x="727.12" y="288.569"/>
       <point x="727.12" y="233" type="curve" smooth="yes"/>
       <point x="727.12" y="183.146"/>
       <point x="697.623" y="155.163"/>

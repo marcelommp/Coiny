@@ -1,4 +1,103 @@
+languagesystem DFLT dflt;
+languagesystem deva dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem taml dflt;
+languagesystem tibt dflt;
 
+
+# GPOS 
+
+
+lookup abvmAboveBaseMarklookup2 {
+  lookupflag 0;
+  markClass [\uni0BC0 ] <anchor 0 14> @Anchor1;
+  pos base [\uni0B9E ] <anchor 1385 0> mark @Anchor1;
+  pos base [\uni0BB0 ] <anchor 787 0> mark @Anchor1;
+  pos base [\uni0BA8 ] <anchor 738 0> mark @Anchor1;
+  pos base [\uni0BAA ] <anchor 654 0> mark @Anchor1;
+  pos base [\uni0BB3 ] <anchor 1528 0> mark @Anchor1;
+  pos base [\uni0BB5 ] <anchor 1220 -3> mark @Anchor1;
+  pos base [\uni0BB2 ] <anchor 1112 0> mark @Anchor1;
+  pos base [\uni0BAE ] <anchor 682 0> mark @Anchor1;
+  pos base [\uni0BAF ] <anchor 906 6> mark @Anchor1;
+  pos base [\uni0BB1 ] <anchor 750 0> mark @Anchor1;
+  pos base [\uni0BB6 ] <anchor 1053 -6> mark @Anchor1;
+  pos base [\uni0BB4 ] <anchor 700 0> mark @Anchor1;
+  pos base [\uni0BB7 ] <anchor 1063 0> mark @Anchor1;
+  pos base [\uni0BB8 ] <anchor 1439 0> mark @Anchor1;
+  pos base [\uni0BB9 ] <anchor 1668 0> mark @Anchor1;
+  pos base [\uni0BA3 ] <anchor 1809 0> mark @Anchor1;
+  pos base [\uni0BA9 ] <anchor 1420 0> mark @Anchor1;
+  pos base [\uni0B95 ] <anchor 926 0> mark @Anchor1;
+  pos base [\uni0B99 ] <anchor 1175 0> mark @Anchor1;
+  pos base [\uni0B9A ] <anchor 888 0> mark @Anchor1;
+  pos base [\uni0B9C ] <anchor 838 -6> mark @Anchor1;
+  pos base [\uni0BA4 ] <anchor 925 -3> mark @Anchor1;
+} abvmAboveBaseMarklookup2;
+
+lookup abvmAboveBaseMarklookup0 {
+  lookupflag 0;
+  markClass [\uni0BCD ] <anchor 0 0> @Anchor0;
+  pos base [\uni0BBE ] <anchor 396 0> mark @Anchor0;
+  pos base [\uni0B9E ] <anchor 869 0> mark @Anchor0;
+  pos base [\uni0BB0 ] <anchor 349 -9> mark @Anchor0;
+  pos base [\uni0BA8 ] <anchor 399 0> mark @Anchor0;
+  pos base [\uni0BAA ] <anchor 345 -2> mark @Anchor0;
+  pos base [\uni0B9F ] <anchor 370 0> mark @Anchor0;
+  pos base [\uni0B82 ] <anchor -9 0> mark @Anchor0;
+  pos base [\uni0BB3 ] <anchor 818 0> mark @Anchor0;
+  pos base [\uni0BB5 ] <anchor 805 0> mark @Anchor0;
+  pos base [\uni0BB2 ] <anchor 650 -2> mark @Anchor0;
+  pos base [\uni0BAE ] <anchor 520 -5> mark @Anchor0;
+  pos base [\uni0BAF ] <anchor 456 0> mark @Anchor0;
+  pos base [\uni0BB1 ] <anchor 422 0> mark @Anchor0;
+  pos base [\uni0BB6 ] <anchor 600 0> mark @Anchor0;
+  pos base [\uni0BB4 ] <anchor 535 0> mark @Anchor0;
+  pos base [\uni0BB7 ] <anchor 950 0> mark @Anchor0;
+  pos base [\uni0BB8 ] <anchor 780 0> mark @Anchor0;
+  pos base [\uni0BB9 ] <anchor 1350 0> mark @Anchor0;
+  pos base [\uni0BA3 ] <anchor 970 0> mark @Anchor0;
+  pos base [\uni0BA9 ] <anchor 769 0> mark @Anchor0;
+  pos base [\uni0B95 ] <anchor 490 0> mark @Anchor0;
+  pos base [\uni0B99 ] <anchor 652 0> mark @Anchor0;
+  pos base [\uni0B9A ] <anchor 500 0> mark @Anchor0;
+  pos base [\uni0B9C ] <anchor 482 0> mark @Anchor0;
+  pos base [\uni0BA4 ] <anchor 540 -3> mark @Anchor0;
+} abvmAboveBaseMarklookup0;
+
+feature abvm {
+
+ script DFLT;
+     language dflt ;
+      lookup abvmAboveBaseMarklookup2;
+      lookup abvmAboveBaseMarklookup0;
+
+ script deva;
+     language dflt ;
+      lookup abvmAboveBaseMarklookup2;
+      lookup abvmAboveBaseMarklookup0;
+
+ script grek;
+     language dflt ;
+      lookup abvmAboveBaseMarklookup2;
+      lookup abvmAboveBaseMarklookup0;
+
+ script latn;
+     language dflt ;
+      lookup abvmAboveBaseMarklookup2;
+      lookup abvmAboveBaseMarklookup0;
+
+ script taml;
+     language dflt ;
+      lookup abvmAboveBaseMarklookup2;
+      lookup abvmAboveBaseMarklookup0;
+
+ script tibt;
+     language dflt ;
+      lookup abvmAboveBaseMarklookup2;
+      lookup abvmAboveBaseMarklookup0;
+} abvm;
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [\space \uni0B85 \uni0B86 \uni0B87 \uni0B88 \uni0B8E \uni0B8F 
@@ -36,36 +135,36 @@
 	\uni0308 \uni030B \onesuperior \twosuperior \threesuperior \minus \uni2113 
 	\uni2010 \uni2219 \uni2215 \quoteleft.latn \uni0302.cap \uni0303.cap 
 	\uni0308.cap \NULL \CR \uni0B90 \uni0B92 \uni0B93 \uni0B94 \uni0B95 \uni0B99 
-	\uni0B9A \uni0B9C \uni0BA4 \uni0BBF \uni0BC0 \uni0BC1 \uni0BC2 \uni0BC6 \uni0BC7 
-	\uni0BC8 \uni0BCA \uni0BCB \uni0BCC \uni0BCD \uni0BD0 \uni0BD7 \u0B950BBF.a 
-	\u0BAE0BC1 \u0BAE0BC2 \u0BAF0BC1 \u0BAF0BC2 \u0BB00BC1 \u0BB00BC2 \u0BB10BBE 
-	\u0BB10BBF \u0BB10BC0 \u0BB10BC1 \u0BB10BC2 \u0BB20BBF \u0BB20BC0 \u0BB20BC1 
-	\u0BB20BC2 \u0BB20BC8 \u0BB30BC1 \u0BB30BC2 \u0BB30BC8 \u0BB40BBF \u0BB40BC0 
-	\u0BB40BC1 \u0BB40BC2 \u0BB50BC1 \u0BB50BC2 \u0BB80BBF \u0BB80BC0 
-	\u0BB80BCD0BB00BC0 \u0BB90BBF \u0BB90BC0 \uni0BB0.a \uni0BE6 \uni0BE7 \uni0BE8 
-	\uni0BE9 \uni0BEA \uni0BEB \uni0BEC \uni0BED \uni0BEE \uni0BEF \uni0BF0 \uni0BF1 
-	\uni0BF2 \uni0BF3 \uni0BF4 \uni0BF5 \uni0BF6 \uni0BF7 \uni0BF8 \uni0BF9 \uni0BFA 
-	\uni0964 \uni0965 \uni25CC \uni0FD5 \Amacron \Abreve \Aring \AE \uni01E2 
-	\Ccedilla \Emacron \Ebreve \uni1E2A \Imacron \uni1E34 \uni1E3A \uni1E38 \Lslash 
-	\uni1E48 \Omacron \Obreve \Oslash \uni1E5C \uni1E5E \uni1E6E \Umacron \Ubreve 
-	\uni1E94 \Eth \Thorn \omacron \obreve \oslash \uni1E5D \uni1E5F \germandbls 
-	\uni1E6F \umacron \ubreve \uni1E95 \eth \thorn \ampersand \uni0047033100480331 
-	\uni0047033100680331 \uni0067033100680331 \uni004B033100480331 
-	\uni004B033100680331 \uni006B033100680331 \T_h \f_b \f_f_b \f_h \f_f_h \f_j 
-	\f_f_j \f_k \f_f_k \f_t \f_f_t \gravecomb \caron \uni030C \macron \uni0304 \breve 
-	\uni0306 \ring \uni030A \uni0307 \hungarumlaut \uni0310 \cedilla \uni0327 
-	\ogonek \uni0328 \uni0323 \uni0324 \uni0331 \uni0325 \uni032E \uni035F 
-	\brokenbar \uni20B9 \uni20B9.pnum \dollar \Euro \sterling \yen \cent \uni0192 
-	\two.pnum \three.pnum \four.pnum \five.pnum \six.pnum \seven.pnum \eight.pnum 
-	\nine.pnum \fraction \onequarter \onehalf \threequarters \plusminus \multiply 
-	\divide \approxequal \logicalnot \lessequal \greaterequal \perthousand \degree 
-	\uni2206 \uni2126 \uni00B5 \pi \product \summation \partialdiff \radical 
-	\integral \infinity \estimated \lozenge \uni00AD \exclam.latn \question.latn 
-	\quoteright.latn \quotedblleft.latn \quotedblright.latn \asterisk.latn 
-	\uni0300.cap \uni0301.cap \uni0304.cap \uni0306.cap \uni030A.cap \uni0307.cap 
-	\uni030C.cap \uni0310.cap \uni0082 \uni0083 \uni0084 \uni0085 \uni0087 \uni0089 
-	\uni008A \uni008B \asciicircum \acute.case \NameMe.0 \uni0B93.a \uni0BBF.a 
-	\uni0BC0.a \uni0BC1.a \uni0BC2.a \u0B950BBF \u0B950BC0 \u0B950BC1 \u0B950BC2 
+	\uni0B9A \uni0B9C \uni0BA4 \uni0BBF \uni0BC1 \uni0BC2 \uni0BC6 \uni0BC7 \uni0BC8 
+	\uni0BCA \uni0BCB \uni0BCC \uni0BD0 \uni0BD7 \u0B950BBF.a \u0BAE0BC1 \u0BAE0BC2 
+	\u0BAF0BC1 \u0BAF0BC2 \u0BB00BC1 \u0BB00BC2 \u0BB10BBE \u0BB10BBF \u0BB10BC0 
+	\u0BB10BC1 \u0BB10BC2 \u0BB20BBF \u0BB20BC0 \u0BB20BC1 \u0BB20BC2 \u0BB20BC8 
+	\u0BB30BC1 \u0BB30BC2 \u0BB30BC8 \u0BB40BBF \u0BB40BC0 \u0BB40BC1 \u0BB40BC2 
+	\u0BB50BC1 \u0BB50BC2 \u0BB80BBF \u0BB80BC0 \u0BB80BCD0BB00BC0 \u0BB90BBF 
+	\u0BB90BC0 \uni0BB0.a \uni0BE6 \uni0BE7 \uni0BE8 \uni0BE9 \uni0BEA \uni0BEB 
+	\uni0BEC \uni0BED \uni0BEE \uni0BEF \uni0BF0 \uni0BF1 \uni0BF2 \uni0BF3 \uni0BF4 
+	\uni0BF5 \uni0BF6 \uni0BF7 \uni0BF8 \uni0BF9 \uni0BFA \uni0964 \uni0965 \uni25CC 
+	\uni0FD5 \Amacron \Abreve \Aring \AE \uni01E2 \Ccedilla \Emacron \Ebreve \uni1E2A 
+	\Imacron \uni1E34 \uni1E3A \uni1E38 \Lslash \uni1E48 \Omacron \Obreve \Oslash 
+	\uni1E5C \uni1E5E \uni1E6E \Umacron \Ubreve \uni1E94 \Eth \Thorn \omacron \obreve 
+	\oslash \uni1E5D \uni1E5F \germandbls \uni1E6F \umacron \ubreve \uni1E95 \eth 
+	\thorn \ampersand \uni0047033100480331 \uni0047033100680331 
+	\uni0067033100680331 \uni004B033100480331 \uni004B033100680331 
+	\uni006B033100680331 \T_h \f_b \f_f_b \f_h \f_f_h \f_j \f_f_j \f_k \f_f_k \f_t 
+	\f_f_t \gravecomb \caron \uni030C \macron \uni0304 \breve \uni0306 \ring \uni030A 
+	\uni0307 \hungarumlaut \uni0310 \cedilla \uni0327 \ogonek \uni0328 \uni0323 
+	\uni0324 \uni0331 \uni0325 \uni032E \uni035F \brokenbar \uni20B9 \uni20B9.pnum 
+	\dollar \Euro \sterling \yen \cent \uni0192 \two.pnum \three.pnum \four.pnum 
+	\five.pnum \six.pnum \seven.pnum \eight.pnum \nine.pnum \fraction \onequarter 
+	\onehalf \threequarters \plusminus \multiply \divide \approxequal \logicalnot 
+	\lessequal \greaterequal \perthousand \degree \uni2206 \uni2126 \uni00B5 \pi 
+	\product \summation \partialdiff \radical \integral \infinity \estimated 
+	\lozenge \uni00AD \exclam.latn \question.latn \quoteright.latn 
+	\quotedblleft.latn \quotedblright.latn \asterisk.latn \uni0300.cap 
+	\uni0301.cap \uni0304.cap \uni0306.cap \uni030A.cap \uni0307.cap \uni030C.cap 
+	\uni0310.cap \uni0082 \uni0083 \uni0084 \uni0085 \uni0087 \uni0089 \uni008A 
+	\uni008B \asciicircum \acute.case \NameMe.0 \uni0B93.a \uni0BBF.a \uni0BC0.a 
+	\uni0BC1.a \uni0BC2.a \u0B950BBF \u0B950BC0 \u0B950BC1 \u0B950BC2 
 	\u0B950BCD0BB7 \u0B950BCD0BB70BBF \u0B950BCD0BB70BC0 \u0B990BBF \u0B990BC0 
 	\u0B990BC1 \u0B990BC2 \u0B9A0BBF \u0B9A0BBF.a \u0B9A0BC0 \u0B9A0BC1 \u0B9A0BC2 
 	\u0B9C0BBF \u0B9C0BC0 \u0B9E0BC1 \u0B9E0BC2 \u0B9F0BBF \u0B9F0BC0 \u0B9F0BC1 
@@ -1098,10 +1197,11 @@
 	\NameMe.8631 \NameMe.8632 \NameMe.8633 \NameMe.8634 \NameMe.8635 \NameMe.8636 
 	\NameMe.8637 \NameMe.8638 \NameMe.8639 \NameMe.8640 \NameMe.8641 \NameMe.8642 
 	\NameMe.8643 \NameMe.8644 ];
+@GDEF_Mark = [\uni0BC0 \uni0BCD ];
 @GDEF_Component = [\grave.case ];
 
 table GDEF {
-  GlyphClassDef @GDEF_Simple, , , @GDEF_Component;
+  GlyphClassDef @GDEF_Simple, , @GDEF_Mark, @GDEF_Component;
 
 } GDEF;
 
