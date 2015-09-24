@@ -35,33 +35,21 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>60</integer>
+            <integer>57</integer>
             <key>width</key>
-            <integer>229</integer>
+            <integer>232</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>180</integer>
-            <key>width</key>
-            <integer>109</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>346</integer>
+            <integer>291</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>474</integer>
+            <integer>473</integer>
             <key>width</key>
-            <integer>116</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>474</integer>
-            <key>width</key>
-            <integer>229</integer>
+            <integer>230</integer>
           </dict>
         </array>
       </dict>

@@ -64,24 +64,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>350</integer>
+            <integer>376</integer>
             <key>width</key>
-            <integer>317</integer>
+            <integer>152</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>117</integer>
+            <integer>47</integer>
             <key>width</key>
-            <integer>179</integer>
+            <integer>230</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>375</integer>
+            <integer>326</integer>
             <key>width</key>
-            <integer>179</integer>
+            <integer>230</integer>
           </dict>
         </array>
       </dict>

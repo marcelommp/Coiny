@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iacute" format="1">
-  <advance width="350"/>
+  <advance width="354"/>
   <unicode hex="00CD"/>
   <outline>
     <component base="acute.case" xOffset="35"/>
@@ -20,7 +20,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>751</integer>
+            <integer>735</integer>
             <key>width</key>
             <integer>244</integer>
           </dict>
@@ -29,15 +29,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>61</integer>
+            <integer>58</integer>
             <key>width</key>
-            <integer>229</integer>
+            <integer>331</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>111</integer>
+            <integer>60</integer>
             <key>width</key>
-            <integer>331</integer>
+            <integer>230</integer>
           </dict>
         </array>
       </dict>

@@ -4,6 +4,20 @@
   <unicode hex="004F"/>
   <outline>
     <contour>
+      <point x="390.476" y="140.15" type="curve" smooth="yes"/>
+      <point x="452.048" y="140.15"/>
+      <point x="481" y="241.946"/>
+      <point x="481" y="337.683" type="curve" smooth="yes"/>
+      <point x="481" y="434.335"/>
+      <point x="450.643" y="543.619"/>
+      <point x="390.476" y="543.619" type="curve" smooth="yes"/>
+      <point x="333.812" y="543.619"/>
+      <point x="303.455" y="434.335"/>
+      <point x="303.455" y="337.683" type="curve" smooth="yes"/>
+      <point x="303.455" y="241.946"/>
+      <point x="332.407" y="140.15"/>
+    </contour>
+    <contour>
       <point x="393.979" y="-6.04102" type="curve" smooth="yes"/>
       <point x="199.099" y="-6.04102"/>
       <point x="41.5098" y="118.418"/>
@@ -16,20 +30,6 @@
       <point x="743" y="337.683" type="curve" smooth="yes"/>
       <point x="743" y="118.418"/>
       <point x="588.731" y="-6.04102"/>
-    </contour>
-    <contour>
-      <point x="471.196" y="337.683" type="curve" smooth="yes"/>
-      <point x="471.196" y="435.68"/>
-      <point x="445.906" y="543.619"/>
-      <point x="393.979" y="543.619" type="curve" smooth="yes"/>
-      <point x="333.812" y="543.619"/>
-      <point x="303.455" y="434.335"/>
-      <point x="303.455" y="337.683" type="curve" smooth="yes"/>
-      <point x="303.455" y="241.946"/>
-      <point x="332.407" y="140.15"/>
-      <point x="393.979" y="140.15" type="curve" smooth="yes"/>
-      <point x="448.852" y="140.15"/>
-      <point x="471.196" y="240.612"/>
     </contour>
   </outline>
   <lib>
@@ -61,9 +61,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>471</integer>
+            <integer>481</integer>
             <key>width</key>
-            <integer>272</integer>
+            <integer>262</integer>
           </dict>
         </array>
       </dict>

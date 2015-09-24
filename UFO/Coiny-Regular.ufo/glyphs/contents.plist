@@ -796,8 +796,6 @@
     <string>A_ring.glif</string>
     <key>AE</key>
     <string>A_E_.glif</string>
-    <key>uni01E2</key>
-    <string>uni01E_2.glif</string>
     <key>Ccedilla</key>
     <string>C_cedilla.glif</string>
     <key>Emacron</key>
@@ -902,9 +900,9 @@
     <string>f_f_t.glif</string>
     <key>gravecomb</key>
     <string>gravecomb.glif</string>
-    <key>caron</key>
+    <key>circumflex</key>
     <string>caron.glif</string>
-    <key>uni030C</key>
+    <key>circumflex</key>
     <string>uni030C_.glif</string>
     <key>macron</key>
     <string>macron.glif</string>
@@ -13486,5 +13484,7 @@
     <string>N_ameM_e.8643.glif</string>
     <key>NameMe.8644</key>
     <string>N_ameM_e.8644.glif</string>
+    <key>macron.case</key>
+    <string>macron.case.glif</string>
   </dict>
 </plist>

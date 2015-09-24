@@ -59,7 +59,7 @@
       <point x="727.716" y="83.5967"/>
       <point x="734.279" y="110.434"/>
     </contour>
-    <component base="slash" xOffset="159.017"/>
+    <component base="fraction" xOffset="184"/>
   </outline>
   <lib>
     <dict>
@@ -67,6 +67,12 @@
       <dict>
         <key>hhints</key>
         <array>
+          <dict>
+            <key>position</key>
+            <integer>-17</integer>
+            <key>width</key>
+            <integer>744</integer>
+          </dict>
           <dict>
             <key>position</key>
             <integer>-12</integer>

@@ -3,8 +3,8 @@
   <advance width="987"/>
   <unicode hex="0153"/>
   <outline>
-    <component base="e" xOffset="432"/>
-    <component base="o" xOffset="48"/>
+    <component base="e" xOffset="396"/>
+    <component base="o" xOffset="-4"/>
   </outline>
   <lib>
     <dict>
@@ -26,9 +26,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>212</integer>
+            <integer>216</integer>
             <key>width</key>
-            <integer>74</integer>
+            <integer>64</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -47,21 +47,21 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>80</integer>
+            <integer>35</integer>
             <key>width</key>
             <integer>224</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>410</integer>
+            <integer>365</integer>
             <key>width</key>
             <integer>224</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>774</integer>
+            <integer>751</integer>
             <key>width</key>
-            <integer>202</integer>
+            <integer>192</integer>
           </dict>
         </array>
       </dict>

@@ -1,23 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="1">
-  <advance width="243"/>
+  <advance width="330"/>
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="31.5996" y="571.23" type="line" smooth="yes"/>
-      <point x="31.5996" y="643.82"/>
-      <point x="70.334" y="667.316"/>
-      <point x="127.369" y="667.316" type="curve" smooth="yes"/>
-      <point x="177.585" y="667.316"/>
-      <point x="211" y="633.735"/>
-      <point x="211" y="561.867" type="curve" smooth="yes"/>
-      <point x="211" y="431.565" type="line" smooth="yes"/>
-      <point x="211" y="371.151"/>
-      <point x="166.056" y="350.482"/>
-      <point x="123.487" y="350.482" type="curve" smooth="yes"/>
-      <point x="83.4199" y="350.482"/>
-      <point x="31.5996" y="368.33"/>
-      <point x="31.5996" y="437.812" type="curve" smooth="yes"/>
+      <point x="52.8105" y="597.416" type="curve" smooth="yes"/>
+      <point x="52.8105" y="540.229"/>
+      <point x="105.642" y="521.333"/>
+      <point x="161.101" y="521.333" type="curve" smooth="yes"/>
+      <point x="161.215" y="521.333"/>
+      <point x="161.329" y="521.333"/>
+      <point x="161.444" y="521.333" type="curve"/>
+      <point x="138.201" y="485.186"/>
+      <point x="115.707" y="469.957"/>
+      <point x="57.8184" y="441.64" type="curve" smooth="yes"/>
+      <point x="45.5508" y="435.639"/>
+      <point x="43.2324" y="422.922"/>
+      <point x="43.2324" y="413.233" type="curve" smooth="yes"/>
+      <point x="43.2324" y="391.816"/>
+      <point x="58.4131" y="376.343"/>
+      <point x="81.75" y="376.343" type="curve" smooth="yes"/>
+      <point x="142.287" y="376.343"/>
+      <point x="283" y="443.776"/>
+      <point x="283" y="577.683" type="curve" smooth="yes"/>
+      <point x="283" y="651.641"/>
+      <point x="224.443" y="673.316"/>
+      <point x="161.101" y="673.316" type="curve" smooth="yes"/>
+      <point x="89.9316" y="673.316"/>
+      <point x="52.8105" y="640.558"/>
     </contour>
   </outline>
   <lib>
@@ -28,18 +38,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>350</integer>
+            <integer>521</integer>
             <key>width</key>
-            <integer>317</integer>
+            <integer>152</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>32</integer>
+            <integer>53</integer>
             <key>width</key>
-            <integer>179</integer>
+            <integer>230</integer>
           </dict>
         </array>
       </dict>

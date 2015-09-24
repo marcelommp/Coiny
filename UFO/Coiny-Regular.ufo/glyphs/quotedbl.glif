@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="1">
-  <advance width="539"/>
+  <advance width="587"/>
   <unicode hex="0022"/>
   <outline>
     <component base="quotesingle" xOffset="269"/>
@@ -14,24 +14,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>350</integer>
+            <integer>521</integer>
             <key>width</key>
-            <integer>317</integer>
+            <integer>152</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>69</integer>
+            <integer>63</integer>
             <key>width</key>
-            <integer>179</integer>
+            <integer>230</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>327</integer>
+            <integer>322</integer>
             <key>width</key>
-            <integer>179</integer>
+            <integer>230</integer>
           </dict>
         </array>
       </dict>

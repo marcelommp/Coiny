@@ -58,24 +58,24 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>205</integer>
+            <integer>206</integer>
             <key>width</key>
             <integer>131</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>556</integer>
+            <integer>557</integer>
             <key>width</key>
-            <integer>129</integer>
+            <integer>128</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>200</integer>
+            <integer>52</integer>
             <key>width</key>
-            <integer>93</integer>
+            <integer>241</integer>
           </dict>
           <dict>
             <key>position</key>

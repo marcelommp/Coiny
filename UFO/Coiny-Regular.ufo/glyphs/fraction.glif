@@ -1,5 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fraction" format="1">
-  <advance width="1096"/>
+  <advance width="546"/>
   <unicode hex="2044"/>
+  <outline>
+    <contour>
+      <point x="254" y="49.5391" type="line" smooth="yes"/>
+      <point x="235.417" y="4.73007"/>
+      <point x="213.406" y="-16.6328"/>
+      <point x="170.82" y="-16.6328" type="curve" smooth="yes"/>
+      <point x="109.351" y="-16.6328"/>
+      <point x="38.3135" y="30.4805"/>
+      <point x="38.3135" y="82" type="curve" smooth="yes"/>
+      <point x="38.3135" y="95.4131"/>
+      <point x="42.576" y="108.489"/>
+      <point x="49.2148" y="124.643" type="curve" smooth="yes"/>
+      <point x="274.951" y="673.9" type="line" smooth="yes"/>
+      <point x="290.481" y="711.686"/>
+      <point x="314.012" y="727.833"/>
+      <point x="354.82" y="727.833" type="curve" smooth="yes"/>
+      <point x="415.827" y="727.833"/>
+      <point x="490.46" y="685.563"/>
+      <point x="490.46" y="635" type="curve" smooth="yes"/>
+      <point x="490.46" y="624.117"/>
+      <point x="487.493" y="612.546"/>
+      <point x="482.007" y="599.317" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-17</integer>
+            <key>width</key>
+            <integer>744</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

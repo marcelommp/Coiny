@@ -144,19 +144,19 @@ feature abvm {
 	\u0BB90BC0 \uni0BB0.a \uni0BE6 \uni0BE7 \uni0BE8 \uni0BE9 \uni0BEA \uni0BEB 
 	\uni0BEC \uni0BED \uni0BEE \uni0BEF \uni0BF0 \uni0BF1 \uni0BF2 \uni0BF3 \uni0BF4 
 	\uni0BF5 \uni0BF6 \uni0BF7 \uni0BF8 \uni0BF9 \uni0BFA \uni0964 \uni0965 \uni25CC 
-	\uni0FD5 \Amacron \Abreve \Aring \AE \uni01E2 \Ccedilla \Emacron \Ebreve \uni1E2A 
-	\Imacron \uni1E34 \uni1E3A \uni1E38 \Lslash \uni1E48 \Omacron \Obreve \Oslash 
-	\uni1E5C \uni1E5E \uni1E6E \Umacron \Ubreve \uni1E94 \Eth \Thorn \omacron \obreve 
-	\oslash \uni1E5D \uni1E5F \germandbls \uni1E6F \umacron \ubreve \uni1E95 \eth 
-	\thorn \ampersand \uni0047033100480331 \uni0047033100680331 
-	\uni0067033100680331 \uni004B033100480331 \uni004B033100680331 
-	\uni006B033100680331 \T_h \f_b \f_f_b \f_h \f_f_h \f_j \f_f_j \f_k \f_f_k \f_t 
-	\f_f_t \gravecomb \caron \uni030C \macron \uni0304 \breve \uni0306 \ring \uni030A 
-	\uni0307 \hungarumlaut \uni0310 \cedilla \uni0327 \ogonek \uni0328 \uni0323 
-	\uni0324 \uni0331 \uni0325 \uni032E \uni035F \brokenbar \uni20B9 \uni20B9.pnum 
-	\dollar \Euro \sterling \yen \cent \uni0192 \two.pnum \three.pnum \four.pnum 
-	\five.pnum \six.pnum \seven.pnum \eight.pnum \nine.pnum \fraction \onequarter 
-	\onehalf \threequarters \plusminus \multiply \divide \approxequal \logicalnot 
+	\uni0FD5 \Amacron \Abreve \Aring \AE \Ccedilla \Emacron \Ebreve \uni1E2A \Imacron 
+	\uni1E34 \uni1E3A \uni1E38 \Lslash \uni1E48 \Omacron \Obreve \Oslash \uni1E5C 
+	\uni1E5E \uni1E6E \Umacron \Ubreve \uni1E94 \Eth \Thorn \omacron \obreve \oslash 
+	\uni1E5D \uni1E5F \germandbls \uni1E6F \umacron \ubreve \uni1E95 \eth \thorn 
+	\ampersand \uni0047033100480331 \uni0047033100680331 \uni0067033100680331 
+	\uni004B033100480331 \uni004B033100680331 \uni006B033100680331 \T_h \f_b 
+	\f_f_b \f_h \f_f_h \f_j \f_f_j \f_k \f_f_k \f_t \f_f_t \gravecomb \circumflex 
+	\circumflex \macron \uni0304 \breve \uni0306 \ring \uni030A \uni0307 
+	\hungarumlaut \uni0310 \cedilla \uni0327 \ogonek \uni0328 \uni0323 \uni0324 
+	\uni0331 \uni0325 \uni032E \uni035F \brokenbar \uni20B9 \uni20B9.pnum \dollar 
+	\Euro \sterling \yen \cent \uni0192 \two.pnum \three.pnum \four.pnum \five.pnum 
+	\six.pnum \seven.pnum \eight.pnum \nine.pnum \fraction \onequarter \onehalf 
+	\threequarters \plusminus \multiply \divide \approxequal \logicalnot 
 	\lessequal \greaterequal \perthousand \degree \uni2206 \uni2126 \uni00B5 \pi 
 	\product \summation \partialdiff \radical \integral \infinity \estimated 
 	\lozenge \uni00AD \exclam.latn \question.latn \quoteright.latn 
@@ -1196,7 +1196,7 @@ feature abvm {
 	\NameMe.8625 \NameMe.8626 \NameMe.8627 \NameMe.8628 \NameMe.8629 \NameMe.8630 
 	\NameMe.8631 \NameMe.8632 \NameMe.8633 \NameMe.8634 \NameMe.8635 \NameMe.8636 
 	\NameMe.8637 \NameMe.8638 \NameMe.8639 \NameMe.8640 \NameMe.8641 \NameMe.8642 
-	\NameMe.8643 \NameMe.8644 ];
+	\NameMe.8643 \NameMe.8644 \macron.case ];
 @GDEF_Mark = [\uni0BC0 \uni0BCD ];
 @GDEF_Component = [\grave.case ];
 

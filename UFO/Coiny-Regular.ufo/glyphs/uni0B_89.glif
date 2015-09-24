@@ -73,19 +73,13 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>116</integer>
-            <key>width</key>
-            <integer>11</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>173</integer>
+            <integer>212</integer>
             <key>width</key>
             <integer>62</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>375</integer>
+            <integer>414</integer>
             <key>width</key>
             <integer>109</integer>
           </dict>

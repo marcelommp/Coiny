@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macron.case" format="1">
+  <advance width="475"/>
+  <outline>
+    <contour>
+      <point x="34" y="838.636" type="curve" smooth="yes"/>
+      <point x="34" y="775.013"/>
+      <point x="69.4326" y="758.903"/>
+      <point x="145.2" y="758.903" type="curve" smooth="yes"/>
+      <point x="225.855" y="758.903"/>
+      <point x="266.512" y="758.773"/>
+      <point x="347.167" y="758.773" type="curve" smooth="yes"/>
+      <point x="398" y="758.773"/>
+      <point x="438" y="787.026"/>
+      <point x="438" y="836.636" type="curve" smooth="yes"/>
+      <point x="438" y="885.739"/>
+      <point x="417.727" y="923.833"/>
+      <point x="338.921" y="923.873" type="curve" smooth="yes"/>
+      <point x="338.921" y="923.873"/>
+      <point x="227" y="924"/>
+      <point x="131" y="924" type="curve" smooth="yes"/>
+      <point x="80.4639" y="924"/>
+      <point x="34" y="901.894"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>759</integer>
+            <key>width</key>
+            <integer>165</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>34</integer>
+            <key>width</key>
+            <integer>404</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

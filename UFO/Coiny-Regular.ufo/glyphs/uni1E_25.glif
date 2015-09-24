@@ -22,7 +22,7 @@
             <key>position</key>
             <integer>1</integer>
             <key>width</key>
-            <integer>21</integer>
+            <integer>690</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -41,13 +41,13 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>360</integer>
+            <integer>215</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>432</integer>
+            <integer>360</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>

@@ -3,8 +3,29 @@
   <advance width="559"/>
   <unicode hex="2260"/>
   <outline>
-    <component base="slash" xOffset="-13.7051" yOffset="-91.6943"/>
-    <component base="equal"/>
+    <contour>
+      <point x="206" y="-25" type="line" smooth="yes"/>
+      <point x="187.643" y="-54.1046"/>
+      <point x="177.077" y="-72.1475"/>
+      <point x="146.734" y="-72.1475" type="curve" smooth="yes"/>
+      <point x="102.937" y="-72.1475"/>
+      <point x="52.3223" y="-38.5795"/>
+      <point x="52.3223" y="-1.87207" type="curve" smooth="yes"/>
+      <point x="52.3223" y="7.68466"/>
+      <point x="53.5036" y="18.0182"/>
+      <point x="60.0898" y="28.5107" type="curve" smooth="yes"/>
+      <point x="346.45" y="484.716" type="line" smooth="yes"/>
+      <point x="361.857" y="509.26"/>
+      <point x="374.281" y="523.143"/>
+      <point x="403.357" y="523.143" type="curve" smooth="yes"/>
+      <point x="446.824" y="523.143"/>
+      <point x="500" y="493.026"/>
+      <point x="500" y="457" type="curve" smooth="yes"/>
+      <point x="500" y="449.246"/>
+      <point x="499.397" y="440.168"/>
+      <point x="493.978" y="431.575" type="curve" smooth="yes"/>
+    </contour>
+    <component base="equal" xOffset="-0.379883" yOffset="-0.567383"/>
   </outline>
   <lib>
     <dict>
@@ -20,7 +41,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>260</integer>
+            <integer>259</integer>
             <key>width</key>
             <integer>145</integer>
           </dict>
