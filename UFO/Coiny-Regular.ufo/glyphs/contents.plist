@@ -1078,7 +1078,7 @@
     <string>grave.case.glif</string>
     <key>asciicircum</key>
     <string>asciicircum.glif</string>
-    <key>acute.case</key>
+    <key>dieresis.case</key>
     <string>acute.case.glif</string>
     <key>NameMe.0</key>
     <string>N_ameM_e.0.glif</string>
@@ -13486,5 +13486,23 @@
     <string>N_ameM_e.8644.glif</string>
     <key>macron.case</key>
     <string>macron.case.glif</string>
+    <key>breve.case</key>
+    <string>breve.case.glif</string>
+    <key>ring.case</key>
+    <string>ring.case.glif</string>
+    <key>acute.case</key>
+    <string>acute.case000000000000001.glif</string>
+    <key>uni01E2</key>
+    <string>uni01E_2.glif</string>
+    <key>caron.case</key>
+    <string>caron.case.glif</string>
+    <key>dot.below</key>
+    <string>dot.below.glif</string>
+    <key>BREVE.BELOW</key>
+    <string>B_R_E_V_E_.B_E_L_O_W_.glif</string>
+    <key>Line.below</key>
+    <string>L_ine.below.glif</string>
+    <key>dot.above</key>
+    <string>dot.above.glif</string>
   </dict>
 </plist>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dieresis" format="1">
-  <advance width="414"/>
+  <advance width="452"/>
   <unicode hex="00A8"/>
   <outline>
-    <component base="period" xScale="0.96" yScale="0.96" xOffset="-37.1002" yOffset="737.857"/>
-    <component base="period" xScale="0.96" yScale="0.96" xOffset="203.57" yOffset="737.857"/>
+    <component base="period" xScale="0.96" yScale="0.96" xOffset="-29.1002" yOffset="737.857"/>
+    <component base="period" xScale="0.96" yScale="0.96" xOffset="211.57" yOffset="737.857"/>
   </outline>
   <lib>
     <dict>

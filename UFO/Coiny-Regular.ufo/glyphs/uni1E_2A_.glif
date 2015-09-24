@@ -2,4 +2,9 @@
 <glyph name="uni1E2A" format="1">
   <advance width="758"/>
   <unicode hex="1E2A"/>
+  <outline>
+    <component base="BREVE.BELOW" xOffset="129"/>
+    <component base="uni032E" xOffset="379.141" yOffset="-60"/>
+    <component base="H"/>
+  </outline>
 </glyph>

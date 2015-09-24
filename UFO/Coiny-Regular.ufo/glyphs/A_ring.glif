@@ -2,4 +2,9 @@
 <glyph name="Aring" format="1">
   <advance width="672"/>
   <unicode hex="00C5"/>
+  <outline>
+    <component base="ring.case" xOffset="165"/>
+    <component base="uni030A.cap" xOffset="339.631" yOffset="690.566"/>
+    <component base="A"/>
+  </outline>
 </glyph>

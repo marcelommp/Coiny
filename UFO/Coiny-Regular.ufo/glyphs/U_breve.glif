@@ -2,4 +2,9 @@
 <glyph name="Ubreve" format="1">
   <advance width="687"/>
   <unicode hex="016C"/>
+  <outline>
+    <component base="breve.case" xOffset="125"/>
+    <component base="uni0306.cap" xOffset="343.294" yOffset="750.566"/>
+    <component base="U"/>
+  </outline>
 </glyph>

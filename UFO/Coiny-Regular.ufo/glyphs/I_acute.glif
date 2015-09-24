@@ -3,7 +3,8 @@
   <advance width="354"/>
   <unicode hex="00CD"/>
   <outline>
-    <component base="acute.case" xOffset="35"/>
+    <component base="acute.case" xOffset="9"/>
+    <component base="uni0301.cap" xOffset="173.253" yOffset="750.566"/>
     <component base="I"/>
   </outline>
   <lib>

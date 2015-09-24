@@ -3,7 +3,7 @@
   <advance width="672"/>
   <unicode hex="00C1"/>
   <outline>
-    <component base="acute.case" xOffset="183.672"/>
+    <component base="acute.case" xOffset="219"/>
     <component base="A"/>
   </outline>
   <lib>

@@ -2,4 +2,9 @@
 <glyph name="Emacron" format="1">
   <advance width="637"/>
   <unicode hex="0112"/>
+  <outline>
+    <component base="macron.case" xOffset="94"/>
+    <component base="uni0304.cap" xOffset="172.859" yOffset="750.566"/>
+    <component base="E"/>
+  </outline>
 </glyph>

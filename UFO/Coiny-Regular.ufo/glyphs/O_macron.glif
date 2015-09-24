@@ -2,4 +2,9 @@
 <glyph name="Omacron" format="1">
   <advance width="785"/>
   <unicode hex="014C"/>
+  <outline>
+    <component base="macron.case" xOffset="161"/>
+    <component base="uni0304.cap" xOffset="393.979" yOffset="750.566"/>
+    <component base="O"/>
+  </outline>
 </glyph>

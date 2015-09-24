@@ -2,4 +2,9 @@
 <glyph name="uni1E34" format="1">
   <advance width="671"/>
   <unicode hex="1E34"/>
+  <outline>
+    <component base="Line.below" xOffset="87"/>
+    <component base="uni0331" xOffset="337.65" yOffset="-60.2471"/>
+    <component base="K"/>
+  </outline>
 </glyph>

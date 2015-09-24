@@ -2,4 +2,9 @@
 <glyph name="Abreve" format="1">
   <advance width="672"/>
   <unicode hex="0102"/>
+  <outline>
+    <component base="breve.case" xOffset="99"/>
+    <component base="uni0306.cap" xOffset="339.631" yOffset="750.566"/>
+    <component base="A"/>
+  </outline>
 </glyph>

@@ -33,7 +33,7 @@ lookup abvmAboveBaseMarklookup2 {
   pos base [\uni0B99 ] <anchor 1175 0> mark @Anchor1;
   pos base [\uni0B9A ] <anchor 888 0> mark @Anchor1;
   pos base [\uni0B9C ] <anchor 838 -6> mark @Anchor1;
-  pos base [\uni0BA4 ] <anchor 925 -3> mark @Anchor1;
+  pos base [\uni0BA4 ] <anchor 920 -3> mark @Anchor1;
 } abvmAboveBaseMarklookup2;
 
 lookup abvmAboveBaseMarklookup0 {
@@ -163,8 +163,8 @@ feature abvm {
 	\quotedblleft.latn \quotedblright.latn \asterisk.latn \uni0300.cap 
 	\uni0301.cap \uni0304.cap \uni0306.cap \uni030A.cap \uni0307.cap \uni030C.cap 
 	\uni0310.cap \uni0082 \uni0083 \uni0084 \uni0085 \uni0087 \uni0089 \uni008A 
-	\uni008B \asciicircum \acute.case \NameMe.0 \uni0B93.a \uni0BBF.a \uni0BC0.a 
-	\uni0BC1.a \uni0BC2.a \u0B950BBF \u0B950BC0 \u0B950BC1 \u0B950BC2 
+	\uni008B \asciicircum \dieresis.case \NameMe.0 \uni0B93.a \uni0BBF.a 
+	\uni0BC0.a \uni0BC1.a \uni0BC2.a \u0B950BBF \u0B950BC0 \u0B950BC1 \u0B950BC2 
 	\u0B950BCD0BB7 \u0B950BCD0BB70BBF \u0B950BCD0BB70BC0 \u0B990BBF \u0B990BC0 
 	\u0B990BC1 \u0B990BC2 \u0B9A0BBF \u0B9A0BBF.a \u0B9A0BC0 \u0B9A0BC1 \u0B9A0BC2 
 	\u0B9C0BBF \u0B9C0BC0 \u0B9E0BC1 \u0B9E0BC2 \u0B9F0BBF \u0B9F0BC0 \u0B9F0BC1 
@@ -1196,7 +1196,8 @@ feature abvm {
 	\NameMe.8625 \NameMe.8626 \NameMe.8627 \NameMe.8628 \NameMe.8629 \NameMe.8630 
 	\NameMe.8631 \NameMe.8632 \NameMe.8633 \NameMe.8634 \NameMe.8635 \NameMe.8636 
 	\NameMe.8637 \NameMe.8638 \NameMe.8639 \NameMe.8640 \NameMe.8641 \NameMe.8642 
-	\NameMe.8643 \NameMe.8644 \macron.case ];
+	\NameMe.8643 \NameMe.8644 \macron.case \breve.case \ring.case \acute.case 
+	\uni01E2 \caron.case \dot.below \BREVE.BELOW \Line.below \dot.above ];
 @GDEF_Mark = [\uni0BC0 \uni0BCD ];
 @GDEF_Component = [\grave.case ];
 

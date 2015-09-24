@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E39" format="1">
-  <advance width="370"/>
+  <advance width="312"/>
   <unicode hex="1E39"/>
+  <outline>
+    <component base="macron.case" xOffset="-69"/>
+    <component base="l"/>
+    <component base="dotaccent" xOffset="28.0436" yOffset="-271.615"/>
+  </outline>
 </glyph>
