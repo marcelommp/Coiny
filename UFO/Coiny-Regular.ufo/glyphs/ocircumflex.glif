@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ocircumflex" format="1">
-  <advance width="632"/>
+  <advance width="631"/>
   <unicode hex="00F4"/>
   <outline>
-    <component base="circumflex" xOffset="73.829" yOffset="-103.299"/>
+    <component base="circumflex" xOffset="73.8255" yOffset="-103.299"/>
     <component base="o"/>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>146</integer>
+            <integer>94</integer>
             <key>width</key>
             <integer>441</integer>
           </dict>

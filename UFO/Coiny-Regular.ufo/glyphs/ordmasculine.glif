@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordmasculine" format="1">
-  <advance width="632"/>
+  <advance width="631"/>
   <unicode hex="00BA"/>
   <outline>
     <component base="o" xScale="0.7" yScale="0.7" xOffset="94.8095" yOffset="345.525"/>

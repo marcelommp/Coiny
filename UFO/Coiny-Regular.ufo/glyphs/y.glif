@@ -14,11 +14,11 @@
       <point x="134.591" y="-229.196"/>
       <point x="58.2715" y="-123.096"/>
       <point x="58.2715" y="-78.7686" type="curve" smooth="yes"/>
-      <point x="58.2715" y="-56.916"/>
-      <point x="75.0781" y="-39.083"/>
-      <point x="107.947" y="-39.083" type="curve" smooth="yes"/>
-      <point x="125.272" y="-39.083"/>
-      <point x="136.358" y="-62.2178"/>
+      <point x="58.2715" y="-60.1664"/>
+      <point x="69.669" y="-36.9608"/>
+      <point x="94" y="-36.9608" type="curve" smooth="yes"/>
+      <point x="125.745" y="-36.9608"/>
+      <point x="129.523" y="-59.8151"/>
       <point x="168.256" y="-73.4297" type="curve" smooth="yes"/>
       <point x="193.06" y="-82.1484"/>
       <point x="213.854" y="-89.1455"/>

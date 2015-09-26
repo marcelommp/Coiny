@@ -3,7 +3,8 @@
   <advance width="619"/>
   <unicode hex="00E1"/>
   <outline>
-    <component base="acutecomb" xOffset="107.265" yOffset="-9.03027"/>
+    <component base="acute" xOffset="142.132" yOffset="-9.41602"/>
+    <component base="acutecomb" xOffset="224.68" yOffset="544.086"/>
     <component base="a"/>
   </outline>
   <lib>
@@ -32,7 +33,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>514</integer>
+            <integer>533</integer>
             <key>width</key>
             <integer>244</integer>
           </dict>
@@ -47,7 +48,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>127</integer>
+            <integer>162</integer>
             <key>width</key>
             <integer>331</integer>
           </dict>

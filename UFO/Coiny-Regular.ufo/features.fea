@@ -45,7 +45,7 @@ lookup abvmAboveBaseMarklookup0 {
   pos base [\uni0BA8 ] <anchor 399 0> mark @Anchor0;
   pos base [\uni0BAA ] <anchor 345 -2> mark @Anchor0;
   pos base [\uni0B9F ] <anchor 370 0> mark @Anchor0;
-  pos base [\uni0B82 ] <anchor -9 0> mark @Anchor0;
+  pos base [\uni0B82 ] <anchor 0 0> mark @Anchor0;
   pos base [\uni0BB3 ] <anchor 818 0> mark @Anchor0;
   pos base [\uni0BB5 ] <anchor 805 0> mark @Anchor0;
   pos base [\uni0BB2 ] <anchor 650 -2> mark @Anchor0;
@@ -150,7 +150,7 @@ feature abvm {
 	\uni1E5D \uni1E5F \germandbls \uni1E6F \umacron \ubreve \uni1E95 \eth \thorn 
 	\ampersand \uni0047033100480331 \uni0047033100680331 \uni0067033100680331 
 	\uni004B033100480331 \uni004B033100680331 \uni006B033100680331 \T_h \f_b 
-	\f_f_b \f_h \f_f_h \f_j \f_f_j \f_k \f_f_k \f_t \f_f_t \gravecomb \circumflex 
+	\f_f_b \f_h \f_f_h \f_j \f_f_j \f_k \f_f_k \f_t \f_f_t \gravecomb \caron 
 	\circumflex \macron \uni0304 \breve \uni0306 \ring \uni030A \uni0307 
 	\hungarumlaut \uni0310 \cedilla \uni0327 \ogonek \uni0328 \uni0323 \uni0324 
 	\uni0331 \uni0325 \uni032E \uni035F \brokenbar \uni20B9 \uni20B9.pnum \dollar 
