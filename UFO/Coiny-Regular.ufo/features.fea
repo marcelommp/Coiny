@@ -1197,7 +1197,14 @@ feature abvm {
 	\NameMe.8631 \NameMe.8632 \NameMe.8633 \NameMe.8634 \NameMe.8635 \NameMe.8636 
 	\NameMe.8637 \NameMe.8638 \NameMe.8639 \NameMe.8640 \NameMe.8641 \NameMe.8642 
 	\NameMe.8643 \NameMe.8644 \macron.case \breve.case \ring.case \acute.case 
-	\uni01E2 \caron.case \dot.below \BREVE.BELOW \Line.below \dot.above ];
+	\uni01E2 \caron.case \dot.below \BREVE.BELOW \Line.below \dot.above \Dcroat 
+	\dcroat \lacute \Aogonek \Cacute \Ccaron \Dcaron \Edotaccent \dotaccent.case 
+	\Eogonek \Ecaron \Gbreve \Iogonek \Idotaccent \Lacute \Lcaron \Nacute \Ncaron 
+	\Ohungarumlaut \Racute \Rcaron \Tcaron \hungarumlaut.case \Uring 
+	\Uhungarumlaut \Uogonek \Zacute \Scedilla \Tcedilla \Scommaaccent \aogonek 
+	\cacute \ccaron \dcaron \edotaccent \eogonek \ecaron \gbreve \iogonek \lcaron 
+	\nacute \ncaron \ohungarumlaut \racute \rcaron \tcaron \uring \uhungarumlaut 
+	\uogonek ];
 @GDEF_Mark = [\uni0BC0 \uni0BCD ];
 @GDEF_Component = [\grave.case ];
 

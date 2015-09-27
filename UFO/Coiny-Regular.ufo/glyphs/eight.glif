@@ -32,9 +32,9 @@
     <contour>
       <point x="374.173" y="188.91" type="curve" smooth="yes"/>
       <point x="374.173" y="235.885"/>
-      <point x="362.032" y="286.931"/>
-      <point x="336.041" y="286.931" type="curve" smooth="yes"/>
-      <point x="299.474" y="286.931"/>
+      <point x="359.804" y="286.931"/>
+      <point x="329.041" y="286.931" type="curve" smooth="yes"/>
+      <point x="297.067" y="286.931"/>
       <point x="280.313" y="235.29"/>
       <point x="280.313" y="188.964" type="curve" smooth="yes"/>
       <point x="280.313" y="142.714"/>
