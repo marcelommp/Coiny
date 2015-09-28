@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tm_VowelI.alt4" format="1">
+  <advance width="310"/>
+  <outline>
+    <contour>
+      <point x="278.824" y="109.896" type="curve" smooth="yes"/>
+      <point x="278.824" y="20"/>
+      <point x="235.867" y="-0.0947266"/>
+      <point x="173.024" y="-0.0947266" type="curve" smooth="yes"/>
+      <point x="110.924" y="-0.0947266"/>
+      <point x="63.7744" y="45"/>
+      <point x="63.7744" y="112.822" type="curve" smooth="yes"/>
+      <point x="63.7744" y="359.396" type="line" smooth="yes"/>
+      <point x="63.7744" y="547.723"/>
+      <point x="22.2495" y="622.829"/>
+      <point x="-167" y="622.829" type="curve" smooth="yes"/>
+      <point x="-303.27" y="622.829"/>
+      <point x="-347.531" y="561.431"/>
+      <point x="-347.531" y="536" type="curve" smooth="yes"/>
+      <point x="-347.531" y="516"/>
+      <point x="-334.982" y="484.53"/>
+      <point x="-303.831" y="476" type="curve" smooth="yes"/>
+      <point x="-289.412" y="472.052"/>
+      <point x="-269" y="472.55"/>
+      <point x="-269" y="444.949" type="curve" smooth="yes"/>
+      <point x="-269" y="421.357"/>
+      <point x="-298.764" y="398.083"/>
+      <point x="-349.881" y="398.083" type="curve" smooth="yes"/>
+      <point x="-438.039" y="398.083"/>
+      <point x="-518.881" y="465.381"/>
+      <point x="-518.881" y="562.45" type="curve" smooth="yes"/>
+      <point x="-518.881" y="712.601"/>
+      <point x="-343.542" y="796.387"/>
+      <point x="-133" y="796.387" type="curve" smooth="yes"/>
+      <point x="236.463" y="796.387"/>
+      <point x="282.433" y="607.173"/>
+      <point x="282.433" y="362" type="curve" smooth="yes"/>
+      <point x="282.433" y="282.349"/>
+      <point x="278.824" y="196.791"/>
+    </contour>
+  </outline>
+</glyph>
