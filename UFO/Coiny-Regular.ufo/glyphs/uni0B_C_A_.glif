@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0BCA" format="1">
-  <advance width="2372"/>
+  <advance width="2352"/>
   <unicode hex="0BCA"/>
   <outline>
     <component base="uni25CC" xOffset="960"/>

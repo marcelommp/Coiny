@@ -1,53 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tm_LU" format="1">
-  <advance width="1517"/>
+  <advance width="1495"/>
   <outline>
     <contour>
-      <point x="1047" y="120.8" type="line" smooth="yes"/>
-      <point x="1047" y="66.6211"/>
-      <point x="1038.72" y="21"/>
-      <point x="1007.61" y="-41" type="curve"/>
-      <point x="1100.48" y="-41"/>
-      <point x="1251.78" y="-40.6504"/>
-      <point x="1257" y="-40.6504" type="curve"/>
-      <point x="1256.42" y="128.226"/>
-      <point x="1255.83" y="293.473"/>
-      <point x="1255.83" y="382" type="curve" smooth="yes"/>
-      <point x="1255.83" y="468.809"/>
-      <point x="1304.01" y="501.949"/>
-      <point x="1366.08" y="501.949" type="curve" smooth="yes"/>
-      <point x="1428.93" y="501.949"/>
-      <point x="1476" y="488.132"/>
-      <point x="1476" y="390.986" type="curve" smooth="yes"/>
-      <point x="1476" y="-61.5625" type="line" smooth="yes"/>
-      <point x="1475.69" y="-141.342"/>
-      <point x="1446.67" y="-166"/>
-      <point x="1363.55" y="-166" type="curve" smooth="yes"/>
-      <point x="939.721" y="-166" type="line"/>
-      <point x="782.78" y="-352"/>
-      <point x="598.835" y="-442"/>
-      <point x="425" y="-442" type="curve" smooth="yes"/>
-      <point x="172.834" y="-442"/>
-      <point x="32" y="-346.436"/>
-      <point x="32" y="-206.25" type="curve" smooth="yes"/>
-      <point x="32" y="-84.3506"/>
-      <point x="115.994" y="-41"/>
-      <point x="250.79" y="-41" type="curve" smooth="yes"/>
-      <point x="826.567" y="-41" type="line" smooth="yes"/>
-      <point x="857" y="-6.51953"/>
-      <point x="845.257" y="63.3195"/>
-      <point x="890.542" y="96.6494" type="curve" smooth="yes"/>
+      <point x="1043" y="120.8" type="line" smooth="yes"/>
+      <point x="1043" y="66.6211"/>
+      <point x="1034.72" y="21"/>
+      <point x="1003.61" y="-41" type="curve"/>
+      <point x="1096.48" y="-41"/>
+      <point x="1247.78" y="-40.6504"/>
+      <point x="1253" y="-40.6504" type="curve"/>
+      <point x="1252.42" y="128.226"/>
+      <point x="1251.83" y="293.473"/>
+      <point x="1251.83" y="382" type="curve" smooth="yes"/>
+      <point x="1251.83" y="468.809"/>
+      <point x="1300.01" y="501.949"/>
+      <point x="1362.08" y="501.949" type="curve" smooth="yes"/>
+      <point x="1424.93" y="501.949"/>
+      <point x="1472" y="488.132"/>
+      <point x="1472" y="390.986" type="curve" smooth="yes"/>
+      <point x="1472" y="-61.5625" type="line" smooth="yes"/>
+      <point x="1471.69" y="-141.342"/>
+      <point x="1442.67" y="-166"/>
+      <point x="1359.55" y="-166" type="curve" smooth="yes"/>
+      <point x="935.721" y="-166" type="line"/>
+      <point x="778.78" y="-352"/>
+      <point x="594.835" y="-442"/>
+      <point x="421" y="-442" type="curve" smooth="yes"/>
+      <point x="168.834" y="-442"/>
+      <point x="28" y="-346.436"/>
+      <point x="28" y="-206.25" type="curve" smooth="yes"/>
+      <point x="28" y="-84.3506"/>
+      <point x="111.994" y="-41"/>
+      <point x="246.79" y="-41" type="curve" smooth="yes"/>
+      <point x="822.567" y="-41" type="line" smooth="yes"/>
+      <point x="853" y="-6.51953"/>
+      <point x="841.257" y="63.3193"/>
+      <point x="886.542" y="96.6494" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="717" y="-167.15" type="curve"/>
-      <point x="234.84" y="-167.15" type="line"/>
-      <point x="234.84" y="-219.333"/>
-      <point x="337.511" y="-246.301"/>
-      <point x="459.79" y="-246.301" type="curve" smooth="yes"/>
-      <point x="541.065" y="-246.301"/>
-      <point x="629.732" y="-229.638"/>
+      <point x="713" y="-167.15" type="curve"/>
+      <point x="230.84" y="-167.15" type="line"/>
+      <point x="230.84" y="-219.333"/>
+      <point x="333.511" y="-246.301"/>
+      <point x="455.79" y="-246.301" type="curve" smooth="yes"/>
+      <point x="537.065" y="-246.301"/>
+      <point x="625.732" y="-229.638"/>
     </contour>
-    <component base="uni0BB2"/>
+    <component base="uni0BB2" xOffset="-4"/>
   </outline>
   <lib>
     <dict>
@@ -96,31 +96,31 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>27</integer>
+            <integer>23</integer>
             <key>width</key>
             <integer>222</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>289</integer>
+            <integer>285</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>497</integer>
+            <integer>493</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>957</integer>
+            <integer>953</integer>
             <key>width</key>
             <integer>208</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1256</integer>
+            <integer>1252</integer>
             <key>width</key>
             <integer>220</integer>
           </dict>

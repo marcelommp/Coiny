@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tm_CU" format="1">
-  <advance width="934"/>
+  <advance width="924"/>
   <outline>
     <contour>
-      <point x="718.1" y="205.914" type="line" smooth="yes"/>
-      <point x="718.1" y="278.494"/>
-      <point x="739.584" y="302"/>
-      <point x="796.617" y="302" type="curve" smooth="yes"/>
-      <point x="846.834" y="302"/>
-      <point x="863" y="268.41"/>
-      <point x="863" y="196.551" type="curve" smooth="yes"/>
-      <point x="863" y="80" type="line" smooth="yes"/>
-      <point x="863" y="19.6025"/>
-      <point x="835.306" y="-1.08301"/>
-      <point x="792.737" y="-1.08301" type="curve" smooth="yes"/>
-      <point x="752.668" y="-1.08301"/>
-      <point x="718.1" y="16.7832"/>
-      <point x="718.1" y="86.2461" type="curve" smooth="yes"/>
+      <point x="710.1" y="205.914" type="line" smooth="yes"/>
+      <point x="710.1" y="278.494"/>
+      <point x="731.584" y="302"/>
+      <point x="788.617" y="302" type="curve" smooth="yes"/>
+      <point x="838.834" y="302"/>
+      <point x="855" y="268.41"/>
+      <point x="855" y="196.551" type="curve" smooth="yes"/>
+      <point x="855" y="80" type="line" smooth="yes"/>
+      <point x="855" y="19.6025"/>
+      <point x="827.306" y="-1.08301"/>
+      <point x="784.737" y="-1.08301" type="curve" smooth="yes"/>
+      <point x="744.668" y="-1.08301"/>
+      <point x="710.1" y="16.7832"/>
+      <point x="710.1" y="86.2461" type="curve" smooth="yes"/>
     </contour>
-    <component base="uni0B9A"/>
+    <component base="uni0B9A" xOffset="-4"/>
   </outline>
   <lib>
     <dict>
@@ -55,7 +55,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>718</integer>
+            <integer>710</integer>
             <key>width</key>
             <integer>145</integer>
           </dict>
