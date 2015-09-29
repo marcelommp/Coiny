@@ -21,6 +21,7 @@ lookup SingleSubstitutionlookup12 {
     sub \uni0BA4 by \tm_TU ;
     sub \uni0BBF by \tm_VowelI.alt1 ;
     sub \uni0BC2 by \tm_VowelUu.alt1 ;
+    sub \tm_RU by \´ ;
 } SingleSubstitutionlookup12;
 
 lookup sub_chain_pststaml_0 {
@@ -1313,9 +1314,9 @@ feature abvm {
 	\Gcommaaccent \Kcommaaccent \Lcommaaccent \Ncommaaccent \Rcommaaccent 
 	\Tcommaaccent \gcommaaccent \kcommaaccent \lcommaaccent \ncommaaccent 
 	\rcommaaccent \tcommaaccent \tm_VowelAi.alt \tm_VowelI.alt1 \tm_VowelU.alt1 
-	\tm_VowelUu.alt1 \tm_VowelI.alt2 \tm_VowelI.alt3 \tm_VowelI.alt4 ];
-@GDEF_Ligature = [\tm_KU \tm_CU \tm_NyU \tm_TtU \tm_NnU \tm_TU \tm_NU \tm_NnnU 
+	\tm_VowelUu.alt1 \tm_VowelI.alt2 \tm_VowelI.alt3 \tm_VowelI.alt4 \tm_NnnU 
 	\tm_MU \tm_RU \tm_RrU \tm_LU \tm_LlU ];
+@GDEF_Ligature = [\tm_KU \tm_CU \tm_NyU \tm_TtU \tm_NnU \tm_TU \tm_NU ];
 @GDEF_Mark = [\uni0BC0 \uni0BCD ];
 @GDEF_Component = [\grave.case ];
 

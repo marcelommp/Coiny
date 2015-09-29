@@ -40,6 +40,12 @@
             <key>width</key>
             <integer>404</integer>
           </dict>
+          <dict>
+            <key>position</key>
+            <integer>96</integer>
+            <key>width</key>
+            <integer>219</integer>
+          </dict>
         </array>
       </dict>
     </dict>
