@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Uogonek" format="1">
-  <advance width="687"/>
+  <advance width="737"/>
   <unicode hex="0172"/>
   <outline>
-    <component base="ogonek" xOffset="216.505" yOffset="-47.7836"/>
+    <component base="ogonek" xOffset="226.505" yOffset="-47.7836"/>
     <component base="U"/>
   </outline>
   <lib>
@@ -29,19 +29,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>48</integer>
+            <integer>58</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>231</integer>
+            <integer>241</integer>
             <key>width</key>
             <integer>153</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>413</integer>
+            <integer>443</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>

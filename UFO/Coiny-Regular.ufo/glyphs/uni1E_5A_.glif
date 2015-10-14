@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E5A" format="1">
-  <advance width="688"/>
+  <advance width="718"/>
   <unicode hex="1E5A"/>
   <outline>
-    <component base="dot.below" xOffset="181"/>
-    <component base="uni0323" xOffset="342.327" yOffset="-60"/>
+    <component base="dot.below" xOffset="191"/>
+    <component base="uni0323" xOffset="352.327" yOffset="-60"/>
     <component base="R"/>
   </outline>
   <lib>
@@ -29,38 +29,38 @@
             <key>position</key>
             <integer>247</integer>
             <key>width</key>
-            <integer>164</integer>
+            <integer>165</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>555</integer>
             <key>width</key>
-            <integer>128</integer>
+            <integer>129</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>49</integer>
+            <integer>60</integer>
             <key>width</key>
-            <integer>232</integer>
+            <integer>231</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>225</integer>
+            <integer>235</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>404</integer>
+            <integer>424</integer>
             <key>width</key>
             <integer>219</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>407</integer>
+            <integer>427</integer>
             <key>width</key>
             <integer>227</integer>
           </dict>

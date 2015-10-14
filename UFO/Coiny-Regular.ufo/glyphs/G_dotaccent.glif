@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Gdotaccent" format="1">
-  <advance width="762"/>
+  <advance width="782"/>
   <unicode hex="0120"/>
   <outline>
-    <component base="dotaccent" xOffset="273.019" yOffset="691.457"/>
+    <component base="dotaccent" xOffset="283.019" yOffset="691.457"/>
     <component base="G"/>
   </outline>
   <lib>
@@ -35,21 +35,21 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>41</integer>
+            <integer>51</integer>
             <key>width</key>
-            <integer>263</integer>
+            <integer>258</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>293</integer>
+            <integer>303</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>437</integer>
+            <integer>452</integer>
             <key>width</key>
-            <integer>259</integer>
+            <integer>254</integer>
           </dict>
         </array>
       </dict>

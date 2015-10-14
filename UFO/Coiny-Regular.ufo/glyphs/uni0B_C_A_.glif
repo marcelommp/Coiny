@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0BCA" format="1">
-  <advance width="2352"/>
+  <advance width="2387"/>
   <unicode hex="0BCA"/>
   <outline>
-    <component base="uni25CC" xOffset="960"/>
-    <component base="uni0BBE" xOffset="1566"/>
-    <component base="uni0BC6"/>
+    <component base="uni25CC" xOffset="984"/>
+    <component base="uni0BBE" xOffset="1590"/>
+    <component base="tm_E" xOffset="24"/>
   </outline>
   <lib>
     <dict>
@@ -108,85 +108,85 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>27</integer>
+            <integer>64</integer>
             <key>width</key>
             <integer>230</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>497</integer>
+            <integer>534</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>693</integer>
+            <integer>730</integer>
             <key>width</key>
             <integer>213</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>984</integer>
+            <integer>1007</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>999</integer>
+            <integer>1022</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1045</integer>
+            <integer>1068</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1122</integer>
+            <integer>1145</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1212</integer>
+            <integer>1235</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1302</integer>
+            <integer>1325</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1379</integer>
+            <integer>1402</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1425</integer>
+            <integer>1448</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1440</integer>
+            <integer>1463</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1593</integer>
+            <integer>1631</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>2006</integer>
+            <integer>2044</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>

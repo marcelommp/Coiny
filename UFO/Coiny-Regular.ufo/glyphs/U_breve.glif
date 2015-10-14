@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ubreve" format="1">
-  <advance width="687"/>
+  <advance width="737"/>
   <unicode hex="016C"/>
   <outline>
-    <component base="breve.case" xOffset="125"/>
-    <component base="uni0306.cap" xOffset="343.294" yOffset="750.566"/>
+    <component base="breve.case" xOffset="135"/>
+    <component base="uni0306.cap" xOffset="353.294" yOffset="750.566"/>
     <component base="U"/>
   </outline>
   <lib>
@@ -30,25 +30,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>48</integer>
+            <integer>58</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>135</integer>
+            <integer>145</integer>
             <key>width</key>
             <integer>189</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>406</integer>
+            <integer>416</integer>
             <key>width</key>
             <integer>189</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>413</integer>
+            <integer>443</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>

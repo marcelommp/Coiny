@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Obreve" format="1">
-  <advance width="785"/>
+  <advance width="805"/>
   <unicode hex="014E"/>
   <outline>
-    <component base="breve.case" xOffset="151"/>
-    <component base="uni0306.cap" xOffset="393.979" yOffset="750.566"/>
+    <component base="breve.case" xOffset="161"/>
+    <component base="uni0306.cap" xOffset="403.979" yOffset="750.566"/>
     <component base="O"/>
   </outline>
   <lib>
@@ -36,27 +36,27 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>42</integer>
+            <integer>52</integer>
             <key>width</key>
-            <integer>262</integer>
+            <integer>247</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>161</integer>
+            <integer>171</integer>
             <key>width</key>
             <integer>189</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>432</integer>
+            <integer>442</integer>
             <key>width</key>
             <integer>189</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>481</integer>
+            <integer>506</integer>
             <key>width</key>
-            <integer>262</integer>
+            <integer>247</integer>
           </dict>
         </array>
       </dict>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Lacute" format="1">
-  <advance width="592"/>
+  <advance width="612"/>
   <unicode hex="0139"/>
   <outline>
-    <component base="acute.case" xOffset="170"/>
-    <component base="uni0301.cap" xOffset="162" yOffset="750.566"/>
+    <component base="acute.case" xOffset="180"/>
+    <component base="uni0301.cap" xOffset="172" yOffset="750.566"/>
     <component base="L"/>
   </outline>
   <lib>
@@ -36,13 +36,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>47</integer>
+            <integer>57</integer>
             <key>width</key>
             <integer>230</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>200</integer>
+            <integer>210</integer>
             <key>width</key>
             <integer>331</integer>
           </dict>

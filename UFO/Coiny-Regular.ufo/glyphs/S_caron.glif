@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Scaron" format="1">
-  <advance width="678"/>
+  <advance width="698"/>
   <unicode hex="0160"/>
   <outline>
-    <component base="caron.case" xOffset="104"/>
+    <component base="caron.case" xOffset="114"/>
     <component base="S"/>
   </outline>
   <lib>
@@ -35,7 +35,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>44</integer>
+            <integer>54</integer>
             <key>width</key>
             <integer>269</integer>
           </dict>

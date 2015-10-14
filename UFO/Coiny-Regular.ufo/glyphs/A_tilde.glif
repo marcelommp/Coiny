@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Atilde" format="1">
-  <advance width="672"/>
+  <advance width="712"/>
   <unicode hex="00C3"/>
   <outline>
-    <component base="tilde.case" xOffset="105.672"/>
+    <component base="tilde.case" xOffset="125.977"/>
     <component base="A"/>
   </outline>
   <lib>
@@ -41,13 +41,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>33</integer>
+            <integer>43</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>410</integer>
+            <integer>440</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>

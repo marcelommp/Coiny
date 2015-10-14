@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="L" format="1">
-  <advance width="592"/>
+  <advance width="612"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="150.014" y="-0" type="line" smooth="yes"/>
-      <point x="78.7988" y="2.86035"/>
-      <point x="47.5566" y="36.9326"/>
-      <point x="47" y="142.41" type="curve" smooth="yes"/>
-      <point x="47" y="564.617" type="line" smooth="yes"/>
-      <point x="47" y="636"/>
-      <point x="91.4004" y="684.566"/>
-      <point x="160.365" y="684.566" type="curve" smooth="yes"/>
-      <point x="230.46" y="684.566"/>
-      <point x="276.833" y="670.749"/>
-      <point x="276.903" y="573.604" type="curve" smooth="yes"/>
-      <point x="277.194" y="172.743" type="line"/>
-      <point x="447.714" y="172.571" type="line" smooth="yes"/>
-      <point x="520.318" y="172.488"/>
-      <point x="553" y="160.511"/>
-      <point x="553" y="86.0029" type="curve" smooth="yes"/>
-      <point x="553" y="8.25781"/>
-      <point x="509.274" y="0"/>
-      <point x="438.35" y="-0" type="curve" smooth="yes"/>
+      <point x="160.014" y="0" type="line" smooth="yes"/>
+      <point x="88.7988" y="2.86035"/>
+      <point x="57.5566" y="36.9326"/>
+      <point x="57" y="142.41" type="curve" smooth="yes"/>
+      <point x="57" y="564.617" type="line" smooth="yes"/>
+      <point x="57" y="636"/>
+      <point x="101.4" y="684.566"/>
+      <point x="170.365" y="684.566" type="curve" smooth="yes"/>
+      <point x="240.46" y="684.566"/>
+      <point x="286.833" y="670.749"/>
+      <point x="286.903" y="573.604" type="curve" smooth="yes"/>
+      <point x="287.194" y="172.743" type="line"/>
+      <point x="457.714" y="172.571" type="line" smooth="yes"/>
+      <point x="530.318" y="172.488"/>
+      <point x="563" y="160.511"/>
+      <point x="563" y="86.0029" type="curve" smooth="yes"/>
+      <point x="563" y="8.25781"/>
+      <point x="519.274" y="0"/>
+      <point x="448.35" y="0" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -48,7 +48,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>47</integer>
+            <integer>57</integer>
             <key>width</key>
             <integer>230</integer>
           </dict>

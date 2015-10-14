@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ograve" format="1">
-  <advance width="785"/>
+  <advance width="805"/>
   <unicode hex="00D2"/>
   <outline>
-    <component base="grave.case" xOffset="124.252"/>
+    <component base="grave.case" xOffset="134.252"/>
     <component base="O"/>
   </outline>
   <lib>
@@ -35,21 +35,21 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>42</integer>
+            <integer>52</integer>
             <key>width</key>
-            <integer>262</integer>
+            <integer>247</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>154</integer>
+            <integer>164</integer>
             <key>width</key>
             <integer>331</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>481</integer>
+            <integer>506</integer>
             <key>width</key>
-            <integer>262</integer>
+            <integer>247</integer>
           </dict>
         </array>
       </dict>

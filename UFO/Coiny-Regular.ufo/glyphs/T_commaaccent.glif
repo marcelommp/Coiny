@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Tcommaaccent" format="1">
-  <advance width="721"/>
+  <advance width="741"/>
   <unicode hex="021A"/>
   <outline>
-    <component base="comma" xOffset="211.229" yOffset="-205"/>
+    <component base="comma" xOffset="221.229" yOffset="-205"/>
     <component base="T"/>
   </outline>
   <lib>
@@ -35,19 +35,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>35</integer>
+            <integer>45</integer>
             <key>width</key>
             <integer>651</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>249</integer>
+            <integer>259</integer>
             <key>width</key>
             <integer>229</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>251</integer>
+            <integer>261</integer>
             <key>width</key>
             <integer>230</integer>
           </dict>

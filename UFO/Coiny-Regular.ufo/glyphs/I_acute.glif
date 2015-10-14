@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iacute" format="1">
-  <advance width="354"/>
+  <advance width="374"/>
   <unicode hex="00CD"/>
   <outline>
-    <component base="acute.case" xOffset="9"/>
-    <component base="uni0301.cap" xOffset="173.253" yOffset="750.566"/>
+    <component base="acute.case" xOffset="19"/>
+    <component base="uni0301.cap" xOffset="183.253" yOffset="750.566"/>
     <component base="I"/>
   </outline>
   <lib>
@@ -30,13 +30,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>39</integer>
+            <integer>49</integer>
             <key>width</key>
             <integer>331</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>60</integer>
+            <integer>70</integer>
             <key>width</key>
             <integer>230</integer>
           </dict>

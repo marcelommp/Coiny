@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Sacute" format="1">
-  <advance width="678"/>
+  <advance width="698"/>
   <unicode hex="015A"/>
   <outline>
-    <component base="acute.case" xOffset="180"/>
+    <component base="acute.case" xOffset="190"/>
     <component base="S"/>
   </outline>
   <lib>
@@ -35,13 +35,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>44</integer>
+            <integer>54</integer>
             <key>width</key>
             <integer>269</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>210</integer>
+            <integer>220</integer>
             <key>width</key>
             <integer>331</integer>
           </dict>

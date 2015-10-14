@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ohungarumlaut" format="1">
-  <advance width="785"/>
+  <advance width="805"/>
   <unicode hex="0150"/>
   <outline>
-    <component base="hungarumlaut" xOffset="88.7632" yOffset="210.446"/>
+    <component base="hungarumlaut" xOffset="98.7632" yOffset="210.446"/>
     <component base="O"/>
   </outline>
   <lib>
@@ -26,42 +26,42 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>751</integer>
+            <integer>775</integer>
             <key>width</key>
-            <integer>244</integer>
+            <integer>220</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>753</integer>
+            <integer>777</integer>
             <key>width</key>
-            <integer>244</integer>
+            <integer>220</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>42</integer>
+            <integer>52</integer>
             <key>width</key>
-            <integer>262</integer>
+            <integer>247</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>109</integer>
+            <integer>153</integer>
             <key>width</key>
-            <integer>331</integer>
+            <integer>298</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>478</integer>
+            <integer>469</integer>
             <key>width</key>
-            <integer>331</integer>
+            <integer>298</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>481</integer>
+            <integer>506</integer>
             <key>width</key>
-            <integer>262</integer>
+            <integer>247</integer>
           </dict>
         </array>
       </dict>

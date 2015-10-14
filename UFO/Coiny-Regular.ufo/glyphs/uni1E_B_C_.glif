@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1EBC" format="1">
-  <advance width="637"/>
+  <advance width="672"/>
   <unicode hex="1EBC"/>
   <outline>
-    <component base="tilde.case" xOffset="97.9287"/>
+    <component base="tilde.case" xOffset="107.846"/>
     <component base="E"/>
   </outline>
   <lib>
@@ -41,7 +41,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>58</integer>
+            <integer>68</integer>
             <key>width</key>
             <integer>232</integer>
           </dict>

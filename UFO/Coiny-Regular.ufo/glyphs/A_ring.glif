@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Aring" format="1">
-  <advance width="672"/>
+  <advance width="712"/>
   <unicode hex="00C5"/>
   <outline>
-    <component base="ring.case" xOffset="165"/>
-    <component base="uni030A.cap" xOffset="339.631" yOffset="690.566"/>
+    <component base="ring.case" xOffset="185.305"/>
+    <component base="uni030A.cap" xOffset="359.936" yOffset="690.566"/>
     <component base="A"/>
   </outline>
   <lib>
@@ -48,25 +48,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>33</integer>
+            <integer>43</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>165</integer>
+            <integer>185</integer>
             <key>width</key>
             <integer>147</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>382</integer>
+            <integer>402</integer>
             <key>width</key>
             <integer>147</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>410</integer>
+            <integer>440</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>

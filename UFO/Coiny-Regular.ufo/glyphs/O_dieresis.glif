@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresis" format="1">
-  <advance width="785"/>
+  <advance width="805"/>
   <unicode hex="00D6"/>
   <outline>
-    <component base="dieresis.case" xOffset="178"/>
+    <component base="dieresis.case" xOffset="188"/>
     <component base="O"/>
   </outline>
   <lib>
@@ -35,27 +35,27 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>42</integer>
+            <integer>52</integer>
             <key>width</key>
-            <integer>262</integer>
+            <integer>247</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>178</integer>
+            <integer>188</integer>
             <key>width</key>
             <integer>209</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>419</integer>
+            <integer>429</integer>
             <key>width</key>
             <integer>209</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>481</integer>
+            <integer>506</integer>
             <key>width</key>
-            <integer>262</integer>
+            <integer>247</integer>
           </dict>
         </array>
       </dict>

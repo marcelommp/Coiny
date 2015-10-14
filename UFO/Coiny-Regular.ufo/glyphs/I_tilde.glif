@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Itilde" format="1">
-  <advance width="354"/>
+  <advance width="374"/>
   <unicode hex="0128"/>
   <outline>
-    <component base="tilde.case" xOffset="-57"/>
+    <component base="tilde.case" xOffset="-47"/>
     <component base="I"/>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>60</integer>
+            <integer>70</integer>
             <key>width</key>
             <integer>230</integer>
           </dict>

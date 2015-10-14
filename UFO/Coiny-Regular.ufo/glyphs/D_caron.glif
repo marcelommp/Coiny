@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcaron" format="1">
-  <advance width="699"/>
+  <advance width="719"/>
   <unicode hex="010E"/>
   <outline>
-    <component base="caron.case" xOffset="82"/>
-    <component base="uni030C.cap" xOffset="356" yOffset="750.566"/>
+    <component base="caron.case" xOffset="92"/>
+    <component base="uni030C.cap" xOffset="366" yOffset="750.566"/>
     <component base="D"/>
   </outline>
   <lib>
@@ -36,13 +36,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>53</integer>
+            <integer>63</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>419</integer>
+            <integer>429</integer>
             <key>width</key>
             <integer>240</integer>
           </dict>

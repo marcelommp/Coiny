@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ebreve" format="1">
-  <advance width="637"/>
+  <advance width="672"/>
   <unicode hex="0114"/>
   <outline>
-    <component base="breve.case" xOffset="93"/>
-    <component base="uni0306.cap" xOffset="172.859" yOffset="750.566"/>
+    <component base="breve.case" xOffset="102.917"/>
+    <component base="uni0306.cap" xOffset="182.776" yOffset="750.566"/>
     <component base="E"/>
   </outline>
   <lib>
@@ -42,19 +42,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>58</integer>
+            <integer>68</integer>
             <key>width</key>
             <integer>232</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>103</integer>
+            <integer>113</integer>
             <key>width</key>
             <integer>189</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>374</integer>
+            <integer>384</integer>
             <key>width</key>
             <integer>189</integer>
           </dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ucircumflex" format="1">
-  <advance width="687"/>
+  <advance width="737"/>
   <unicode hex="00DB"/>
   <outline>
-    <component base="circumflex.case" xOffset="117.159"/>
+    <component base="circumflex.case" xOffset="127.159"/>
     <component base="U"/>
   </outline>
   <lib>
@@ -29,19 +29,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>48</integer>
+            <integer>58</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>136</integer>
+            <integer>146</integer>
             <key>width</key>
             <integer>441</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>413</integer>
+            <integer>443</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>

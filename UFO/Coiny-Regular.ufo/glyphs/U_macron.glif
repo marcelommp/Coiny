@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Umacron" format="1">
-  <advance width="687"/>
+  <advance width="737"/>
   <unicode hex="016A"/>
   <outline>
-    <component base="macron.case" xOffset="127"/>
-    <component base="uni0304.cap" xOffset="343.294" yOffset="750.566"/>
+    <component base="macron.case" xOffset="137"/>
+    <component base="uni0304.cap" xOffset="353.294" yOffset="750.566"/>
     <component base="U"/>
   </outline>
   <lib>
@@ -30,19 +30,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>48</integer>
+            <integer>58</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>161</integer>
+            <integer>171</integer>
             <key>width</key>
             <integer>404</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>413</integer>
+            <integer>443</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>

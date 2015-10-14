@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcommaaccent" format="1">
-  <advance width="688"/>
+  <advance width="718"/>
   <unicode hex="0156"/>
   <outline>
-    <component base="comma" xOffset="192.21" yOffset="-205"/>
+    <component base="comma" xOffset="202.21" yOffset="-205"/>
     <component base="R"/>
   </outline>
   <lib>
@@ -28,38 +28,38 @@
             <key>position</key>
             <integer>247</integer>
             <key>width</key>
-            <integer>164</integer>
+            <integer>165</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>555</integer>
             <key>width</key>
-            <integer>128</integer>
+            <integer>129</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>49</integer>
+            <integer>60</integer>
             <key>width</key>
-            <integer>232</integer>
+            <integer>231</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>232</integer>
+            <integer>242</integer>
             <key>width</key>
             <integer>230</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>404</integer>
+            <integer>424</integer>
             <key>width</key>
             <integer>219</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>407</integer>
+            <integer>427</integer>
             <key>width</key>
             <integer>227</integer>
           </dict>
