@@ -29,8 +29,8 @@ lookup abvsAboveBaseSubstitutionslooku {
     sub \tm_NGA \tm_UU  by \tm_NgUu;
     sub \tm_CA \tm_UU  by \tm_CUu;
     sub \tm_TTA \tm_UU  by \tm_TtUu;
-    sub \tm_YA \tm_UU  by \tm_PUu;
     sub \tm_PA \tm_UU  by \tm_PUu;
+    sub \tm_YA \tm_UU  by \tm_PUu;
     sub \tm_BAE \tm_UU  by \tm_MUu;
     sub \tm_LLA \tm_UU  by \tm_LlUu;
     sub \tm_LLLA \tm_UU  by \tm_LllUu;
@@ -39,6 +39,7 @@ lookup abvsAboveBaseSubstitutionslooku {
     sub \tm_RA \tm_UU  by \tm_RUu;
     sub \tm_TTA \tm_VowelI  by \tm_TtI;
     sub \tm_TTA \tm_VowelIi  by \tm_TtIi;
+    sub \tm_SHA \tm_VIRAMA \tm_RA \tm_VowelIi  by \tm_Shree;
     sub \tm_YA \tm_VowelU  by \tm_YAU;
     sub \tm_VA \tm_VowelU  by \tm_VAu;
     sub \tm_PA \tm_VowelU  by \tm_PAU;
@@ -52,6 +53,9 @@ lookup abvsAboveBaseSubstitutionslooku {
     sub \tm_NNNA \tm_UU  by \tm_NNNAUU;
     sub \tm_SSA \tm_VowelI  by \tm_SSAI;
     sub \tm_KA \tm_VIRAMA \tm_SSA \tm_VowelI  by \tm_KSsaI;
+    sub \tm_KA \tm_VIRAMA \tm_E \tm_SSA  by \tm_EKSsa;
+    sub \tm_KA \tm_VIRAMA \tm_EE \tm_SSA  by \tm_EEKSsa;
+    sub \tm_KA \tm_VIRAMA \tm_AI \tm_SSA  by \tm_AIKSsa;
 } abvsAboveBaseSubstitutionslooku;
 
 feature abvs {
@@ -84,6 +88,13 @@ feature abvs {
 # GPOS 
 
 
+lookup kernHorizontalKerninglookup0 {
+  lookupflag 0;
+    @kc1_first_1 = [\A ];
+    @kc1_second_1 = [\T \Y ];
+    pos @kc1_first_1 @kc1_second_1 -69;
+} kernHorizontalKerninglookup0;
+
 lookup abvmAboveBaseMarklookup2 {
   lookupflag 0;
   markClass [\tm_VowelIi ] <anchor 0 14> @Anchor1;
@@ -97,9 +108,9 @@ lookup abvmAboveBaseMarklookup2 {
   pos base [\tm_BAE ] <anchor 696 0> mark @Anchor1;
   pos base [\tm_YA ] <anchor 919 6> mark @Anchor1;
   pos base [\tm_RRA ] <anchor 763 0> mark @Anchor1;
-  pos base [\uni0BB6 ] <anchor 1066 -6> mark @Anchor1;
+  pos base [\tm_SHA ] <anchor 1066 -6> mark @Anchor1;
   pos base [\tm_LLLA ] <anchor 705 0> mark @Anchor1;
-  pos base [\tm_SSA ] <anchor 1076 0> mark @Anchor1;
+  pos base [\tm_SSA ] <anchor 1161 0> mark @Anchor1;
   pos base [\uni0BB8 ] <anchor 1452 0> mark @Anchor1;
   pos base [\uni0BB9 ] <anchor 1681 0> mark @Anchor1;
   pos base [\tm_NNA ] <anchor 1822 0> mark @Anchor1;
@@ -127,7 +138,7 @@ lookup abvmAboveBaseMarklookup0 {
   pos base [\tm_BAE ] <anchor 534 -5> mark @Anchor0;
   pos base [\tm_YA ] <anchor 469 0> mark @Anchor0;
   pos base [\tm_RRA ] <anchor 435 0> mark @Anchor0;
-  pos base [\uni0BB6 ] <anchor 613 0> mark @Anchor0;
+  pos base [\tm_SHA ] <anchor 613 0> mark @Anchor0;
   pos base [\tm_LLLA ] <anchor 540 0> mark @Anchor0;
   pos base [\tm_SSA ] <anchor 963 0> mark @Anchor0;
   pos base [\uni0BB8 ] <anchor 793 0> mark @Anchor0;
@@ -140,6 +151,33 @@ lookup abvmAboveBaseMarklookup0 {
   pos base [\uni0B9C ] <anchor 494 0> mark @Anchor0;
   pos base [\tm_TA ] <anchor 552 -3> mark @Anchor0;
 } abvmAboveBaseMarklookup0;
+
+feature kern {
+
+ script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+ script deva;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+ script grek;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+ script latn;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+ script taml;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+
+ script tibt;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+} kern;
 
 feature abvm {
 
@@ -186,7 +224,7 @@ feature abvm {
 	\guillemotleft \guillemotright \parenleft \parenright \braceleft \braceright 
 	\bracketleft \bracketright \bar \slash \endash \emdash \bullet \periodcentered 
 	\asterisk \dagger \daggerdbl \section \paragraph \tm_LLA \tm_VA \tm_LA \tm_BAE 
-	\tm_YA \tm_RRA \uni0BB6 \tm_LLLA \tm_SSA \uni0BB8 \uni0BB9 \tm_NNA \tm_NNNA \zero 
+	\tm_YA \tm_RRA \tm_SHA \tm_LLLA \tm_SSA \uni0BB8 \uni0BB9 \tm_NNA \tm_NNNA \zero 
 	\one \two \three \four \seven \six \five \nine \eight \underscore \acute 
 	\circumflex \dieresis \percent \backslash \equal \quotedbl \circumflex.case 
 	\less \greater \at \numbersign \asciitilde \tilde \agrave \aacute \acircumflex 
@@ -209,7 +247,7 @@ feature abvm {
 	\tildecomb \uni0308 \uni030B \onesuperior \twosuperior \threesuperior \minus 
 	\uni2113 \uni2010 \uni2219 \uni2215 \quoteleft.latn \uni0302.cap \uni0303.cap 
 	\uni0308.cap \uni0B90 \uni0B92 \uni0B93 \uni0B94 \tm_KA \tm_NGA \tm_CA \uni0B9C 
-	\tm_TA \tm_VowelI \tm_VowelU \tm_UU \tm_E \uni0BC7 \uni0BC8 \uni0BCA \uni0BCB 
+	\tm_TA \tm_VowelI \tm_VowelU \tm_UU \tm_E \tm_EE \tm_AI \uni0BCA \uni0BCB 
 	\uni0BCC \uni0BD0 \tm_AU \uni0BB0.a \uni0BE6 \tm_ONE \uni0BE8 \uni0BE9 \uni0BEA 
 	\uni0BEB \uni0BEC \uni0BED \uni0BEE \uni0BEF \uni0BF0 \uni0BF1 \uni0BF2 \uni0BF3 
 	\uni0BF4 \uni0BF5 \uni0BF6 \uni0BF7 \uni0BF8 \uni0BF9 \uni0BFA \uni0964 \uni0965 
@@ -243,12 +281,13 @@ feature abvm {
 	\Tcommaaccent \gcommaaccent \kcommaaccent \lcommaaccent \ncommaaccent 
 	\rcommaaccent \tcommaaccent \tm_VowelAi.alt \tm_VowelI.alt1 \tm_VowelU.alt1 
 	\tm_VowelUu.alt1 \tm_VowelI.alt2 \tm_VowelI.alt3 \tm_VowelI.alt4 \tm_YUu 
-	\tm_Shree \space \tm_LAUU ];
+	\space \tm_LAUU ];
 @GDEF_Ligature = [\tm_KU \tm_CU \tm_NyU \tm_TtU \tm_NnU \tm_TU \tm_NU \tm_NNNU 
 	\tm_MU \tm_RU \tm_RrU \tm_LU \tm_LlU \tm_LllU \tm_KUu \tm_NgUu \tm_CUu \tm_TtUu 
 	\tm_PUu \tm_MUu \tm_LlUu \tm_LllUu \tm_VUu \tm_KSsa \tm_RUu \tm_TtI \tm_TtIi 
-	\tm_YAU \tm_VAu \tm_PAU \tm_KSsa.alt1 \tm_NGAU \tm_NYAUU \tm_NNAUU \tm_TAUU 
-	\tm_NAUU \tm_RRAUU \tm_NNNAUU \tm_SSAI \tm_KSsaI ];
+	\tm_Shree \tm_YAU \tm_VAu \tm_PAU \tm_KSsa.alt1 \tm_NGAU \tm_NYAUU \tm_NNAUU 
+	\tm_TAUU \tm_NAUU \tm_RRAUU \tm_NNNAUU \tm_SSAI \tm_KSsaI \tm_EKSsa \tm_EEKSsa 
+	\tm_AIKSsa ];
 @GDEF_Mark = [\tm_VowelIi \tm_VIRAMA ];
 @GDEF_Component = [\grave.case ];
 

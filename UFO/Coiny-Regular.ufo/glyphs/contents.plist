@@ -252,7 +252,7 @@
     <string>uni0B_A_F_.glif</string>
     <key>tm_RRA</key>
     <string>uni0B_B_1.glif</string>
-    <key>uni0BB6</key>
+    <key>tm_SHA</key>
     <string>uni0B_B_6.glif</string>
     <key>tm_LLLA</key>
     <string>uni0B_B_4.glif</string>
@@ -642,9 +642,9 @@
     <string>uni0B_C_2.glif</string>
     <key>tm_E</key>
     <string>uni0B_C_6.glif</string>
-    <key>uni0BC7</key>
+    <key>tm_EE</key>
     <string>uni0B_C_7.glif</string>
-    <key>uni0BC8</key>
+    <key>tm_AI</key>
     <string>uni0B_C_8.glif</string>
     <key>uni0BCA</key>
     <string>uni0B_C_A_.glif</string>
@@ -1236,5 +1236,11 @@
     <string>tm_S_S_A_I_.glif</string>
     <key>tm_KSsaI</key>
     <string>tm_K_S_saI_.glif</string>
+    <key>tm_EKSsa</key>
+    <string>tm_E_K_S_sa.glif</string>
+    <key>tm_EEKSsa</key>
+    <string>tm_E_E_K_S_sa.glif</string>
+    <key>tm_AIKSsa</key>
+    <string>tm_A_I_K_S_sa.glif</string>
   </dict>
 </plist>

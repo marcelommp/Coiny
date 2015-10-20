@@ -15,19 +15,19 @@
             <key>position</key>
             <integer>270</integer>
             <key>width</key>
-            <integer>143</integer>
+            <integer>139</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>467</integer>
+            <integer>470</integer>
             <key>width</key>
-            <integer>100</integer>
+            <integer>93</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>621</integer>
+            <integer>624</integer>
             <key>width</key>
-            <integer>121</integer>
+            <integer>118</integer>
           </dict>
         </array>
         <key>vhints</key>

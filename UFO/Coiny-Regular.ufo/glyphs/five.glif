@@ -17,23 +17,23 @@
       <point x="80.0518" y="666.891"/>
       <point x="55.1943" y="636.99"/>
       <point x="55.1943" y="584.16" type="curve" smooth="yes"/>
-      <point x="55.1943" y="523.624"/>
-      <point x="55.4424" y="461.587"/>
-      <point x="55.4424" y="400.091" type="curve" smooth="yes"/>
-      <point x="55.4424" y="327.396"/>
-      <point x="76.0156" y="279.687"/>
-      <point x="172.273" y="279.687" type="curve" smooth="yes"/>
-      <point x="282.155" y="279.687"/>
-      <point x="329.123" y="260.94"/>
+      <point x="55.1943" y="525.268"/>
+      <point x="55.4424" y="464.916"/>
+      <point x="55.4424" y="405.091" type="curve" smooth="yes"/>
+      <point x="55.4424" y="332.396"/>
+      <point x="76.0156" y="284.687"/>
+      <point x="172.273" y="284.687" type="curve" smooth="yes"/>
+      <point x="282.155" y="284.687"/>
+      <point x="329.123" y="263.908"/>
       <point x="329.123" y="233.569" type="curve" smooth="yes"/>
-      <point x="329.123" y="206.229"/>
-      <point x="296.675" y="198.582"/>
-      <point x="238.752" y="198.582" type="curve" smooth="yes"/>
-      <point x="199.142" y="198.582"/>
-      <point x="142.987" y="206.193"/>
-      <point x="106.205" y="206.193" type="curve" smooth="yes"/>
-      <point x="65.1152" y="206.193"/>
-      <point x="36.7441" y="181.603"/>
+      <point x="329.123" y="202.321"/>
+      <point x="296.675" y="193.582"/>
+      <point x="238.752" y="193.582" type="curve" smooth="yes"/>
+      <point x="199.142" y="193.582"/>
+      <point x="142.987" y="201.193"/>
+      <point x="106.205" y="201.193" type="curve" smooth="yes"/>
+      <point x="65.1152" y="201.193"/>
+      <point x="36.7441" y="177.799"/>
       <point x="36.7441" y="103.391" type="curve" smooth="yes"/>
       <point x="36.7441" y="32.3213"/>
       <point x="92.3838" y="-5.63086"/>
@@ -60,7 +60,7 @@
             <key>position</key>
             <integer>-6</integer>
             <key>width</key>
-            <integer>204</integer>
+            <integer>199</integer>
           </dict>
         </array>
       </dict>
