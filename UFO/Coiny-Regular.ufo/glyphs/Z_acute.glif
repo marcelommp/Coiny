@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Zacute" format="1">
-  <advance width="753"/>
+  <advance width="757"/>
   <unicode hex="0179"/>
   <outline>
-    <component base="acute.case" xOffset="224"/>
-    <component base="uni0301.cap" xOffset="396.294" yOffset="750.566"/>
+    <component base="acute.case" xOffset="1278"/>
+    <component base="uni0301.cap" xOffset="1450.29" yOffset="750.566"/>
     <component base="Z"/>
   </outline>
   <lib>
@@ -21,9 +21,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>521</integer>
+            <integer>522</integer>
             <key>width</key>
-            <integer>162</integer>
+            <integer>163</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -36,7 +36,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>254</integer>
+            <integer>1308</integer>
             <key>width</key>
             <integer>331</integer>
           </dict>

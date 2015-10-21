@@ -88,12 +88,64 @@ feature abvs {
 # GPOS 
 
 
-lookup kernHorizontalKerninglookup0 {
+lookup kernHorizontalKerninglookup2 {
   lookupflag 0;
-    @kc1_first_1 = [\A ];
-    @kc1_second_1 = [\T \Y ];
-    pos @kc1_first_1 @kc1_second_1 -69;
-} kernHorizontalKerninglookup0;
+    pos \H \T -35;
+    pos \H \Q -10;
+    pos \H \O -10;
+    pos \H \J -26;
+    pos \A \Z -37;
+    pos \A \Y -80;
+    pos \A \X -37;
+    pos \A \T -100;
+    pos \E \S -20;
+    pos \E \Q -41;
+    pos \E \O -41;
+    pos \E \J -40;
+    pos \E \I -30;
+    pos \E \G -41;
+    pos \E \C -41;
+    pos \F \X -20;
+    pos \F \S -32;
+    pos \F \Q -20;
+    pos \F \O -20;
+    pos \F \J -89;
+    pos \F \G -20;
+    pos \F \C -20;
+    pos \B \Y -50;
+    pos \B \X -51;
+    pos \B \T -69;
+    pos \B \O -33;
+    pos \B \K -33;
+    pos \B \J -45;
+    pos \B \I -19;
+    pos \B \G -35;
+    pos \D \Z -68;
+    pos \D \Y -69;
+    pos \D \X -40;
+    pos \D \T -65;
+    pos \D \S -25;
+    pos \D \Q -35;
+    pos \D \O -35;
+    pos \D \J -43;
+    pos \D \I -33;
+    pos \C \Z -69;
+    pos \C \Y -84;
+    pos \C \X -74;
+    pos \C \T -66;
+    pos \C \S -46;
+    pos \C \Q -43;
+    pos \C \G -23;
+    pos \G \Y -43;
+    pos \G \X -39;
+    pos \G \T -63;
+    pos \G \S -24;
+    pos \G \Q -23;
+    pos \G \O -23;
+    pos \G \J -22;
+    pos \G \G -23;
+    pos \G \C -23;
+} kernHorizontalKerninglookup2;
 
 lookup abvmAboveBaseMarklookup2 {
   lookupflag 0;
@@ -156,27 +208,27 @@ feature kern {
 
  script DFLT;
      language dflt ;
-      lookup kernHorizontalKerninglookup0;
+      lookup kernHorizontalKerninglookup2;
 
  script deva;
      language dflt ;
-      lookup kernHorizontalKerninglookup0;
+      lookup kernHorizontalKerninglookup2;
 
  script grek;
      language dflt ;
-      lookup kernHorizontalKerninglookup0;
+      lookup kernHorizontalKerninglookup2;
 
  script latn;
      language dflt ;
-      lookup kernHorizontalKerninglookup0;
+      lookup kernHorizontalKerninglookup2;
 
  script taml;
      language dflt ;
-      lookup kernHorizontalKerninglookup0;
+      lookup kernHorizontalKerninglookup2;
 
  script tibt;
      language dflt ;
-      lookup kernHorizontalKerninglookup0;
+      lookup kernHorizontalKerninglookup2;
 } kern;
 
 feature abvm {

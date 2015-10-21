@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ncaron" format="1">
-  <advance width="715"/>
+  <advance width="773"/>
   <unicode hex="0147"/>
   <outline>
-    <component base="caron.case" xOffset="121"/>
-    <component base="uni030C.cap" xOffset="148.861" yOffset="750.566"/>
+    <component base="caron.case" xOffset="151"/>
+    <component base="uni030C.cap" xOffset="178.861" yOffset="750.566"/>
     <component base="N"/>
   </outline>
   <lib>
@@ -30,13 +30,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>37</integer>
+            <integer>67</integer>
             <key>width</key>
             <integer>163</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>515</integer>
+            <integer>545</integer>
             <key>width</key>
             <integer>160</integer>
           </dict>
