@@ -93,18 +93,98 @@ lookup kernHorizontalKerninglookup6Pon {
     pos \period \zero -47;
     pos \period \seven -82;
     pos \period \one -107;
+    pos \period \Y -160;
+    pos \f \period -70;
+    pos \f \comma -105;
+    pos \o \period -14;
+    pos \o \comma -11;
+    pos \p \braceright -30;
+    pos \r \period -135;
+    pos \r \comma -142;
+    pos \quotesingle \a -35;
+    pos \quotesingle \c -35;
+    pos \quotesingle \e -35;
+    pos \quotesingle \g -35;
+    pos \quotesingle \J -123;
+    pos \quotesingle \o -35;
+    pos \quotesingle \q -35;
     pos \quotesingle \four -92;
+    pos \L <0 0 -20 0 <device NULL> <device NULL> <device NULL> <device NULL>> \?  <0 0 -20 0 <device NULL> <device NULL> <device NULL> <device NULL>>;
+    pos \L \slash -20;
+    pos \L \quotesingle -156;
+    pos \L \quoteright -145;
+    pos \L \quotedblright -161;
+    pos \L \question -84;
     pos \comma \seven -74;
     pos \comma \one -101;
     pos \comma \nine -33;
     pos \comma \four -87;
+    pos \comma \Y -180;
+    pos \comma \T -180;
+    pos \comma \j 134;
     pos \hyphen \seven -75;
     pos \hyphen \one -75;
+    pos \T \slash -110;
+    pos \T \semicolon -54;
+    pos \T \period -175;
+    pos \T \comma -180;
+    pos \T \colon -72;
+    pos \F \slash -70;
+    pos \F \period -179;
+    pos \F \comma -180;
+    pos \P \slash -100;
+    pos \P \period -198;
+    pos \P \comma -180;
+    pos \S \slash -40;
+    pos \V \slash -50;
+    pos \N \slash -20;
+    pos \U \slash -50;
+    pos \M \slash -20;
+    pos \W \slash -50;
+    pos \Z \slash -40;
+    pos \Y \slash -110;
+    pos \Y \semicolon -34;
+    pos \Y \period -160;
+    pos \Y \comma -180;
+    pos \Y \colon -51;
+    pos \X \slash -30;
+    pos \questiondown \Y -112;
+    pos \questiondown \T -148;
+    pos \quoteleft \y -40;
+    pos \quoteleft \x -40;
+    pos \quoteleft \s -40;
+    pos \quoteleft \J -142;
+    pos \quoteleft \g -30;
+    pos \quotedblleft \s -10;
+    pos \quotedblleft \q -35;
+    pos \quotedblleft \o -35;
+    pos \quotedblleft \J -153;
+    pos \quotedblleft \g -35;
+    pos \quotedblleft \e -35;
+    pos \quotedblleft \d -35;
+    pos \quotedblleft \c -35;
+    pos \quotedblleft \a -35;
+    pos \parenleft \j 140;
+    pos \parenleft \J -55;
+    pos \braceleft \q -30;
+    pos \braceleft \j 153;
+    pos \bracketleft \j 152;
+    pos \slash \z -30;
+    pos \slash \y -30;
+    pos \slash \s -40;
+    pos \slash \q -40;
+    pos \slash \o -30;
+    pos \slash \J -50;
+    pos \slash \g -50;
+    pos \slash \e -50;
+    pos \slash \c -50;
+    pos \slash \a -50;
     pos \endash \seven -67;
     pos \endash \one -103;
-    pos \seven \endash -132;
     pos \seven \hyphen -118;
+    pos \seven \endash -132;
     pos \seven \comma -208;
+    pos \seven \cent -75;
 } kernHorizontalKerninglookup6Pon;
 
 lookup kernHorizontalKerninglookup5NUM {
@@ -510,6 +590,12 @@ lookup kernHorizontalKerninglookup3cai {
     pos \Y \u -110;
     pos \Y \v -110;
     pos \Y \y -110;
+    pos \quoteleft \a -50;
+    pos \quoteleft \c -48;
+    pos \quoteleft \e -45;
+    pos \quoteleft \o -20;
+    pos \quoteleft \q -30;
+    pos \quoteleft \X -30;
 } kernHorizontalKerninglookup3cai;
 
 lookup kernHorizontalKerninglookup2cai {
@@ -910,7 +996,7 @@ feature abvm {
 	\rcommaaccent \tcommaaccent \tm_VowelAi.alt \tm_VowelI.alt1 \tm_VowelU.alt1 
 	\tm_VowelUu.alt1 \tm_VowelI.alt2 \tm_VowelI.alt3 \tm_VowelI.alt4 \tm_YUu 
 	\space \tm_LAUU \NameMe.611 \NameMe.612 \NameMe.613 \NameMe.614 \NameMe.615 
-	\NameMe.616 ];
+	\NameMe.616 \glyph626 \glyph627 ];
 @GDEF_Ligature = [\tm_KU \tm_CU \tm_NyU \tm_TtU \tm_NnU \tm_TU \tm_NU \tm_NNNU 
 	\tm_MU \tm_RU \tm_RrU \tm_LU \tm_LlU \tm_LllU \tm_KUu \tm_NgUu \tm_CUu \tm_TtUu 
 	\tm_PUu \tm_MUu \tm_LlUu \tm_LllUu \tm_VUu \tm_KSsa \tm_RUu \tm_TtI \tm_TtIi 
