@@ -3,7 +3,7 @@
   <advance width="805"/>
   <unicode hex="00D6"/>
   <outline>
-    <component base="dieresis.case" xOffset="188"/>
+    <component base="dieresis.case" xOffset="183" yOffset="3"/>
     <component base="O"/>
   </outline>
   <lib>
@@ -26,7 +26,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>731</integer>
+            <integer>753</integer>
             <key>width</key>
             <integer>146</integer>
           </dict>
@@ -41,13 +41,13 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>188</integer>
+            <integer>183</integer>
             <key>width</key>
             <integer>209</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>429</integer>
+            <integer>424</integer>
             <key>width</key>
             <integer>209</integer>
           </dict>

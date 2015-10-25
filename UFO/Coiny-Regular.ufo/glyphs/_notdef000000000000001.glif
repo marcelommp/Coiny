@@ -3,30 +3,30 @@
   <advance width="478"/>
   <outline>
     <contour>
-      <point x="174.538" y="801.442" type="curve"/>
-      <point x="174.538" y="765.218"/>
-      <point x="140.268" y="736.385"/>
-      <point x="96.8389" y="736.385" type="curve" smooth="yes"/>
-      <point x="32.5303" y="736.385"/>
-      <point x="20.8652" y="773.094"/>
-      <point x="20.8652" y="824.498" type="curve" smooth="yes"/>
-      <point x="20.8652" y="881.432"/>
-      <point x="55.168" y="943.058"/>
-      <point x="123.059" y="943.058" type="curve" smooth="yes"/>
-      <point x="216.687" y="943.058"/>
-      <point x="303" y="878"/>
-      <point x="303" y="878" type="curve"/>
-      <point x="303" y="912.277"/>
-      <point x="337.27" y="943.058"/>
-      <point x="380.699" y="943.058" type="curve" smooth="yes"/>
-      <point x="444.304" y="943.058"/>
-      <point x="456.667" y="906.931"/>
-      <point x="456.667" y="856.418" type="curve" smooth="yes"/>
-      <point x="456.667" y="799.078"/>
-      <point x="422.956" y="736.385"/>
-      <point x="354.479" y="736.385" type="curve" smooth="yes"/>
-      <point x="260.851" y="736.385"/>
-      <point x="218.292" y="801.442"/>
+      <point x="178.07" y="810.548" type="curve"/>
+      <point x="178.07" y="776.316"/>
+      <point x="145.685" y="749.068"/>
+      <point x="104.645" y="749.068" type="curve" smooth="yes"/>
+      <point x="43.873" y="749.068"/>
+      <point x="32.8496" y="783.759"/>
+      <point x="32.8496" y="832.336" type="curve" smooth="yes"/>
+      <point x="32.8496" y="886.138"/>
+      <point x="65.2655" y="944.374"/>
+      <point x="129.422" y="944.374" type="curve" smooth="yes"/>
+      <point x="217.9" y="944.374"/>
+      <point x="299.467" y="882.895"/>
+      <point x="299.467" y="882.895" type="curve"/>
+      <point x="299.467" y="915.287"/>
+      <point x="331.852" y="944.374"/>
+      <point x="372.893" y="944.374" type="curve" smooth="yes"/>
+      <point x="432.999" y="944.374"/>
+      <point x="444.683" y="910.234"/>
+      <point x="444.683" y="862.499" type="curve" smooth="yes"/>
+      <point x="444.683" y="808.313"/>
+      <point x="412.826" y="749.068"/>
+      <point x="348.114" y="749.068" type="curve" smooth="yes"/>
+      <point x="259.636" y="749.068"/>
+      <point x="219.418" y="810.548"/>
     </contour>
   </outline>
   <lib>
@@ -37,9 +37,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>736</integer>
+            <integer>749</integer>
             <key>width</key>
-            <integer>207</integer>
+            <integer>195</integer>
           </dict>
         </array>
       </dict>

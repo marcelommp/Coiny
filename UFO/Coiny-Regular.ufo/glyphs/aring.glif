@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aring" format="1">
-  <advance width="619"/>
+  <advance width="624"/>
   <unicode hex="00E5"/>
   <outline>
-    <component base="ring" xOffset="141.961" yOffset="-93.252"/>
+    <component base="ring" xOffset="142.196" yOffset="-93.252"/>
     <component base="a"/>
   </outline>
   <lib>
@@ -32,15 +32,15 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>544</integer>
+            <integer>559</integer>
             <key>width</key>
-            <integer>95</integer>
+            <integer>86</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>755</integer>
+            <integer>749</integer>
             <key>width</key>
-            <integer>95</integer>
+            <integer>86</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -53,15 +53,15 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>142</integer>
+            <integer>160</integer>
             <key>width</key>
-            <integer>147</integer>
+            <integer>132</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>359</integer>
+            <integer>355</integer>
             <key>width</key>
-            <integer>147</integer>
+            <integer>132</integer>
           </dict>
           <dict>
             <key>position</key>

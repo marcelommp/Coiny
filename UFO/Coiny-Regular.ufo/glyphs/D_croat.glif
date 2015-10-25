@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Dcroat" format="1">
-  <advance width="719"/>
+  <advance width="720"/>
   <unicode hex="0110"/>
   <outline>
     <contour>
-      <point x="276" y="402" type="line" smooth="yes"/>
-      <point x="348.58" y="402"/>
-      <point x="372.086" y="380.516"/>
-      <point x="372.086" y="323.482" type="curve" smooth="yes"/>
-      <point x="372.086" y="273.266"/>
-      <point x="338.496" y="257.1"/>
-      <point x="266.637" y="257.1" type="curve" smooth="yes"/>
-      <point x="64" y="257.1" type="line" smooth="yes"/>
-      <point x="3.59375" y="257.1"/>
-      <point x="-17.083" y="284.794"/>
-      <point x="-17.083" y="327.362" type="curve" smooth="yes"/>
-      <point x="-17.083" y="367.432"/>
-      <point x="0.773438" y="402"/>
-      <point x="70.2461" y="402" type="curve" smooth="yes"/>
+      <point x="281" y="402" type="line" smooth="yes"/>
+      <point x="353.58" y="402"/>
+      <point x="377.086" y="380.516"/>
+      <point x="377.086" y="323.482" type="curve" smooth="yes"/>
+      <point x="377.086" y="273.266"/>
+      <point x="343.496" y="257.1"/>
+      <point x="271.637" y="257.1" type="curve" smooth="yes"/>
+      <point x="69" y="257.1" type="line" smooth="yes"/>
+      <point x="8.59375" y="257.1"/>
+      <point x="-12.083" y="284.794"/>
+      <point x="-12.083" y="327.362" type="curve" smooth="yes"/>
+      <point x="-12.083" y="367.432"/>
+      <point x="5.77344" y="402"/>
+      <point x="75.2461" y="402" type="curve" smooth="yes"/>
     </contour>
     <component base="D"/>
   </outline>
@@ -50,19 +50,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-17</integer>
+            <integer>-12</integer>
             <key>width</key>
             <integer>389</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>63</integer>
+            <integer>68</integer>
             <key>width</key>
             <integer>231</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>429</integer>
+            <integer>434</integer>
             <key>width</key>
             <integer>240</integer>
           </dict>

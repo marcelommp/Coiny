@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="1">
-  <advance width="504"/>
+  <advance width="434"/>
   <unicode hex="00B9"/>
   <outline>
     <component base="one" xScale="0.7" yScale="0.7" xOffset="63.7252" yOffset="275.209"/>
@@ -28,7 +28,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>171</integer>
+            <integer>163</integer>
             <key>width</key>
             <integer>161</integer>
           </dict>

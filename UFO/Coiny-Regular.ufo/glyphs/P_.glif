@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="P" format="1">
-  <advance width="715"/>
+  <advance width="700"/>
   <unicode hex="0050"/>
   <outline>
     <contour>
-      <point x="414.085" y="448.5" type="curve" smooth="yes"/>
-      <point x="414.085" y="546.201"/>
-      <point x="379.023" y="556.704"/>
+      <point x="429.085" y="448.5" type="curve" smooth="yes"/>
+      <point x="429.085" y="546.201"/>
+      <point x="389.285" y="556.704"/>
       <point x="303.1" y="556.704" type="curve" smooth="yes"/>
       <point x="303.266" y="337.069" type="line"/>
-      <point x="364.973" y="337.448"/>
-      <point x="414.085" y="359.689"/>
+      <point x="373.325" y="337.448"/>
+      <point x="429.085" y="359.689"/>
     </contour>
     <contour>
       <point x="303.406" y="150.304" type="line" smooth="yes"/>
@@ -67,9 +67,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>414</integer>
+            <integer>429</integer>
             <key>width</key>
-            <integer>246</integer>
+            <integer>231</integer>
           </dict>
         </array>
       </dict>

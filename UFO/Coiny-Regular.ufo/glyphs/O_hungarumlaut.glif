@@ -3,7 +3,7 @@
   <advance width="805"/>
   <unicode hex="0150"/>
   <outline>
-    <component base="hungarumlaut" xOffset="98.7632" yOffset="210.446"/>
+    <component base="hungarumlaut" xOffset="66.7632" yOffset="210.446"/>
     <component base="O"/>
   </outline>
   <lib>
@@ -26,15 +26,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>775</integer>
+            <integer>722</integer>
             <key>width</key>
-            <integer>220</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>777</integer>
-            <key>width</key>
-            <integer>220</integer>
+            <integer>248</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -44,18 +38,6 @@
             <integer>52</integer>
             <key>width</key>
             <integer>247</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>153</integer>
-            <key>width</key>
-            <integer>298</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>469</integer>
-            <key>width</key>
-            <integer>298</integer>
           </dict>
           <dict>
             <key>position</key>

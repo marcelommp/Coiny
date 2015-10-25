@@ -3,7 +3,7 @@
   <advance width="305"/>
   <unicode hex="012F"/>
   <outline>
-    <component base="ogonek" xOffset="14.2969" yOffset="-70.4491"/>
+    <component base="ogonek" xOffset="49"/>
     <component base="i"/>
   </outline>
   <lib>
@@ -14,7 +14,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-295</integer>
+            <integer>-246</integer>
             <key>width</key>
             <integer>140</integer>
           </dict>
@@ -35,15 +35,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>28</integer>
-            <key>width</key>
-            <integer>153</integer>
-          </dict>
-          <dict>
-            <key>position</key>
             <integer>45</integer>
             <key>width</key>
             <integer>215</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>63</integer>
+            <key>width</key>
+            <integer>153</integer>
           </dict>
         </array>
       </dict>

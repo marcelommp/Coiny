@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ecaron" format="1">
-  <advance width="596"/>
+  <advance width="595"/>
   <unicode hex="011B"/>
   <outline>
-    <component base="caron" xOffset="80.541" yOffset="-101.568"/>
+    <component base="caron" xOffset="60.5376" yOffset="-101.568"/>
     <component base="e"/>
   </outline>
   <lib>
@@ -32,9 +32,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>544</integer>
+            <integer>557</integer>
             <key>width</key>
-            <integer>164</integer>
+            <integer>148</integer>
           </dict>
         </array>
         <key>vhints</key>

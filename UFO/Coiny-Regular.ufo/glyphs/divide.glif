@@ -3,7 +3,7 @@
   <advance width="446"/>
   <unicode hex="00F7"/>
   <outline>
-    <component base="period" xScale="0.9025" yScale="0.9025" xOffset="101.157" yOffset="8.71171"/>
+    <component base="period" xScale="0.9025" yScale="0.9025" xOffset="101.157" yOffset="-0.28829"/>
     <component base="period" xScale="0.9025" yScale="0.9025" xOffset="101.157" yOffset="354.712"/>
     <component base="minus" xOffset="-16" yOffset="-36"/>
   </outline>
@@ -15,7 +15,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>2</integer>
+            <integer>-7</integer>
             <key>width</key>
             <integer>137</integer>
           </dict>

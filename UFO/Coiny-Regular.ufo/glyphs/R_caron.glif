@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Rcaron" format="1">
-  <advance width="705"/>
+  <advance width="720"/>
   <unicode hex="0158"/>
   <outline>
-    <component base="caron.case" xOffset="94"/>
+    <component base="caron.case" xOffset="102" yOffset="3"/>
     <component base="uni030C.cap" xOffset="182.189" yOffset="750.566"/>
     <component base="R"/>
   </outline>
@@ -23,17 +23,17 @@
             <key>position</key>
             <integer>247</integer>
             <key>width</key>
-            <integer>165</integer>
+            <integer>150</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>555</integer>
+            <integer>570</integer>
             <key>width</key>
-            <integer>129</integer>
+            <integer>114</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>747</integer>
+            <integer>750</integer>
             <key>width</key>
             <integer>164</integer>
           </dict>
@@ -48,15 +48,15 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>424</integer>
+            <integer>442</integer>
             <key>width</key>
-            <integer>219</integer>
+            <integer>227</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>427</integer>
+            <integer>444</integer>
             <key>width</key>
-            <integer>227</integer>
+            <integer>214</integer>
           </dict>
         </array>
       </dict>

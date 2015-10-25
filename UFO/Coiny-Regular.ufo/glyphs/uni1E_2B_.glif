@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni1E2B" format="1">
-  <advance width="621"/>
+  <advance width="624"/>
   <unicode hex="1E2B"/>
   <outline>
-    <component base="BREVE.BELOW" xOffset="76"/>
-    <component base="uni032E" xOffset="464.818" yOffset="-59.8184"/>
+    <component base="BREVE.BELOW" xScale="0.9" yScale="0.9" xOffset="100.973" yOffset="-18.4497"/>
+    <component base="uni032E" xOffset="467.818" yOffset="-59.8184"/>
     <component base="h"/>
   </outline>
   <lib>
@@ -15,9 +15,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-305</integer>
+            <integer>-296</integer>
             <key>width</key>
-            <integer>144</integer>
+            <integer>123</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -36,25 +36,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>46</integer>
+            <integer>49</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>86</integer>
+            <integer>120</integer>
             <key>width</key>
-            <integer>189</integer>
+            <integer>162</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>357</integer>
+            <integer>352</integer>
             <key>width</key>
-            <integer>189</integer>
+            <integer>162</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>360</integer>
+            <integer>363</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>

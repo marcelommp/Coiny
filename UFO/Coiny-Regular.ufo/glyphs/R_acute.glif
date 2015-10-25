@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Racute" format="1">
-  <advance width="705"/>
+  <advance width="720"/>
   <unicode hex="0154"/>
   <outline>
-    <component base="acute.case" xOffset="176"/>
+    <component base="acute.case" xOffset="188"/>
     <component base="uni0301.cap" xOffset="182.189" yOffset="750.566"/>
     <component base="R"/>
   </outline>
@@ -23,19 +23,19 @@
             <key>position</key>
             <integer>247</integer>
             <key>width</key>
-            <integer>165</integer>
+            <integer>150</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>555</integer>
+            <integer>570</integer>
             <key>width</key>
-            <integer>129</integer>
+            <integer>114</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>735</integer>
+            <integer>749</integer>
             <key>width</key>
-            <integer>244</integer>
+            <integer>242</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -48,21 +48,21 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>206</integer>
-            <key>width</key>
-            <integer>331</integer>
-          </dict>
-          <dict>
-            <key>position</key>
-            <integer>424</integer>
-            <key>width</key>
             <integer>219</integer>
+            <key>width</key>
+            <integer>328</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>427</integer>
+            <integer>442</integer>
             <key>width</key>
             <integer>227</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>444</integer>
+            <key>width</key>
+            <integer>214</integer>
           </dict>
         </array>
       </dict>

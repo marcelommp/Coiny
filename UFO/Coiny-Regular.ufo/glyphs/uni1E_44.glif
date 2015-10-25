@@ -3,7 +3,7 @@
   <advance width="773"/>
   <unicode hex="1E44"/>
   <outline>
-    <component base="dotaccent" xOffset="281.019" yOffset="691.457"/>
+    <component base="dotaccent" xOffset="267.019" yOffset="691.457"/>
     <component base="uni0307.cap" xOffset="178.861" yOffset="750.566"/>
     <component base="N"/>
   </outline>
@@ -36,7 +36,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>301</integer>
+            <integer>287</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>

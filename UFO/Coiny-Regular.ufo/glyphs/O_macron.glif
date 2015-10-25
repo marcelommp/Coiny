@@ -3,7 +3,7 @@
   <advance width="805"/>
   <unicode hex="014C"/>
   <outline>
-    <component base="macron.case" xOffset="171"/>
+    <component base="macron.case" xOffset="165"/>
     <component base="uni0304.cap" xOffset="403.979" yOffset="750.566"/>
     <component base="O"/>
   </outline>
@@ -42,7 +42,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>205</integer>
+            <integer>199</integer>
             <key>width</key>
             <integer>404</integer>
           </dict>

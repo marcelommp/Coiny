@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aogonek" format="1">
-  <advance width="619"/>
+  <advance width="624"/>
   <unicode hex="0105"/>
   <outline>
-    <component base="ogonek" xOffset="338" yOffset="-58.3539"/>
+    <component base="ogonek" xOffset="338.235" yOffset="-58.3539"/>
     <component base="a"/>
   </outline>
   <lib>
@@ -14,7 +14,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-283</integer>
+            <integer>-304</integer>
             <key>width</key>
             <integer>140</integer>
           </dict>

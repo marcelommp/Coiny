@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aacute" format="1">
-  <advance width="619"/>
+  <advance width="624"/>
   <unicode hex="00E1"/>
   <outline>
-    <component base="acute" xOffset="142.132" yOffset="-9.41602"/>
-    <component base="acutecomb" xOffset="224.68" yOffset="544.086"/>
+    <component base="acute" xOffset="168.367" yOffset="-9.41602"/>
+    <component base="acutecomb" xOffset="224.915" yOffset="544.086"/>
     <component base="a"/>
   </outline>
   <lib>
@@ -33,9 +33,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>533</integer>
+            <integer>546</integer>
             <key>width</key>
-            <integer>244</integer>
+            <integer>220</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -48,9 +48,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>162</integer>
+            <integer>205</integer>
             <key>width</key>
-            <integer>331</integer>
+            <integer>298</integer>
           </dict>
           <dict>
             <key>position</key>

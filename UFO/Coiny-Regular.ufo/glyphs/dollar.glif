@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dollar" format="1">
-  <advance width="692"/>
+  <advance width="694"/>
   <unicode hex="0024"/>
   <outline>
     <contour>
@@ -64,7 +64,7 @@
             <key>position</key>
             <integer>68</integer>
             <key>width</key>
-            <integer>269</integer>
+            <integer>258</integer>
           </dict>
           <dict>
             <key>position</key>

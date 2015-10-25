@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iacute" format="1">
-  <advance width="374"/>
+  <advance width="364"/>
   <unicode hex="00CD"/>
   <outline>
-    <component base="acute.case" xOffset="19"/>
+    <component base="acute.case" xOffset="31"/>
     <component base="uni0301.cap" xOffset="183.253" yOffset="750.566"/>
     <component base="I"/>
   </outline>
@@ -21,18 +21,18 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>735</integer>
+            <integer>749</integer>
             <key>width</key>
-            <integer>244</integer>
+            <integer>242</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>49</integer>
+            <integer>62</integer>
             <key>width</key>
-            <integer>331</integer>
+            <integer>328</integer>
           </dict>
           <dict>
             <key>position</key>
