@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni01E2" format="1">
-  <advance width="909"/>
+  <advance width="942"/>
   <unicode hex="01E2"/>
   <outline>
     <component base="macron.case" xOffset="271"/>
@@ -54,7 +54,7 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>376</integer>
+            <integer>409</integer>
             <key>width</key>
             <integer>460</integer>
           </dict>

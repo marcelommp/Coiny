@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tm_VIRAMA" format="1">
-  <advance width="0"/>
+  <advance width="18"/>
   <unicode hex="0BCD"/>
   <outline>
     <contour>
-      <point x="0" y="0" type="move" name="_Anchor-0"/>
+      <point x="9" y="0" type="move" name="_Anchor-0"/>
     </contour>
     <contour>
-      <point x="-108.54" y="721.1" type="curve" smooth="yes"/>
-      <point x="-108.54" y="663.912"/>
-      <point x="-55.708" y="645.017"/>
-      <point x="-0.25" y="645.017" type="curve" smooth="yes"/>
-      <point x="65.5732" y="645.017"/>
-      <point x="109" y="660.964"/>
-      <point x="109" y="721.1" type="curve" smooth="yes"/>
-      <point x="109" y="772.718"/>
-      <point x="71.9004" y="797"/>
-      <point x="-0.25" y="797" type="curve" smooth="yes"/>
-      <point x="-71.4189" y="797"/>
-      <point x="-108.54" y="764.241"/>
+      <point x="-99.54" y="721.1" type="curve" smooth="yes"/>
+      <point x="-99.54" y="663.912"/>
+      <point x="-46.708" y="645.017"/>
+      <point x="8.75" y="645.017" type="curve" smooth="yes"/>
+      <point x="74.5732" y="645.017"/>
+      <point x="118" y="660.964"/>
+      <point x="118" y="721.1" type="curve" smooth="yes"/>
+      <point x="118" y="772.718"/>
+      <point x="80.9004" y="797"/>
+      <point x="8.75" y="797" type="curve" smooth="yes"/>
+      <point x="-62.4189" y="797"/>
+      <point x="-99.54" y="764.241"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +38,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-109</integer>
+            <integer>-100</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>

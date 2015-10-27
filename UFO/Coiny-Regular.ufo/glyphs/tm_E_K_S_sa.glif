@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tm_EKSsa" format="1">
-  <advance width="3052"/>
+  <advance width="3078"/>
   <outline>
-    <component base="tm_KSsa" xOffset="936"/>
-    <component base="tm_E"/>
+    <component base="tm_KSsa" xOffset="962.316"/>
+    <component base="tm_E" xOffset="26.3158"/>
   </outline>
   <lib>
     <dict>
@@ -88,61 +88,61 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>40</integer>
+            <integer>76</integer>
             <key>width</key>
             <integer>230</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>510</integer>
+            <integer>546</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>706</integer>
+            <integer>742</integer>
             <key>width</key>
             <integer>213</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1084</integer>
+            <integer>1110</integer>
             <key>width</key>
             <integer>208</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1719</integer>
+            <integer>1745</integer>
             <key>width</key>
             <integer>123</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1925</integer>
+            <integer>1951</integer>
             <key>width</key>
             <integer>117</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>2134</integer>
+            <integer>2160</integer>
             <key>width</key>
             <integer>194</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>2335</integer>
+            <integer>2361</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>2545</integer>
+            <integer>2571</integer>
             <key>width</key>
             <integer>139</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>2786</integer>
+            <integer>2813</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>

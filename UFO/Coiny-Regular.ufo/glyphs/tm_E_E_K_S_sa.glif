@@ -88,19 +88,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>40</integer>
+            <integer>50</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>326</integer>
+            <integer>337</integer>
             <key>width</key>
             <integer>139</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>532</integer>
+            <integer>543</integer>
             <key>width</key>
             <integer>139</integer>
           </dict>

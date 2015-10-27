@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tm_RRAUU" format="1">
-  <advance width="1782"/>
+  <advance width="1790"/>
   <outline>
-    <component base="tm_VowelUu.alt1" xOffset="1322" yOffset="-1"/>
-    <component base="tm_RrU"/>
+    <component base="tm_VowelUu.alt1" xOffset="1330.77" yOffset="-1"/>
+    <component base="tm_RrU" xOffset="8.77193"/>
   </outline>
   <lib>
     <dict>
@@ -13,9 +13,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>-442</integer>
+            <integer>-432</integer>
             <key>width</key>
-            <integer>196</integer>
+            <integer>186</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -46,31 +46,31 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>97</integer>
+            <integer>146</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>401</integer>
+            <integer>449</integer>
             <key>width</key>
             <integer>220</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>722</integer>
+            <integer>771</integer>
             <key>width</key>
             <integer>225</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1043</integer>
+            <integer>1092</integer>
             <key>width</key>
             <integer>220</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1382</integer>
+            <integer>1391</integer>
             <key>width</key>
             <integer>219</integer>
           </dict>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tm_NYAUU" format="1">
-  <advance width="2055"/>
+  <advance width="2098"/>
   <outline>
-    <component base="tm_NyU"/>
-    <component base="tm_VowelUu.alt1" xOffset="1611"/>
+    <component base="tm_NyU" xOffset="43.8596"/>
+    <component base="tm_VowelUu.alt1" xOffset="1654.86"/>
   </outline>
   <lib>
     <dict>
@@ -64,43 +64,43 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>40</integer>
+            <integer>94</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>302</integer>
+            <integer>355</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>510</integer>
+            <integer>564</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>712</integer>
+            <integer>765</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1014</integer>
+            <integer>1067</integer>
             <key>width</key>
             <integer>229</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1331</integer>
+            <integer>1385</integer>
             <key>width</key>
             <integer>220</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1671</integer>
+            <integer>1715</integer>
             <key>width</key>
             <integer>219</integer>
           </dict>

@@ -15,15 +15,15 @@
       <point x="447" y="599.646" type="line"/>
     </contour>
     <contour>
-      <point x="262.957" y="46.1602" type="line" smooth="yes"/>
+      <point x="262" y="46.1602" type="line" smooth="yes"/>
       <point x="451" y="55.1465" type="line" smooth="yes"/>
       <point x="451" y="-36" type="line" smooth="yes"/>
       <point x="451" y="-116.841"/>
       <point x="417.053" y="-136.854"/>
       <point x="355" y="-136.854" type="curve" smooth="yes"/>
       <point x="293.12" y="-136.854"/>
-      <point x="259.351" y="-115.768"/>
-      <point x="260.957" y="-43.6465" type="curve" smooth="yes"/>
+      <point x="262" y="-115"/>
+      <point x="262" y="-43.6465" type="curve" smooth="yes"/>
     </contour>
     <component base="S" xOffset="14"/>
   </outline>
@@ -68,9 +68,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>257</integer>
+            <integer>262</integer>
             <key>width</key>
-            <integer>190</integer>
+            <integer>189</integer>
           </dict>
         </array>
       </dict>

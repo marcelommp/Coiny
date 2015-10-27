@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0B94" format="1">
-  <advance width="2419"/>
+  <advance width="2390"/>
   <unicode hex="0B94"/>
   <outline>
-    <component base="tm_AU" xOffset="888"/>
-    <component base="uni0B92" xOffset="24"/>
+    <component base="tm_AU" xOffset="864.043"/>
+    <component base="uni0B92" xOffset="0.0429688"/>
   </outline>
   <lib>
     <dict>
@@ -77,49 +77,49 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>64</integer>
+            <integer>40</integer>
             <key>width</key>
             <integer>151</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>275</integer>
+            <integer>251</integer>
             <key>width</key>
             <integer>127</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>726</integer>
+            <integer>702</integer>
             <key>width</key>
             <integer>147</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>928</integer>
+            <integer>914</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1190</integer>
+            <integer>1176</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1398</integer>
+            <integer>1384</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1600</integer>
+            <integer>1586</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>2013</integer>
+            <integer>1999</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>

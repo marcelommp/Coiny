@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uni0BCC" format="1">
-  <advance width="3110"/>
+  <advance width="3066"/>
   <unicode hex="0BCC"/>
   <outline>
-    <component base="uni25CC" xOffset="984"/>
-    <component base="tm_AU" xOffset="1579"/>
-    <component base="tm_E" xOffset="24"/>
+    <component base="uni25CC" xOffset="965.043"/>
+    <component base="tm_AU" xOffset="1530.04"/>
+    <component base="tm_E" xOffset="5.04297"/>
   </outline>
   <lib>
     <dict>
@@ -120,103 +120,103 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>64</integer>
+            <integer>55</integer>
             <key>width</key>
             <integer>230</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>534</integer>
+            <integer>525</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>730</integer>
+            <integer>721</integer>
             <key>width</key>
             <integer>213</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1007</integer>
+            <integer>988</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1022</integer>
+            <integer>1003</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1068</integer>
+            <integer>1049</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1145</integer>
+            <integer>1126</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1235</integer>
+            <integer>1216</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1325</integer>
+            <integer>1306</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1402</integer>
+            <integer>1383</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1448</integer>
+            <integer>1429</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1463</integer>
+            <integer>1444</integer>
             <key>width</key>
             <integer>75</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1619</integer>
+            <integer>1580</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1881</integer>
+            <integer>1842</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>2089</integer>
+            <integer>2050</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>2291</integer>
+            <integer>2252</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>2704</integer>
+            <integer>2665</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>
