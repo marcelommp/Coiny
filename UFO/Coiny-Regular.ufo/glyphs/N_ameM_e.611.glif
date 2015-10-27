@@ -8,18 +8,14 @@
       <point x="-14" y="605.077"/>
       <point x="14.7402" y="620.179"/>
       <point x="46" y="620.179" type="curve" smooth="yes"/>
-      <point x="176.552" y="620.179"/>
-      <point x="328.754" y="617.1"/>
-      <point x="328.754" y="617.1" type="curve" smooth="yes"/>
-      <point x="377.463" y="616.569"/>
-      <point x="390" y="592.08"/>
+      <point x="328.754" y="617.1" type="line" smooth="yes"/>
+      <point x="377.528" y="616.568"/>
+      <point x="390" y="592.704"/>
       <point x="390" y="559.862" type="curve" smooth="yes"/>
       <point x="390" y="529.558"/>
       <point x="366.752" y="512"/>
       <point x="337" y="512" type="curve" smooth="yes"/>
-      <point x="222.204" y="512"/>
-      <point x="179.302" y="512"/>
-      <point x="50" y="512" type="curve" smooth="yes"/>
+      <point x="50" y="512" type="line" smooth="yes"/>
       <point x="6.39258" y="512"/>
       <point x="-14" y="522.074"/>
     </contour>

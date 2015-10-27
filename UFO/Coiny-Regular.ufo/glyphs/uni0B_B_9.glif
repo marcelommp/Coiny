@@ -4,10 +4,10 @@
   <unicode hex="0BB9"/>
   <outline>
     <contour>
-      <point x="1691.29" y="0" type="move" name="Anchor-1"/>
+      <point x="1679" y="0" type="move" name="Anchor-1"/>
     </contour>
     <contour>
-      <point x="1373.29" y="0" type="move" name="Anchor-0"/>
+      <point x="1375" y="0" type="move" name="Anchor-0"/>
     </contour>
     <contour>
       <point x="463.596" y="384.626" type="curve" smooth="yes"/>
@@ -26,11 +26,8 @@
       <point x="587.489" y="308.579"/>
       <point x="661.021" y="249.454"/>
       <point x="661.021" y="151.508" type="curve" smooth="yes"/>
-      <point x="661.021" y="125.935"/>
-      <point x="655.701" y="103.304"/>
-      <point x="646.099" y="83.835" type="curve" smooth="yes"/>
-      <point x="633.097" y="55.6797"/>
-      <point x="607.751" y="30.2705"/>
+      <point x="661.021" y="80.3094"/>
+      <point x="626.414" y="38.5066"/>
       <point x="570.087" y="13.6494" type="curve" smooth="yes"/>
       <point x="541.776" y="1.15527"/>
       <point x="506.506" y="-6.37305"/>
@@ -85,48 +82,26 @@
       <point x="1604.6" y="68.5029"/>
       <point x="1604.6" y="206.46" type="curve" smooth="yes"/>
       <point x="1604.6" y="296.159"/>
-      <point x="1587.5" y="351.754"/>
+      <point x="1584" y="351.754"/>
       <point x="1545.26" y="351.754" type="curve" smooth="yes"/>
-      <point x="1505.12" y="351.754"/>
-      <point x="1502.24" y="313.207"/>
-      <point x="1502.04" y="267.34" type="curve" smooth="yes"/>
-      <point x="1502.18" y="263.396"/>
-      <point x="1502.25" y="259.395"/>
+      <point x="1519" y="351.754"/>
+      <point x="1502.25" y="337"/>
       <point x="1502.25" y="255.336" type="curve" smooth="yes"/>
       <point x="1502.25" y="42.9775"/>
       <point x="1483.1" y="-0.125"/>
       <point x="1397.61" y="-0.125" type="curve" smooth="yes"/>
       <point x="1312.12" y="-0.125"/>
-      <point x="1284.09" y="29.3164"/>
-      <point x="1284.09" y="88.8486" type="curve" smooth="yes"/>
-      <point x="1284.09" y="143.992"/>
-      <point x="1283.23" y="210.03"/>
-      <point x="1282.96" y="255.338" type="curve" smooth="yes"/>
-      <point x="1282.86" y="255.338"/>
-      <point x="1282.75" y="255.336"/>
-      <point x="1282.65" y="255.336" type="curve"/>
-      <point x="1282.65" y="259.624"/>
-      <point x="1282.73" y="263.845"/>
-      <point x="1282.89" y="268.001" type="curve" smooth="yes"/>
-      <point x="1282.89" y="270.365"/>
-      <point x="1282.88" y="272.63"/>
-      <point x="1282.88" y="274.786" type="curve" smooth="yes"/>
-      <point x="1282.88" y="326.603"/>
+      <point x="1283" y="29.3164"/>
+      <point x="1283" y="88.8486" type="curve" smooth="yes"/>
+      <point x="1283" y="274.786" type="line" smooth="yes"/>
+      <point x="1283" y="326.603"/>
       <point x="1280.44" y="351.754"/>
       <point x="1238.21" y="351.754" type="curve" smooth="yes"/>
       <point x="1194.97" y="351.754"/>
-      <point x="1194.97" y="324.285"/>
-      <point x="1194.97" y="273.866" type="curve" smooth="yes"/>
-      <point x="1194.97" y="232.326"/>
-      <point x="1193.76" y="153.067"/>
-      <point x="1193.76" y="88.8486" type="curve" smooth="yes"/>
-      <point x="1193.76" y="81.9385"/>
-      <point x="1193.39" y="75.4336"/>
-      <point x="1192.58" y="69.333" type="curve" smooth="yes"/>
-      <point x="1192.66" y="67.6562"/>
-      <point x="1192.7" y="65.9326"/>
-      <point x="1192.7" y="64.1592" type="curve" smooth="yes"/>
-      <point x="1192.7" y="16.0869"/>
+      <point x="1194" y="324.285"/>
+      <point x="1194" y="273.866" type="curve" smooth="yes"/>
+      <point x="1194" y="64.1592" type="line" smooth="yes"/>
+      <point x="1194" y="16.0869"/>
       <point x="1176.05" y="-0.240234"/>
       <point x="1119.45" y="-0.240234" type="curve" smooth="yes"/>
       <point x="833.896" y="-0.240234" type="line" smooth="yes"/>
@@ -224,7 +199,7 @@
             <key>position</key>
             <integer>976</integer>
             <key>width</key>
-            <integer>219</integer>
+            <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>

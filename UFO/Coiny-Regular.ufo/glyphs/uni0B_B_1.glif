@@ -7,7 +7,7 @@
       <point x="803.5" y="0" type="move" name="Anchor-1"/>
     </contour>
     <contour>
-      <point x="475.5" y="0" type="move" name="Anchor-0"/>
+      <point x="496" y="0" type="move" name="Anchor-0"/>
     </contour>
     <contour>
       <point x="345.459" y="345.878" type="curve" smooth="yes"/>

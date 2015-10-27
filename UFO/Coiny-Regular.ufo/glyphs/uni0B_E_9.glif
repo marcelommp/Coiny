@@ -73,11 +73,8 @@
       <point x="69.6045" y="259.101"/>
       <point x="70.1006" y="335.009"/>
       <point x="70.1006" y="431.626" type="curve" smooth="yes"/>
-      <point x="70.1006" y="448.794"/>
-      <point x="73.5762" y="461.643"/>
-      <point x="79.916" y="471.248" type="curve" smooth="yes"/>
-      <point x="93.1045" y="492.597"/>
-      <point x="119.371" y="502.925"/>
+      <point x="70.1006" y="483.539"/>
+      <point x="103.341" y="502.925"/>
       <point x="157.43" y="502.925" type="curve" smooth="yes"/>
     </contour>
   </outline>
