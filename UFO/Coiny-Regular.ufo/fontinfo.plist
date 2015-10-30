@@ -14,6 +14,8 @@
     <string>Copyright (c) 2015, Marcelo Magalhaes</string>
     <key>unitsPerEm</key>
     <integer>1000</integer>
+    <key>capHeight</key>
+    <integer>680</integer>
     <key>xHeight</key>
     <integer>515</integer>
     <key>ascender</key>
@@ -27,11 +29,11 @@
     <key>openTypeHeadCreated</key>
     <string>2015/08/17 18:57:19</string>
     <key>openTypeHheaAscender</key>
-    <integer>1000</integer>
+    <integer>750</integer>
     <key>openTypeHheaDescender</key>
-    <integer>-450</integer>
+    <integer>250</integer>
     <key>openTypeHheaLineGap</key>
-    <integer>0</integer>
+    <integer>600</integer>
     <key>openTypeNameLicense</key>
     <string>Copyright (c) 2015, fabiana ruggiero (&lt;URL|email&gt;),
 with Reserved Font Name Coiny Regular.
@@ -160,15 +162,15 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2TypoAscender</key>
-    <integer>760</integer>
+    <integer>750</integer>
     <key>openTypeOS2TypoDescender</key>
-    <integer>-240</integer>
+    <integer>-250</integer>
     <key>openTypeOS2TypoLineGap</key>
-    <integer>0</integer>
+    <integer>600</integer>
     <key>openTypeOS2WinAscent</key>
-    <integer>1000</integer>
+    <integer>750</integer>
     <key>openTypeOS2WinDescent</key>
-    <integer>450</integer>
+    <integer>250</integer>
     <key>openTypeOS2SubscriptXSize</key>
     <integer>650</integer>
     <key>openTypeOS2SubscriptYSize</key>
@@ -207,7 +209,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.</string>
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>postscriptUnderlinePosition</key>
-    <integer>140</integer>
+    <integer>-140</integer>
     <key>postscriptBlueValues</key>
     <array>
       <integer>-4</integer>
