@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dot.above" format="1">
-  <advance width="216"/>
+  <advance width="219"/>
   <outline>
     <contour>
       <point x="0.459961" y="825.1" type="curve" smooth="yes"/>

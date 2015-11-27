@@ -3,8 +3,8 @@
   <advance width="420"/>
   <outline>
     <contour>
-      <point x="-181" y="357.1" type="line" smooth="yes"/>
-      <point x="-181" y="502" type="line" smooth="yes"/>
+      <point x="-181" y="357.1" type="line"/>
+      <point x="-181" y="502" type="line"/>
       <point x="320.363" y="502" type="line" smooth="yes"/>
       <point x="392.905" y="502"/>
       <point x="416.449" y="480.516"/>

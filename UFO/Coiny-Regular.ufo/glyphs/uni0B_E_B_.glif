@@ -45,18 +45,14 @@
       <point x="1198.34" y="807"/>
       <point x="1605" y="667.316"/>
       <point x="1605" y="239" type="curve" smooth="yes"/>
-      <point x="1605" y="194.084"/>
-      <point x="1603.84" y="149.058"/>
-      <point x="1603.84" y="109.896" type="curve" smooth="yes"/>
+      <point x="1603.84" y="109.896" type="line" smooth="yes"/>
       <point x="1603.84" y="20"/>
       <point x="1561.44" y="-0.0947266"/>
       <point x="1502.09" y="-0.0947266" type="curve" smooth="yes"/>
       <point x="1445.68" y="-0.0947266"/>
       <point x="1403.85" y="31.2598"/>
       <point x="1402.84" y="112.822" type="curve" smooth="yes"/>
-      <point x="1402.84" y="112.822"/>
-      <point x="1404.59" y="147.093"/>
-      <point x="1404.59" y="190" type="curve" smooth="yes"/>
+      <point x="1404.59" y="190" type="line" smooth="yes"/>
       <point x="1404.59" y="495.417"/>
       <point x="1198.72" y="630.162"/>
       <point x="768.344" y="630.162" type="curve" smooth="yes"/>
@@ -151,9 +147,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>1405</integer>
+            <integer>1403</integer>
             <key>width</key>
-            <integer>200</integer>
+            <integer>201</integer>
           </dict>
         </array>
       </dict>

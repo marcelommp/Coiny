@@ -4,20 +4,20 @@
   <unicode hex="00DE"/>
   <outline>
     <contour>
-      <point x="282.745" y="268.365" type="line" smooth="yes"/>
+      <point x="282.745" y="268.365" type="line"/>
       <point x="335.806" y="268.365"/>
       <point x="393.465" y="290.864"/>
       <point x="393.465" y="339.031" type="curve" smooth="yes"/>
       <point x="393.465" y="387.827"/>
       <point x="335.136" y="413.394"/>
-      <point x="282.811" y="413.394" type="curve" smooth="yes"/>
-      <point x="281" y="593.507" type="line" smooth="yes"/>
+      <point x="282.811" y="413.394" type="curve"/>
+      <point x="281" y="593.507" type="line"/>
       <point x="472.127" y="593.507"/>
       <point x="586.087" y="485.283"/>
       <point x="586.087" y="340" type="curve" smooth="yes"/>
       <point x="586.087" y="197.647"/>
       <point x="472.127" y="93.3516"/>
-      <point x="281" y="93.3516" type="curve" smooth="yes"/>
+      <point x="281" y="93.3516" type="curve"/>
     </contour>
     <component base="I"/>
   </outline>

@@ -8,22 +8,22 @@
       <point x="86.2725" y="-396"/>
       <point x="86.2725" y="-216" type="curve" smooth="yes"/>
       <point x="86.2725" y="-90"/>
-      <point x="212.272" y="-42"/>
+      <point x="202" y="-42"/>
       <point x="300.272" y="-42" type="curve" smooth="yes"/>
-      <point x="564.636" y="-42.9824" type="line" smooth="yes"/>
-      <point x="637.213" y="-43.2521"/>
+      <point x="564.636" y="-42" type="line" smooth="yes"/>
+      <point x="637.213" y="-42.2697"/>
       <point x="660.722" y="-59.083"/>
       <point x="660.722" y="-110" type="curve" smooth="yes"/>
       <point x="660.722" y="-153.792"/>
       <point x="636.138" y="-172"/>
       <point x="564.272" y="-172" type="curve" smooth="yes"/>
-      <point x="406.272" y="-172" type="line" smooth="yes"/>
-      <point x="317.929" y="-172"/>
+      <point x="386" y="-172" type="line" smooth="yes"/>
+      <point x="314.239" y="-172"/>
       <point x="298.272" y="-182"/>
       <point x="298.272" y="-214" type="curve" smooth="yes"/>
       <point x="298.272" y="-251.942"/>
-      <point x="353.833" y="-257.596"/>
-      <point x="400.272" y="-259" type="curve" smooth="yes"/>
+      <point x="342.79" y="-259"/>
+      <point x="380" y="-259" type="curve" smooth="yes"/>
       <point x="777.272" y="-259" type="line" smooth="yes"/>
       <point x="958.363" y="-259"/>
       <point x="1020.45" y="-206.853"/>
@@ -48,11 +48,10 @@
       <point x="737.772" y="502"/>
       <point x="819.82" y="502" type="curve" smooth="yes"/>
       <point x="903.372" y="502"/>
-      <point x="933.272" y="476.074"/>
-      <point x="933.272" y="395.312" type="curve" smooth="yes"/>
-      <point x="933.272" y="137.477" type="line"/>
-      <point x="933.676" y="128.989" type="line"/>
-      <point x="983.419" y="160.317"/>
+      <point x="933" y="476.074"/>
+      <point x="933" y="395.312" type="curve" smooth="yes"/>
+      <point x="933" y="128.989" type="line"/>
+      <point x="982.743" y="160.317"/>
       <point x="1024.61" y="171.74"/>
       <point x="1092" y="171.74" type="curve" smooth="yes"/>
       <point x="1169.85" y="171.74"/>
@@ -111,6 +110,12 @@
         </array>
         <key>vhints</key>
         <array>
+          <dict>
+            <key>position</key>
+            <integer>86</integer>
+            <key>width</key>
+            <integer>212</integer>
+          </dict>
           <dict>
             <key>position</key>
             <integer>103</integer>
