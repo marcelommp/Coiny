@@ -4,36 +4,40 @@
   <unicode hex="00DE"/>
   <outline>
     <contour>
-      <point x="282.745" y="268.365" type="line"/>
-      <point x="335.806" y="268.365"/>
-      <point x="393.465" y="290.864"/>
+      <point x="300" y="269.155" type="line"/>
+      <point x="347.575" y="273.518"/>
+      <point x="393.465" y="296.06"/>
       <point x="393.465" y="339.031" type="curve" smooth="yes"/>
-      <point x="393.465" y="387.827"/>
-      <point x="335.136" y="413.394"/>
-      <point x="282.811" y="413.394" type="curve"/>
-      <point x="281" y="593.507" type="line"/>
-      <point x="472.127" y="593.507"/>
-      <point x="586.087" y="485.283"/>
-      <point x="586.087" y="340" type="curve" smooth="yes"/>
-      <point x="586.087" y="197.647"/>
-      <point x="472.127" y="93.3516"/>
-      <point x="281" y="93.3516" type="curve"/>
+      <point x="393.465" y="382.524"/>
+      <point x="347.125" y="407.562"/>
+      <point x="300" y="412.491" type="curve"/>
     </contour>
-    <component base="I"/>
+    <contour>
+      <point x="299.234" y="593.172" type="curve"/>
+      <point x="479.352" y="586.494"/>
+      <point x="586.087" y="480.602"/>
+      <point x="586.087" y="340" type="curve" smooth="yes"/>
+      <point x="586.087" y="201.195"/>
+      <point x="477.737" y="98.5747"/>
+      <point x="295.148" y="93.5449" type="curve"/>
+      <point x="282.312" y="28.0265"/>
+      <point x="244.206" y="-0.24707"/>
+      <point x="183.253" y="-0.24707" type="curve" smooth="yes"/>
+      <point x="108.448" y="-0.24707"/>
+      <point x="70.583" y="31.9561"/>
+      <point x="70" y="142.41" type="curve" smooth="yes"/>
+      <point x="70" y="564.617" type="line" smooth="yes"/>
+      <point x="70" y="654"/>
+      <point x="118.599" y="684.566"/>
+      <point x="183.253" y="684.566" type="curve" smooth="yes"/>
+      <point x="245.28" y="684.566"/>
+      <point x="292.715" y="672.652"/>
+    </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-        <key>hhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>0</integer>
-            <key>width</key>
-            <integer>685</integer>
-          </dict>
-        </array>
         <key>vhints</key>
         <array>
           <dict>

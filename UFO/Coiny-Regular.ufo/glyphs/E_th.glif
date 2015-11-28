@@ -4,22 +4,45 @@
   <unicode hex="00D0"/>
   <outline>
     <contour>
-      <point x="281" y="397" type="line" smooth="yes"/>
-      <point x="353.58" y="397"/>
-      <point x="377.086" y="376.884"/>
+      <point x="298.829" y="135.556" type="line"/>
+      <point x="381.164" y="135.556"/>
+      <point x="433.596" y="178.204"/>
+      <point x="433.596" y="349.6" type="curve" smooth="yes"/>
+      <point x="433.596" y="508.41"/>
+      <point x="377.805" y="543.631"/>
+      <point x="298.55" y="544.933" type="curve"/>
+      <point x="298.651" y="396.545" type="line"/>
+      <point x="357.449" y="393.294"/>
+      <point x="377.086" y="372.292"/>
       <point x="377.086" y="323.482" type="curve" smooth="yes"/>
-      <point x="377.086" y="277.048"/>
-      <point x="343.496" y="262.1"/>
-      <point x="271.637" y="262.1" type="curve" smooth="yes"/>
-      <point x="69" y="262.1" type="line" smooth="yes"/>
-      <point x="8.59375" y="262.1"/>
-      <point x="-12.083" y="287.823"/>
-      <point x="-12.083" y="327.362" type="curve" smooth="yes"/>
-      <point x="-12.083" y="364.747"/>
-      <point x="5.77344" y="397"/>
-      <point x="75.2461" y="397" type="curve" smooth="yes"/>
+      <point x="377.086" y="283.338"/>
+      <point x="351.979" y="266.727"/>
+      <point x="298.742" y="262.963" type="curve"/>
     </contour>
-    <component base="D"/>
+    <contour>
+      <point x="328.896" y="684.25" type="line" smooth="yes"/>
+      <point x="534.457" y="684.25"/>
+      <point x="674" y="558.85"/>
+      <point x="674" y="346.15" type="curve" smooth="yes"/>
+      <point x="674" y="181.606"/>
+      <point x="598.545" y="0"/>
+      <point x="379.096" y="0" type="curve" smooth="yes"/>
+      <point x="181.99" y="0" type="line" smooth="yes"/>
+      <point x="103.366" y="0"/>
+      <point x="68.582" y="32.2031"/>
+      <point x="68" y="142.657" type="curve" smooth="yes"/>
+      <point x="68" y="262.102" type="line"/>
+      <point x="8.36535" y="262.385"/>
+      <point x="-12.083" y="288.042"/>
+      <point x="-12.083" y="327.362" type="curve" smooth="yes"/>
+      <point x="-12.083" y="363.412"/>
+      <point x="4.521" y="394.69"/>
+      <point x="68" y="396.878" type="curve"/>
+      <point x="68" y="564.863" type="line" smooth="yes"/>
+      <point x="68" y="654"/>
+      <point x="114.099" y="684.25"/>
+      <point x="181.99" y="684.25" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -48,12 +71,6 @@
         </array>
         <key>vhints</key>
         <array>
-          <dict>
-            <key>position</key>
-            <integer>-12</integer>
-            <key>width</key>
-            <integer>389</integer>
-          </dict>
           <dict>
             <key>position</key>
             <integer>68</integer>

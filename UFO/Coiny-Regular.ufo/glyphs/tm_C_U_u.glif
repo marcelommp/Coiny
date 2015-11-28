@@ -41,7 +41,8 @@
       <point x="1272.12" y="55"/>
       <point x="1231.12" y="55" type="curve" smooth="yes"/>
       <point x="1199.43" y="55"/>
-      <point x="1179" y="21" type="line" smooth="yes"/>
+      <point x="1179" y="21"/>
+      <point x="1179" y="21" type="curve" smooth="yes"/>
     </contour>
     <component base="tm_CU" xOffset="273.25"/>
   </outline>

@@ -614,17 +614,17 @@ lookup kernHorizontalKerninglookup4Alt {
     pos \V \j -40;
     pos \V \q -10;
     pos \V \z -10;
-    pos \N \a -15;
-    pos \N \c -20;
-    pos \N \e -20;
-    pos \N \g -15;
-    pos \N \j -30;
-    pos \N \o -20;
-    pos \N \q -15;
-    pos \N \s -10;
-    pos \N \t -15;
-    pos \N \y -10;
     pos \N \z -10;
+    pos \N \y -10;
+    pos \N \t -15;
+    pos \N \s -10;
+    pos \N \q -15;
+    pos \N \o -20;
+    pos \N \j -30;
+    pos \N \g -15;
+    pos \N \e -20;
+    pos \N \c -20;
+    pos \N \a -15;
     pos \U \a -20;
     pos \U \c -15;
     pos \U \d -20;
@@ -993,14 +993,14 @@ lookup kernHorizontalKerninglookup2cai {
     pos \V \AE -35;
     pos \V \T -20;
     pos \V \J -29;
-    pos \N \O -15;
-    pos \N \T -36;
-    pos \N \J -27;
-    pos \N \S -20;
-    pos \N \C -15;
-    pos \N \G -15;
-    pos \N \Q -15;
     pos \N \Y -27;
+    pos \N \Q -15;
+    pos \N \G -15;
+    pos \N \C -15;
+    pos \N \S -20;
+    pos \N \J -27;
+    pos \N \T -36;
+    pos \N \O -15;
     pos \U \T -20;
     pos \U \J -36;
     pos \D \AE -34;
@@ -1284,7 +1284,20 @@ feature abvm {
 	\rcommaaccent \tcommaaccent \tm_VowelAi.alt \tm_VowelI.alt1 \tm_VowelU.alt1 
 	\tm_VowelUu.alt1 \tm_VowelI.alt2 \tm_VowelI.alt3 \tm_VowelI.alt4 \tm_YUu 
 	\space \tm_LAUU \NameMe.611 \NameMe.612 \NameMe.613 \NameMe.614 \NameMe.615 
-	\NameMe.616 \glyph626 \glyph627 \NameMe.619 ];
+	\NameMe.616 \glyph626 \glyph627 \NameMe.619 \NameMe.620 \NameMe.621 
+	\NameMe.622 \NameMe.623 \NameMe.624 \NameMe.625 \DZ \Dz \DZcaron \Dzcaron 
+	\Edotbelow \edotbelow \Edblgrave \edblgrave \Einvertedbreve \einvertedbreve 
+	\Schwa \Gacute \gacute \Hcircumflex \hcircumflex \Ibreve \ibreve \Idotbelow 
+	\idotbelow \Idblgrave \idblgrave \Iinvertedbreve \iinvertedbreve \IJ \ij 
+	\Jcircumflex \jcircumflex \dotlessj \LJ \lj \Eng \eng \kgreenlandic \napostrophe 
+	\NJ \nj \Oslashacute \oslashacute \Oogonek \oogonek \Odotbelow \odotbelow 
+	\Odblgrave \odblgrave \Oinvertedbreve \oinvertedbreve \Rdblgrave \NameMe.673 
+	\Rinvertedbreve \rinvertedbreve \Scircumflex \scircumflex \Tbar \tbar 
+	\Udotbelow \udotbelow \Udblgrave \udblgrave \Uinvertedbreve \uinvertedbreve 
+	\Wgrave \wgrave \Wacute \wacute \Wdieresis \wdieresis \Wcircumflex \wcircumflex 
+	\Ycircumflex \ycircumflex \Ygrave \ygrave \Ytilde \ytilde \mugreek \Gcircumflex 
+	\Lj \Nj \aeacute \dz \dzcaron \schwa \rdblgrave \Acircumflexgrave 
+	\acircumflexgrave ];
 @GDEF_Ligature = [\tm_KU \tm_CU \tm_NyU \tm_TtU \tm_NnU \tm_TU \tm_NU \tm_NNNU 
 	\tm_MU \tm_RU \tm_RrU \tm_LU \tm_LlU \tm_LllU \tm_KUu \tm_NgUu \tm_CUu \tm_TtUu 
 	\tm_PUu \tm_MUu \tm_LlUu \tm_LllUu \tm_VUu \tm_KSsa \tm_RUu \tm_TtI \tm_TtIi 

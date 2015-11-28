@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1439837839
-ModificationTime: 1448650087
+ModificationTime: 1448651856
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -80,7 +80,7 @@ DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 45
-WinInfo: 0 13 6
+WinInfo: 588 6 6
 BeginPrivate: 5
 BlueValues 14 [-4 0 515 515]
 OtherBlues 11 [-240 -240]
@@ -126,7 +126,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 283116 141557 94371 499174 1048576 94371 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-1" "'abvm' Above Base Mark lookup 2-1" "Anchor-0" "'abvm' Above Base Mark lookup 0-1" "Socks" "" "Align_socks" "" "Align_foot" "" "bottom" "" "top" "" 
-BeginChars: 620 628
+BeginChars: 622 630
 
 StartChar: uni0B85
 Encoding: 337 2949 0
@@ -3361,8 +3361,8 @@ SplineSet
 357.741210938 521.806640625 m 0
  302.946289062 521.806640625 274 496.41015625 274 407.854492188 c 0
  274 290.280273438 l 1
- 440 290.280273438 l 1
- 440 410.326171875 l 0
+ 440 290.280273438 l 5
+ 440 410.326171875 l 4
  440 496.541015625 409.831054688 521.806640625 357.741210938 521.806640625 c 0
 EndSplineSet
 Kerns2: 66 -70 "'kern' Horizontal Kerning lookup 2-1" 83 -20 "'kern' Horizontal Kerning lookup 2-1" 84 -50 "'kern' Horizontal Kerning lookup 2-1" 85 -18 "'kern' Horizontal Kerning lookup 2-1"
@@ -17607,6 +17607,32 @@ Back
 Fore
 Refer: 626 8242 N 1 0 0 1 220 0 2
 Refer: 626 8242 S 1 0 0 1 0 0 2
+EndChar
+
+StartChar: NameMe.619
+Encoding: 619 506 628
+Width: 712
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Back
+Fore
+Refer: 491 -1 S 1 0 0 1 166 247 2
+Refer: 490 -1 S 1 0 0 1 172 -35 2
+Refer: 48 65 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: NameMe.620
+Encoding: 620 507 629
+Width: 624
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Back
+Fore
+Refer: 491 -1 N 1 0 0 1 166 37 2
+Refer: 490 -1 N 1 0 0 1 172 -245 2
+Refer: 9 97 N 1 0 0 1 0 0 2
 EndChar
 EndChars
 EndSplineFont
