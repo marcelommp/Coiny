@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adotbelow" format="1">
+  <advance width="712"/>
+  <unicode hex="1EA0"/>
+  <outline>
+    <component base="dot.below" xOffset="202"/>
+    <component base="uni0323" xOffset="357.152" yOffset="-59.5195"/>
+    <component base="A"/>
+  </outline>
+</glyph>

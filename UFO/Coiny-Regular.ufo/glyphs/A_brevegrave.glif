@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevegrave" format="1">
+  <advance width="712"/>
+  <unicode hex="1EB0"/>
+  <outline>
+    <component base="grave" xOffset="144.272" yOffset="465.584"/>
+    <component base="uni0300.cap" xOffset="359.031" yOffset="1047.17"/>
+    <component base="Abreve"/>
+  </outline>
+</glyph>

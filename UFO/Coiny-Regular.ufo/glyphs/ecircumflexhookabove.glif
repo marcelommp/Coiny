@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ecircumflexhookabove" format="1">
+  <advance width="595"/>
+  <unicode hex="1EC3"/>
+  <outline>
+    <contour>
+      <point x="643.882" y="789" type="curve" smooth="yes"/>
+      <point x="643.882" y="835.547"/>
+      <point x="606.259" y="858.701"/>
+      <point x="539.788" y="858.701" type="curve" smooth="yes"/>
+      <point x="474.497" y="858.701"/>
+      <point x="449.34" y="838.769"/>
+      <point x="449.34" y="810.803" type="curve" smooth="yes"/>
+      <point x="449.34" y="794.659"/>
+      <point x="462.051" y="766.977"/>
+      <point x="505.69" y="766.977" type="curve" smooth="yes"/>
+      <point x="523.895" y="766.977"/>
+      <point x="539.012" y="768.75"/>
+      <point x="539.012" y="787.053" type="curve" smooth="yes"/>
+      <point x="539.012" y="795.705"/>
+      <point x="533.107" y="803.2"/>
+      <point x="533.107" y="808.32" type="curve" smooth="yes"/>
+      <point x="533.107" y="814.062"/>
+      <point x="535.308" y="817.913"/>
+      <point x="543.126" y="817.913" type="curve" smooth="yes"/>
+      <point x="556.132" y="817.913"/>
+      <point x="564.409" y="798.655"/>
+      <point x="564.409" y="780.3" type="curve" smooth="yes"/>
+      <point x="564.409" y="732.74"/>
+      <point x="512.591" y="710.4"/>
+      <point x="512.591" y="680.144" type="curve" smooth="yes"/>
+      <point x="512.591" y="665.44"/>
+      <point x="523.25" y="660.105"/>
+      <point x="540.717" y="660.105" type="curve" smooth="yes"/>
+      <point x="571.244" y="660.105"/>
+      <point x="643.882" y="717.853"/>
+    </contour>
+    <component base="ecircumflex"/>
+  </outline>
+</glyph>

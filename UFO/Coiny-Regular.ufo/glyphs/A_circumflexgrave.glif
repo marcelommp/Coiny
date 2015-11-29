@@ -3,7 +3,7 @@
   <advance width="712"/>
   <unicode hex="1EA6"/>
   <outline>
-    <component base="grave" xOffset="144.272" yOffset="468.584"/>
+    <component base="grave" xOffset="144.272" yOffset="465.584"/>
     <component base="uni0300.cap" xOffset="360.092" yOffset="1040.92"/>
     <component base="Acircumflex"/>
   </outline>

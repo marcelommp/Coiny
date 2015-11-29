@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexhookabove" format="1">
+  <advance width="712"/>
+  <unicode hex="1EA8"/>
+  <outline>
+    <contour>
+      <point x="673.882" y="990.137" type="curve" smooth="yes"/>
+      <point x="673.882" y="1036.68"/>
+      <point x="636.259" y="1059.84"/>
+      <point x="569.788" y="1059.84" type="curve" smooth="yes"/>
+      <point x="504.497" y="1059.84"/>
+      <point x="479.34" y="1039.91"/>
+      <point x="479.34" y="1011.94" type="curve" smooth="yes"/>
+      <point x="479.34" y="995.796"/>
+      <point x="492.051" y="968.113"/>
+      <point x="535.69" y="968.113" type="curve" smooth="yes"/>
+      <point x="553.895" y="968.113"/>
+      <point x="569.012" y="969.887"/>
+      <point x="569.012" y="988.189" type="curve" smooth="yes"/>
+      <point x="569.012" y="996.842"/>
+      <point x="563.107" y="1004.34"/>
+      <point x="563.107" y="1009.46" type="curve" smooth="yes"/>
+      <point x="563.107" y="1015.2"/>
+      <point x="565.308" y="1019.05"/>
+      <point x="573.126" y="1019.05" type="curve" smooth="yes"/>
+      <point x="586.132" y="1019.05"/>
+      <point x="594.409" y="999.792"/>
+      <point x="594.409" y="981.437" type="curve" smooth="yes"/>
+      <point x="594.409" y="933.877"/>
+      <point x="542.591" y="911.536"/>
+      <point x="542.591" y="881.28" type="curve" smooth="yes"/>
+      <point x="542.591" y="866.577"/>
+      <point x="553.25" y="861.242"/>
+      <point x="570.717" y="861.242" type="curve" smooth="yes"/>
+      <point x="601.244" y="861.242"/>
+      <point x="673.882" y="918.99"/>
+    </contour>
+    <component base="circumflex.case" xOffset="121.846" yOffset="-44"/>
+    <component base="A"/>
+  </outline>
+</glyph>

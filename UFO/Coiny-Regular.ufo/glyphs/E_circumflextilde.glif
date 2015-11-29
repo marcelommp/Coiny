@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ecircumflextilde" format="1">
+  <advance width="672"/>
+  <unicode hex="1EC4"/>
+  <outline>
+    <component base="tilde.case" xOffset="114.159" yOffset="262"/>
+    <component base="uni0303.cap" xOffset="341.961" yOffset="1040.92"/>
+    <component base="Ecircumflex"/>
+  </outline>
+</glyph>
