@@ -80,7 +80,7 @@ DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 45
-WinInfo: 0 17 8
+WinInfo: 0 20 8
 BeginPrivate: 5
 BlueValues 14 [-4 0 515 515]
 OtherBlues 11 [-240 -240]
@@ -3421,7 +3421,7 @@ Encoding: 44 76 49
 GlifName: L_
 Width: 608
 VWidth: 0
-Flags: WO
+Flags: W
 HStem: 0 172.743<292.194 547.195>
 VStem: 62 230.194<172.743 638.592>
 LayerCount: 2
@@ -3463,8 +3463,8 @@ I0
 sg8
 I595
 sass."
-Kerns2: 109 -20 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 95 -161 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 93 -145 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 90 -84 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 84 -158 "'kern' Horizontal Kerning lookup 2-1" 81 -70 "'kern' Horizontal Kerning lookup 2-1" 80 -70 "'kern' Horizontal Kerning lookup 2-1" 79 -70 "'kern' Horizontal Kerning lookup 2-1" 73 -49 "'kern' Horizontal Kerning lookup 2-1" 66 -196 "'kern' Horizontal Kerning lookup 2-1" 50 -70 "'kern' Horizontal Kerning lookup 2-1" 36 -156 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 31 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 30 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 29 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 28 -40 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 25 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 23 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 18 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 15 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 14 -40 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 13 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 12 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 11 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 9 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 149 -157 "'kern' Horizontal Kerning lookup 2-1"
-PairPos2: "'kern' Horizontal Kerning lookup 6 Pontuacao-1" ? dx=0 dy=0 dh=-20 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Kerns2: 149 -157 "'kern' Horizontal Kerning lookup 2-1" 9 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 11 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 12 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 13 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 14 -40 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 15 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 18 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 23 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 25 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 28 -40 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 29 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 30 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 31 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 36 -156 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 50 -70 "'kern' Horizontal Kerning lookup 2-1" 66 -196 "'kern' Horizontal Kerning lookup 2-1" 73 -49 "'kern' Horizontal Kerning lookup 2-1" 79 -70 "'kern' Horizontal Kerning lookup 2-1" 80 -70 "'kern' Horizontal Kerning lookup 2-1" 81 -70 "'kern' Horizontal Kerning lookup 2-1" 84 -158 "'kern' Horizontal Kerning lookup 2-1" 90 -84 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 93 -145 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 95 -161 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 109 -20 "'kern' Horizontal Kerning lookup 6 Pontuacao-1"
+PairPos2: "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" ? dx=0 dy=0 dh=-20 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: O

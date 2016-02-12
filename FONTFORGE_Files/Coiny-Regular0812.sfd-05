@@ -80,7 +80,7 @@ DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 45
-WinInfo: 0 17 8
+WinInfo: 0 13 6
 BeginPrivate: 5
 BlueValues 14 [-4 0 515 515]
 OtherBlues 11 [-240 -240]
@@ -3421,7 +3421,8 @@ Encoding: 44 76 49
 GlifName: L_
 Width: 608
 VWidth: 0
-Flags: WO
+GlyphClass: 2
+Flags: W
 HStem: 0 172.743<292.194 547.195>
 VStem: 62 230.194<172.743 638.592>
 LayerCount: 2
@@ -3463,8 +3464,8 @@ I0
 sg8
 I595
 sass."
-Kerns2: 109 -20 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 95 -161 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 93 -145 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 90 -84 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 84 -158 "'kern' Horizontal Kerning lookup 2-1" 81 -70 "'kern' Horizontal Kerning lookup 2-1" 80 -70 "'kern' Horizontal Kerning lookup 2-1" 79 -70 "'kern' Horizontal Kerning lookup 2-1" 73 -49 "'kern' Horizontal Kerning lookup 2-1" 66 -196 "'kern' Horizontal Kerning lookup 2-1" 50 -70 "'kern' Horizontal Kerning lookup 2-1" 36 -156 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 31 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 30 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 29 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 28 -40 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 25 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 23 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 18 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 15 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 14 -40 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 13 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 12 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 11 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 9 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 149 -157 "'kern' Horizontal Kerning lookup 2-1"
-PairPos2: "'kern' Horizontal Kerning lookup 6 Pontuacao-1" ? dx=0 dy=0 dh=-20 dv=0 [ddx={} ddy={} ddh={} ddv={}] dx=0 dy=0 dh=0 dv=0 [ddx={} ddy={} ddh={} ddv={}]
+Kerns2: 149 -157 "'kern' Horizontal Kerning lookup 2-1" 9 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 11 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 12 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 13 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 14 -40 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 15 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 18 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 23 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 25 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 28 -40 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 29 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 30 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 31 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 36 -156 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 50 -70 "'kern' Horizontal Kerning lookup 2-1" 66 -196 "'kern' Horizontal Kerning lookup 2-1" 73 -49 "'kern' Horizontal Kerning lookup 2-1" 79 -70 "'kern' Horizontal Kerning lookup 2-1" 80 -70 "'kern' Horizontal Kerning lookup 2-1" 81 -70 "'kern' Horizontal Kerning lookup 2-1" 84 -158 "'kern' Horizontal Kerning lookup 2-1" 90 -84 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 93 -145 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 95 -161 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 109 -20 "'kern' Horizontal Kerning lookup 6 Pontuacao-1"
+PairPos2: "'kern' Horizontal Kerning lookup 6 Pontuacao-1" ? dx=0 dy=0 dh=-20 dv=0 dx=0 dy=0 dh=0 dv=0
 EndChar
 
 StartChar: O
@@ -4547,7 +4548,7 @@ SplineSet
  706 95.0205078125 l 2
 EndSplineSet
 Validated: 1
-Kerns2: 9 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 11 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 13 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 15 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 18 -30 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 23 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 25 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 27 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 28 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 33 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 34 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 50 -15 "'kern' Horizontal Kerning lookup 2-1" 66 -36 "'kern' Horizontal Kerning lookup 2-1" 68 -27 "'kern' Horizontal Kerning lookup 2-1" 73 -20 "'kern' Horizontal Kerning lookup 2-1" 79 -15 "'kern' Horizontal Kerning lookup 2-1" 80 -15 "'kern' Horizontal Kerning lookup 2-1" 81 -15 "'kern' Horizontal Kerning lookup 2-1" 84 -27 "'kern' Horizontal Kerning lookup 2-1" 109 -20 "'kern' Horizontal Kerning lookup 6 Pontuacao-1"
+Kerns2: 109 -20 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 84 -27 "'kern' Horizontal Kerning lookup 2-1" 81 -15 "'kern' Horizontal Kerning lookup 2-1" 80 -15 "'kern' Horizontal Kerning lookup 2-1" 79 -15 "'kern' Horizontal Kerning lookup 2-1" 73 -20 "'kern' Horizontal Kerning lookup 2-1" 68 -27 "'kern' Horizontal Kerning lookup 2-1" 66 -36 "'kern' Horizontal Kerning lookup 2-1" 50 -15 "'kern' Horizontal Kerning lookup 2-1" 34 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 33 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 28 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 27 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 25 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 23 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 18 -30 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 15 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 13 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 11 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 9 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1"
 EndChar
 
 StartChar: U
@@ -4639,7 +4640,7 @@ SplineSet
  657 366.016601562 l 5
 EndSplineSet
 Validated: 1
-Kerns2: 109 -20 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 85 -18 "'kern' Horizontal Kerning lookup 2-1" 84 -18 "'kern' Horizontal Kerning lookup 2-1" 66 -39 "'kern' Horizontal Kerning lookup 2-1" 34 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 33 -5 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 25 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 23 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 18 -30 "'kern' Horizontal Kerning lookup 3 caixa baixa-1" 15 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 14 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 13 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 12 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 11 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 9 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1"
+Kerns2: 9 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 11 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 12 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 13 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 14 -15 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 15 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 18 -30 "'kern' Horizontal Kerning lookup 3 caixa baixa-1" 23 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 25 -10 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 33 -5 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 34 -20 "'kern' Horizontal Kerning lookup 4 Alta e baixa-1" 66 -39 "'kern' Horizontal Kerning lookup 2-1" 84 -18 "'kern' Horizontal Kerning lookup 2-1" 85 -18 "'kern' Horizontal Kerning lookup 2-1" 109 -20 "'kern' Horizontal Kerning lookup 6 Pontuacao-1"
 EndChar
 
 StartChar: C
@@ -11055,7 +11056,7 @@ SplineSet
  243 147 291 118 360 118 c 4
  419 118 461 136 487 181 c 5
 EndSplineSet
-Validated: 1
+Validated: 8388609
 EndChar
 
 StartChar: uni0BF0
@@ -11269,7 +11270,7 @@ SplineSet
  477.328125 458.364257812 l 1
 EndSplineSet
 Refer: 122 2990 N 1 0 0 1 0.50957 0 2
-Validated: 5
+Validated: 524293
 EndChar
 
 StartChar: uni0BF5
@@ -11315,7 +11316,7 @@ SplineSet
  1481 376 l 1x9aff
 EndSplineSet
 Refer: 120 2997 N 1 0 0 1 348.382 0 2
-Validated: 5
+Validated: 8912901
 EndChar
 
 StartChar: uni0BF6
@@ -11619,7 +11620,7 @@ SplineSet
  709.310881074 726.012529435 708.623645989 726.0187794 707.938355721 726.0187794 c 0
  653.929219019 726.0187794 612 687.198116159 612 624 c 0x32b540
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: uni0964
@@ -11765,7 +11766,7 @@ SplineSet
  326.399414062 463.528320312 311.412109375 456.7109375 288.694335938 456.7109375 c 0
  269.594726562 456.7109375 251.400390625 464.7890625 251.400390625 489.236328125 c 0
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: uni0FD5
@@ -11873,7 +11874,7 @@ SplineSet
  520.435546875 0.318359375 520.106445312 0.31640625 519.776367188 0.31640625 c 0
  444.973632812 0.31640625 407.728515625 35.4599609375 407.146484375 156 c 1
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Ccedilla
@@ -12613,7 +12614,7 @@ SplineSet
  399.749215328 894.137695312 438.740234375 861.70952684 438.740234375 821.29296875 c 4
  438.740234375 789.324689776 410.0800327 758.552595545 385.154296875 733.626953125 c 4
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: circumflex
@@ -12639,7 +12640,7 @@ SplineSet
  417 907 461 871 461 826 c 4
  461 791 429 757 401 729 c 4
 EndSplineSet
-Validated: 1
+Validated: 6291457
 EndChar
 
 StartChar: macron
@@ -13174,7 +13175,7 @@ SplineSet
  537.983398438 326 l 2
 EndSplineSet
 Refer: 84 89 N 1 0 0 1 -0.0166016 0 2
-Validated: 5
+Validated: 524293
 EndChar
 
 StartChar: cent
@@ -13612,7 +13613,7 @@ SplineSet
  81.185546875 -0 54 13.0947265625 54 53.7685546875 c 0
  54 99.966796875 73.01953125 117.369140625 131.829101562 117.369140625 c 2
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: perthousand
@@ -14279,7 +14280,7 @@ SplineSet
  538 448 539 503 506 503 c 0
  484 503 477 493 477 450 c 2
 EndSplineSet
-Validated: 1
+Validated: 6291457
 EndChar
 
 StartChar: uni0083
@@ -14302,7 +14303,7 @@ SplineSet
  359 476 394 493 470 493 c 0
  545 493 581 445 581 381 c 0
 EndSplineSet
-Validated: 1
+Validated: 6815745
 EndChar
 
 StartChar: uni0084
@@ -14452,7 +14453,7 @@ SplineSet
  77 465 95 493 164 493 c 2
  391 493 l 2
 EndSplineSet
-Validated: 1
+Validated: 6291457
 EndChar
 
 StartChar: .notdef
@@ -14641,7 +14642,7 @@ SplineSet
  181.965378557 987.165039062 202.809570312 963.764780854 202.809570312 934.064453125 c 4
  202.809570312 900.763822773 210.68904922 881.729492188 239.288085938 881.729492188 c 4
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: ring.case
@@ -14735,7 +14736,7 @@ SplineSet
  417.456054688 1008.56152344 460.779296875 972.530273438 460.779296875 927.623046875 c 4
  460.779296875 892.102539062 428.934570312 857.911132812 401.239257812 830.215820312 c 4
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: dot.below
@@ -14825,7 +14826,7 @@ SplineSet
  218 764.963867188 174.573242188 749.016601562 108.75 749.016601562 c 4
  53.2919921875 749.016601562 0.4599609375 767.912109375 0.4599609375 825.099609375 c 4
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Dcroat
@@ -18875,14 +18876,14 @@ Encoding: 652 309 661
 GlifName: jcircumflex
 Width: 340
 VWidth: 0
-Flags: H
+Flags: HO
 HStem: -204.472 150.028<-34.1111 47.096> 626.932 140.404<146.757 211.559>
 VStem: 71 217<-27.2842 48.46 356.742 435.127>
 LayerCount: 2
 Back
 Fore
 Refer: 144 710 N 1 0 0 1 -61.3896 -108.917 2
-Refer: 662 567 N 1 0 0 1 0 0 3
+Refer: 662 567 S 1 0 0 1 0 0 3
 Validated: 1
 EndChar
 
@@ -18891,7 +18892,7 @@ Encoding: 654 567 662
 GlifName: dotlessj
 Width: 340
 VWidth: 0
-Flags: HW
+Flags: HWO
 HStem: -204.472 150.028<-34.1111 47.096>
 VStem: 71 217<-27.2842 48.46 356.742 435.127>
 LayerCount: 2
@@ -18908,7 +18909,7 @@ SplineSet
  71 443.549804688 119.514648438 476.690429688 182.07421875 476.690429688 c 0
  244.91796875 476.690429688 287.677606212 429.338021502 288 372.299804688 c 6
 EndSplineSet
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: LJ
@@ -19219,7 +19220,7 @@ SplineSet
  379.133789062 934.518554688 431.381835938 968.705078125 465.791015625 968.705078125 c 4
 EndSplineSet
 Refer: 50 79 S 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: odblgrave
@@ -19254,7 +19255,7 @@ SplineSet
  289.133789062 750.518554688 341.381835938 784.705078125 375.791015625 784.705078125 c 4
 EndSplineSet
 Refer: 23 111 S 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Oinvertedbreve
@@ -19536,7 +19537,7 @@ SplineSet
  396.520507812 828.33203125 385.768554688 845.462890625 362.900390625 845.462890625 c 4
 EndSplineSet
 Refer: 76 85 N 1 0 0 1 0 0 3
-Validated: 1
+Validated: 8912897
 EndChar
 
 StartChar: uinvertedbreve
@@ -19562,7 +19563,7 @@ SplineSet
  343 621 332 639 309 639 c 0
 EndSplineSet
 Refer: 29 117 N 1 0 0 1 0 0 3
-Validated: 1
+Validated: 8912897
 EndChar
 
 StartChar: Wgrave
@@ -19950,7 +19951,7 @@ SplineSet
  214.133789062 750.518554688 266.381835938 784.705078125 300.791015625 784.705078125 c 4
 EndSplineSet
 Refer: 26 114 S 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Acircumflexgrave
@@ -20079,7 +20080,7 @@ SplineSet
 EndSplineSet
 Refer: 150 -1 N 1 0 0 1 121.846 -44 2
 Refer: 48 65 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: acircumflexhookabove
@@ -20108,7 +20109,7 @@ SplineSet
 EndSplineSet
 Refer: 150 -1 N 1 0 0 1 92.846 -224 2
 Refer: 9 97 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Acircumflexdotbelow
@@ -20268,7 +20269,7 @@ SplineSet
  424 1211 462 1188 462 1141 c 0xf980
 EndSplineSet
 Refer: 355 258 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: abrevehookabove
@@ -20296,7 +20297,7 @@ SplineSet
  400 992 438 968 438 922 c 0x1980
 EndSplineSet
 Refer: 163 259 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Abrevedotbelow
@@ -20356,7 +20357,7 @@ SplineSet
  424 952 462 929 462 882 c 0xf6
 EndSplineSet
 Refer: 48 65 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: ahookabove
@@ -20384,7 +20385,7 @@ SplineSet
  424 722 462 699 462 652 c 0x1d
 EndSplineSet
 Refer: 9 97 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Adotbelow
@@ -20543,7 +20544,7 @@ SplineSet
  636 1060 674 1037 674 990 c 0
 EndSplineSet
 Refer: 215 202 N 1 0 0 1 0 0 3
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: ecircumflexhookabove
@@ -20571,7 +20572,7 @@ SplineSet
  606 859 644 836 644 789 c 0xfb
 EndSplineSet
 Refer: 172 234 N 1 0 0 1 0 0 3
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Ecircumflexdotbelow
@@ -20631,7 +20632,7 @@ SplineSet
  409 952 447 929 447 882 c 0xf6
 EndSplineSet
 Refer: 65 69 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: ehookabove
@@ -20659,7 +20660,7 @@ SplineSet
  399 722 437 699 437 652 c 0xfa
 EndSplineSet
 Refer: 13 101 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Ihookabove
@@ -20687,7 +20688,7 @@ SplineSet
  246 952 284 929 284 882 c 0xd8
 EndSplineSet
 Refer: 64 73 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: ihookabove
@@ -20715,7 +20716,7 @@ SplineSet
  199 722 237 699 237 652 c 0xd8
 EndSplineSet
 Refer: 35 305 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Ocircumflexgrave
@@ -20840,7 +20841,7 @@ SplineSet
  725 1060 763 1037 763 990 c 0xfb
 EndSplineSet
 Refer: 234 212 N 1 0 0 1 0 0 3
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: ocircumflexhookabove
@@ -20868,7 +20869,7 @@ SplineSet
  613 859 651 836 651 789 c 0xfb
 EndSplineSet
 Refer: 257 244 N 1 0 0 1 0 0 3
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Ocircumflexdotbelow
@@ -20928,7 +20929,7 @@ SplineSet
  466 952 504 929 504 882 c 0
 EndSplineSet
 Refer: 50 79 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: ohookabove
@@ -20956,7 +20957,7 @@ SplineSet
  381 722 419 699 419 652 c 0xec
 EndSplineSet
 Refer: 23 111 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Ohorn
@@ -21185,7 +21186,7 @@ SplineSet
  431 952 469 929 469 882 c 0xd8
 EndSplineSet
 Refer: 76 85 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: uhookabove
@@ -21213,7 +21214,7 @@ SplineSet
  381 722 419 699 419 652 c 0xd8
 EndSplineSet
 Refer: 29 117 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Uhorn
@@ -21475,7 +21476,7 @@ SplineSet
  419 952 457 929 457 882 c 0xd8
 EndSplineSet
 Refer: 84 89 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: yhookabove
@@ -21503,7 +21504,7 @@ SplineSet
  372 722 410 699 410 652 c 0xec
 EndSplineSet
 Refer: 33 121 N 1 0 0 1 0 0 2
-Validated: 1
+Validated: 524289
 EndChar
 
 StartChar: Ydotbelow
