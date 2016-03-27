@@ -328,7 +328,7 @@ lookup kernHorizontalKerninglookup7TAM {
     pos \tm_KA \uni0B9C -20;
     pos \tm_KA \uni0B94 -7;
     pos \tm_KA \tm_NYA -26;
-    pos \tm_KA \tm_KA -11;
+    pos \tm_KA \tm_KA -106;
     pos \tm_KA \tm_CA -5;
     pos \tm_NGA \uni0B9C -67;
     pos \tm_NGA \uni0B94 -48;
@@ -377,7 +377,6 @@ lookup kernHorizontalKerninglookup6Pon {
     pos \quotesingle \q -35;
     pos \quotesingle \J -123;
     pos \quotesingle \four -92;
-    pos \L <0 0 -20 0> \?  <0 0 -20 0>;
     pos \L \quotesingle -156;
     pos \L \question -84;
     pos \L \quoteright -145;
@@ -493,6 +492,7 @@ lookup kernHorizontalKerninglookup4Alt {
     pos \e \f -17;
     pos \f \a -38;
     pos \y \p 25;
+    pos \L <0 0 -20 0> \?  <0 0 -20 0>;
     pos \L \a -10;
     pos \L \c -15;
     pos \L \d -10;
@@ -614,17 +614,17 @@ lookup kernHorizontalKerninglookup4Alt {
     pos \V \j -40;
     pos \V \q -10;
     pos \V \z -10;
-    pos \N \z -10;
-    pos \N \y -10;
-    pos \N \t -15;
-    pos \N \s -10;
-    pos \N \q -15;
-    pos \N \o -20;
-    pos \N \j -30;
-    pos \N \g -15;
-    pos \N \e -20;
-    pos \N \c -20;
     pos \N \a -15;
+    pos \N \c -20;
+    pos \N \e -20;
+    pos \N \g -15;
+    pos \N \j -30;
+    pos \N \o -20;
+    pos \N \q -15;
+    pos \N \s -10;
+    pos \N \t -15;
+    pos \N \y -10;
+    pos \N \z -10;
     pos \U \a -20;
     pos \U \c -15;
     pos \U \d -20;
@@ -642,16 +642,16 @@ lookup kernHorizontalKerninglookup4Alt {
     pos \D \o -15;
     pos \D \q -15;
     pos \D \s -10;
-    pos \M \a -10;
-    pos \M \c -20;
-    pos \M \d -10;
-    pos \M \e -20;
-    pos \M \f -15;
-    pos \M \g -10;
-    pos \M \o -20;
-    pos \M \q -10;
-    pos \M \y -5;
     pos \M \z -20;
+    pos \M \y -5;
+    pos \M \q -10;
+    pos \M \o -20;
+    pos \M \g -10;
+    pos \M \f -15;
+    pos \M \e -20;
+    pos \M \d -10;
+    pos \M \c -20;
+    pos \M \a -10;
     pos \C \a -15;
     pos \C \c -10;
     pos \C \d -10;
@@ -993,14 +993,14 @@ lookup kernHorizontalKerninglookup2cai {
     pos \V \AE -35;
     pos \V \T -20;
     pos \V \J -29;
-    pos \N \Y -27;
-    pos \N \Q -15;
-    pos \N \G -15;
-    pos \N \C -15;
-    pos \N \S -20;
-    pos \N \J -27;
-    pos \N \T -36;
     pos \N \O -15;
+    pos \N \T -36;
+    pos \N \J -27;
+    pos \N \S -20;
+    pos \N \C -15;
+    pos \N \G -15;
+    pos \N \Q -15;
+    pos \N \Y -27;
     pos \U \T -20;
     pos \U \J -36;
     pos \D \AE -34;
@@ -1012,9 +1012,9 @@ lookup kernHorizontalKerninglookup2cai {
     pos \D \Z -68;
     pos \D \Y -40;
     pos \D \X -35;
-    pos \M \T -39;
-    pos \M \Y -18;
     pos \M \X -18;
+    pos \M \Y -18;
+    pos \M \T -39;
     pos \C \T -66;
     pos \C \J -25;
     pos \C \S -30;
@@ -1071,57 +1071,58 @@ lookup abvmAboveBaseMarklookup2 {
   lookupflag 0;
   markClass [\tm_VowelIi ] <anchor -3 14> @Anchor1;
   pos base [\tm_NYA ] <anchor 1399 0> mark @Anchor1;
-  pos base [\tm_RA ] <anchor 828 0> mark @Anchor1;
-  pos base [\tm_NA ] <anchor 779 0> mark @Anchor1;
-  pos base [\tm_PA ] <anchor 752 0> mark @Anchor1;
-  pos base [\tm_LLA ] <anchor 1515 0> mark @Anchor1;
+  pos base [\tm_RA ] <anchor 748 -2> mark @Anchor1;
+  pos base [\tm_NA ] <anchor 746 0> mark @Anchor1;
+  pos base [\tm_PA ] <anchor 613 0> mark @Anchor1;
+  pos base [\tm_LLA ] <anchor 1362 2> mark @Anchor1;
   pos base [\tm_VA ] <anchor 1211 -3> mark @Anchor1;
   pos base [\tm_LA ] <anchor 1108 0> mark @Anchor1;
-  pos base [\tm_BAE ] <anchor 745 0> mark @Anchor1;
+  pos base [\tm_BAE ] <anchor 804 0> mark @Anchor1;
   pos base [\tm_YA ] <anchor 895 6> mark @Anchor1;
   pos base [\tm_RRA ] <anchor 804 0> mark @Anchor1;
-  pos base [\tm_SHA ] <anchor 1038 -6> mark @Anchor1;
-  pos base [\tm_LLLA ] <anchor 738 0> mark @Anchor1;
+  pos base [\tm_LLLA ] <anchor 824 -4> mark @Anchor1;
   pos base [\tm_SSA ] <anchor 1157 0> mark @Anchor1;
   pos base [\uni0BB8 ] <anchor 1439 0> mark @Anchor1;
   pos base [\uni0BB9 ] <anchor 1679 0> mark @Anchor1;
   pos base [\tm_NNA ] <anchor 1832 0> mark @Anchor1;
   pos base [\tm_NNNA ] <anchor 1410 0> mark @Anchor1;
-  pos base [\tm_KA ] <anchor 897 0> mark @Anchor1;
+  pos base [\tm_KA ] <anchor 807 0> mark @Anchor1;
   pos base [\tm_NGA ] <anchor 1223 0> mark @Anchor1;
-  pos base [\tm_CA ] <anchor 900 0> mark @Anchor1;
+  pos base [\tm_CA ] <anchor 781 -5> mark @Anchor1;
   pos base [\uni0B9C ] <anchor 853 -6> mark @Anchor1;
-  pos base [\tm_TA ] <anchor 932 -3> mark @Anchor1;
+  pos base [\tm_TA ] <anchor 856 -3> mark @Anchor1;
+  pos base [\tm_NU ] <anchor 588 0> mark @Anchor1;
 } abvmAboveBaseMarklookup2;
 
 lookup abvmAboveBaseMarklookup0 {
   lookupflag 0;
   markClass [\tm_VIRAMA ] <anchor 9 0> @Anchor0;
-  pos base [\uni0BBE ] <anchor 459 0> mark @Anchor0;
+  pos base [\uni0BBE ] <anchor 322 0> mark @Anchor0;
   pos base [\tm_NYA ] <anchor 941 0> mark @Anchor0;
-  pos base [\tm_RA ] <anchor 419 -9> mark @Anchor0;
-  pos base [\tm_NA ] <anchor 437 0> mark @Anchor0;
-  pos base [\tm_PA ] <anchor 424 -2> mark @Anchor0;
+  pos base [\tm_RA ] <anchor 339 -10> mark @Anchor0;
+  pos base [\tm_NA ] <anchor 404 0> mark @Anchor0;
+  pos base [\tm_PA ] <anchor 285 -2> mark @Anchor0;
   pos base [\tm_TTA ] <anchor 424 0> mark @Anchor0;
   pos base [\uni0B82 ] <anchor 300 0> mark @Anchor0;
   pos base [\tm_LLA ] <anchor 846 0> mark @Anchor0;
   pos base [\tm_VA ] <anchor 817 0> mark @Anchor0;
   pos base [\tm_LA ] <anchor 646 -2> mark @Anchor0;
-  pos base [\tm_BAE ] <anchor 620 0> mark @Anchor0;
-  pos base [\tm_YA ] <anchor 499 0> mark @Anchor0;
+  pos base [\tm_BAE ] <anchor 635 0> mark @Anchor0;
+  pos base [\tm_YA ] <anchor 497 0> mark @Anchor0;
   pos base [\tm_RRA ] <anchor 496 0> mark @Anchor0;
   pos base [\tm_SHA ] <anchor 608 0> mark @Anchor0;
-  pos base [\tm_LLLA ] <anchor 613 0> mark @Anchor0;
+  pos base [\tm_LLLA ] <anchor 688 -4> mark @Anchor0;
   pos base [\tm_SSA ] <anchor 933 0> mark @Anchor0;
   pos base [\uni0BB8 ] <anchor 800 0> mark @Anchor0;
   pos base [\uni0BB9 ] <anchor 1375 0> mark @Anchor0;
   pos base [\tm_NNA ] <anchor 993 0> mark @Anchor0;
   pos base [\tm_NNNA ] <anchor 792 0> mark @Anchor0;
-  pos base [\tm_KA ] <anchor 502 0> mark @Anchor0;
+  pos base [\tm_KA ] <anchor 439 0> mark @Anchor0;
   pos base [\tm_NGA ] <anchor 694 0> mark @Anchor0;
-  pos base [\tm_CA ] <anchor 488 0> mark @Anchor0;
+  pos base [\tm_CA ] <anchor 413 0> mark @Anchor0;
   pos base [\uni0B9C ] <anchor 477 0> mark @Anchor0;
-  pos base [\tm_TA ] <anchor 502 -3> mark @Anchor0;
+  pos base [\tm_TA ] <anchor 426 -3> mark @Anchor0;
+  pos base [\tm_CU ] <anchor 915 0> mark @Anchor0;
 } abvmAboveBaseMarklookup0;
 
 feature kern {
@@ -1281,17 +1282,17 @@ feature abvm {
 	\uogonek \zacute \scedilla \tcedilla \scommaaccent \uni02C9 \Turkishlira \Ruble 
 	\Gcommaaccent \Kcommaaccent \Lcommaaccent \Ncommaaccent \Rcommaaccent 
 	\Tcommaaccent \gcommaaccent \kcommaaccent \lcommaaccent \ncommaaccent 
-	\rcommaaccent \tcommaaccent \tm_VowelAi.alt \tm_VowelI.alt1 \tm_VowelU.alt1 
-	\tm_VowelUu.alt1 \tm_VowelI.alt2 \tm_VowelI.alt3 \tm_VowelI.alt4 \tm_YUu 
-	\space \tm_LAUU \NameMe.611 \NameMe.612 \NameMe.613 \NameMe.614 \NameMe.615 
-	\NameMe.616 \glyph626 \glyph627 \NameMe.619 \NameMe.620 \NameMe.621 
-	\NameMe.622 \NameMe.623 \NameMe.624 \NameMe.625 \DZ \Dz \DZcaron \Dzcaron 
-	\Edotbelow \edotbelow \Edblgrave \edblgrave \Einvertedbreve \einvertedbreve 
-	\Schwa \Gacute \gacute \Hcircumflex \hcircumflex \Ibreve \ibreve \Idotbelow 
-	\idotbelow \Idblgrave \idblgrave \Iinvertedbreve \iinvertedbreve \IJ \ij 
-	\Jcircumflex \jcircumflex \dotlessj \LJ \lj \Eng \eng \kgreenlandic \napostrophe 
-	\NJ \nj \Oslashacute \oslashacute \Oogonek \oogonek \Odotbelow \odotbelow 
-	\Odblgrave \odblgrave \Oinvertedbreve \oinvertedbreve \Rdblgrave \NameMe.673 
+	\rcommaaccent \tcommaaccent \tm_VowelI.alt1 \tm_VowelU.alt1 \tm_VowelUu.alt1 
+	\tm_VowelI.alt2 \tm_VowelI.alt3 \tm_VowelI.alt4 \tm_YUu \space \tm_LAUU 
+	\NameMe.611 \NameMe.612 \NameMe.613 \NameMe.614 \NameMe.615 \NameMe.616 
+	\glyph626 \glyph627 \NameMe.619 \NameMe.620 \NameMe.621 \NameMe.622 
+	\NameMe.623 \NameMe.624 \NameMe.625 \DZ \Dz \DZcaron \Dzcaron \Edotbelow 
+	\edotbelow \Edblgrave \edblgrave \Einvertedbreve \einvertedbreve \Schwa 
+	\Gacute \gacute \Hcircumflex \hcircumflex \Ibreve \ibreve \Idotbelow \idotbelow 
+	\Idblgrave \idblgrave \Iinvertedbreve \iinvertedbreve \IJ \ij \Jcircumflex 
+	\jcircumflex \dotlessj \LJ \lj \Eng \eng \kgreenlandic \napostrophe \NJ \nj 
+	\Oslashacute \oslashacute \Oogonek \oogonek \Odotbelow \odotbelow \Odblgrave 
+	\odblgrave \Oinvertedbreve \oinvertedbreve \Rdblgrave \NameMe.673 
 	\Rinvertedbreve \rinvertedbreve \Scircumflex \scircumflex \Tbar \tbar 
 	\Udotbelow \udotbelow \Udblgrave \udblgrave \Uinvertedbreve \uinvertedbreve 
 	\Wgrave \wgrave \Wacute \wacute \Wdieresis \wdieresis \Wcircumflex \wcircumflex 
@@ -1313,7 +1314,7 @@ feature abvm {
 	\ohornhookabove \Ohorndotbelow \Uhookabove \uhookabove \Uhorn \uhorn 
 	\Uhorngrave \uhorngrave \Uhornacute \uhornacute \uni1EEE \uhorntilde 
 	\Uhornhookabove \uhornhookabove \Uhorndotbelow \uhorndotbelow \ohorndotbelow 
-	\Yhookabove \yhookabove \Ydotbelow \ydotbelow ];
+	\Yhookabove \yhookabove \Ydotbelow \ydotbelow \nbsp ];
 @GDEF_Ligature = [\tm_KU \tm_CU \tm_NyU \tm_TtU \tm_NnU \tm_TU \tm_NU \tm_NNNU 
 	\tm_MU \tm_RU \tm_RrU \tm_LU \tm_LlU \tm_LllU \tm_KUu \tm_NgUu \tm_CUu \tm_TtUu 
 	\tm_PUu \tm_MUu \tm_LlUu \tm_LllUu \tm_VUu \tm_KSsa \tm_RUu \tm_TtI \tm_TtIi 

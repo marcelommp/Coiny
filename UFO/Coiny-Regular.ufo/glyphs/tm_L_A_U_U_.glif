@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tm_LAUU" format="1">
-  <advance width="2086"/>
+  <advance width="2202"/>
   <outline>
-    <component base="tm_VowelUu.alt1" xOffset="1617.63" yOffset="-1"/>
-    <component base="tm_LU" xOffset="52.6316"/>
+    <component base="tm_VowelUu.alt1" xOffset="1565" yOffset="-1"/>
+    <component base="tm_LU" xOffset="-0.000235938"/>
   </outline>
   <lib>
     <dict>
@@ -25,15 +25,15 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>-6</integer>
+            <integer>-7</integer>
             <key>width</key>
-            <integer>78</integer>
+            <integer>98</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>235</integer>
+            <integer>200</integer>
             <key>width</key>
-            <integer>73</integer>
+            <integer>100</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -52,37 +52,37 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>121</integer>
+            <integer>68</integer>
             <key>width</key>
             <integer>222</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>383</integer>
+            <integer>315</integer>
             <key>width</key>
-            <integer>141</integer>
+            <integer>149</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>591</integer>
+            <integer>532</integer>
             <key>width</key>
-            <integer>141</integer>
+            <integer>149</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1051</integer>
+            <integer>998</integer>
             <key>width</key>
             <integer>208</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1326</integer>
+            <integer>1274</integer>
             <key>width</key>
             <integer>220</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1678</integer>
+            <integer>1625</integer>
             <key>width</key>
             <integer>219</integer>
           </dict>

@@ -4,7 +4,7 @@
   <unicode hex="0BCB"/>
   <outline>
     <component base="uni25CC" xOffset="685"/>
-    <component base="uni0BBE" xOffset="1197"/>
+    <component base="uni0BBE" xOffset="1255"/>
     <component base="tm_EE"/>
   </outline>
   <lib>
@@ -17,7 +17,7 @@
             <key>position</key>
             <integer>-7</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>98</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -51,9 +51,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>213</integer>
+            <integer>200</integer>
             <key>width</key>
-            <integer>67</integer>
+            <integer>100</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -69,15 +69,15 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>376</integer>
+            <integer>362</integer>
             <key>width</key>
-            <integer>125</integer>
+            <integer>98</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>381</integer>
+            <integer>376</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>125</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -99,9 +99,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>601</integer>
+            <integer>569</integer>
             <key>width</key>
-            <integer>67</integer>
+            <integer>100</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -114,15 +114,15 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>337</integer>
+            <integer>326</integer>
             <key>width</key>
-            <integer>139</integer>
+            <integer>149</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>543</integer>
             <key>width</key>
-            <integer>139</integer>
+            <integer>149</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -180,13 +180,13 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>1287</integer>
+            <integer>1286</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1700</integer>
+            <integer>1621</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>

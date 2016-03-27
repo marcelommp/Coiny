@@ -3,7 +3,30 @@
   <advance width="477"/>
   <unicode hex="005D"/>
   <outline>
-    <component base="bracketleft" xScale="-1" xOffset="477.58"/>
+    <contour>
+      <point x="371.58" y="-48" type="line" smooth="yes"/>
+      <point x="371.58" y="-128"/>
+      <point x="346.58" y="-158"/>
+      <point x="246.58" y="-158" type="curve" smooth="yes"/>
+      <point x="138.58" y="-159" type="line" smooth="yes"/>
+      <point x="67.5801" y="-159"/>
+      <point x="30.5801" y="-126"/>
+      <point x="30.5801" y="-83" type="curve" smooth="yes"/>
+      <point x="30.5801" y="-25"/>
+      <point x="89.5801" y="-7"/>
+      <point x="151.58" y="-7" type="curve"/>
+      <point x="151.58" y="649" type="line"/>
+      <point x="89.5801" y="649"/>
+      <point x="30.5801" y="667"/>
+      <point x="30.5801" y="725" type="curve" smooth="yes"/>
+      <point x="30.5801" y="768"/>
+      <point x="67.5801" y="800"/>
+      <point x="138.58" y="800" type="curve" smooth="yes"/>
+      <point x="246.58" y="800" type="line" smooth="yes"/>
+      <point x="346.58" y="800"/>
+      <point x="371.58" y="769"/>
+      <point x="371.58" y="691" type="curve" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -22,6 +45,15 @@
             <integer>649</integer>
             <key>width</key>
             <integer>151</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>152</integer>
+            <key>width</key>
+            <integer>220</integer>
           </dict>
         </array>
       </dict>

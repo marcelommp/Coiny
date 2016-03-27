@@ -4,7 +4,7 @@
   <unicode hex="0BF5"/>
   <outline>
     <contour>
-      <point x="1481.38" y="376.007" type="line"/>
+      <point x="1481" y="376" type="line"/>
       <point x="1481.38" y="502" type="line"/>
       <point x="2044.54" y="502" type="line" smooth="yes"/>
       <point x="2101.38" y="502"/>
@@ -93,7 +93,7 @@
             <key>position</key>
             <integer>-6</integer>
             <key>width</key>
-            <integer>78</integer>
+            <integer>98</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -115,9 +115,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>235</integer>
+            <integer>201</integer>
             <key>width</key>
-            <integer>73</integer>
+            <integer>100</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -148,15 +148,15 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>660</integer>
+            <integer>632</integer>
             <key>width</key>
-            <integer>141</integer>
+            <integer>149</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>869</integer>
+            <integer>848</integer>
             <key>width</key>
-            <integer>141</integer>
+            <integer>149</integer>
           </dict>
           <dict>
             <key>position</key>

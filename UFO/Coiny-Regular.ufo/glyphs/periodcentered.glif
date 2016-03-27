@@ -5,17 +5,17 @@
   <outline>
     <contour>
       <point x="44.46" y="234.042" type="curve" smooth="yes"/>
-      <point x="44.46" y="176.854"/>
-      <point x="97.292" y="157.959"/>
-      <point x="152.75" y="157.959" type="curve" smooth="yes"/>
-      <point x="218.573" y="157.959"/>
-      <point x="262" y="173.906"/>
-      <point x="262" y="234.042" type="curve" smooth="yes"/>
-      <point x="262" y="285.66"/>
-      <point x="224.9" y="309.942"/>
-      <point x="152.75" y="309.942" type="curve" smooth="yes"/>
-      <point x="81.5811" y="309.942"/>
       <point x="44.46" y="277.184"/>
+      <point x="81.5811" y="309.942"/>
+      <point x="152.75" y="309.942" type="curve" smooth="yes"/>
+      <point x="224.9" y="309.942"/>
+      <point x="262" y="285.66"/>
+      <point x="262" y="234.042" type="curve" smooth="yes"/>
+      <point x="262" y="173.906"/>
+      <point x="218.573" y="157.959"/>
+      <point x="152.75" y="157.959" type="curve" smooth="yes"/>
+      <point x="97.292" y="157.959"/>
+      <point x="44.46" y="176.854"/>
     </contour>
   </outline>
   <lib>

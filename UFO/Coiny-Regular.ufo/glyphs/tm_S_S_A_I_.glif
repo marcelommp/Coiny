@@ -2,8 +2,8 @@
 <glyph name="tm_SSAI" format="1">
   <advance width="1897"/>
   <outline>
-    <component base="tm_VowelI.alt2" xOffset="1564"/>
-    <component base="tm_SSA"/>
+    <component base="tm_VowelI.alt2" xOffset="930.658"/>
+    <component base="tm_SSA" xOffset="-30.3418"/>
   </outline>
   <lib>
     <dict>
@@ -15,7 +15,7 @@
             <key>position</key>
             <integer>-6</integer>
             <key>width</key>
-            <integer>78</integer>
+            <integer>98</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -33,13 +33,13 @@
             <key>position</key>
             <integer>201</integer>
             <key>width</key>
-            <integer>72</integer>
+            <integer>100</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>236</integer>
+            <integer>203</integer>
             <key>width</key>
-            <integer>73</integer>
+            <integer>98</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -49,9 +49,9 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>436</integer>
+            <integer>410</integer>
             <key>width</key>
-            <integer>73</integer>
+            <integer>100</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -64,55 +64,61 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>50</integer>
+            <integer>20</integer>
             <key>width</key>
             <integer>222</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>312</integer>
+            <integer>253</integer>
             <key>width</key>
-            <integer>141</integer>
+            <integer>149</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>520</integer>
+            <integer>469</integer>
             <key>width</key>
-            <integer>141</integer>
+            <integer>149</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>718</integer>
+            <integer>687</integer>
             <key>width</key>
             <integer>166</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>888</integer>
+            <integer>849</integer>
             <key>width</key>
-            <integer>141</integer>
+            <integer>149</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>928</integer>
+            <integer>898</integer>
             <key>width</key>
             <integer>104</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1098</integer>
+            <integer>1065</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1068</integer>
             <key>width</key>
             <integer>139</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1340</integer>
+            <integer>1310</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1628</integer>
+            <integer>1597</integer>
             <key>width</key>
             <integer>219</integer>
           </dict>

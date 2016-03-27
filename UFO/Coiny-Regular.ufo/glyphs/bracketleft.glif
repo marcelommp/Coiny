@@ -4,28 +4,28 @@
   <unicode hex="005B"/>
   <outline>
     <contour>
-      <point x="105.58" y="-48.2002" type="line" smooth="yes"/>
-      <point x="105.58" y="-127.55"/>
-      <point x="130.558" y="-158.032"/>
-      <point x="230.61" y="-158.032" type="curve" smooth="yes"/>
-      <point x="338.71" y="-158.601" type="line" smooth="yes"/>
-      <point x="409.879" y="-158.601"/>
-      <point x="447" y="-125.842"/>
-      <point x="447" y="-82.7002" type="curve" smooth="yes"/>
-      <point x="447" y="-24.6211"/>
-      <point x="388.165" y="-6.62207"/>
-      <point x="326.446" y="-6.62207" type="curve"/>
-      <point x="326.446" y="649.021" type="line"/>
-      <point x="388.165" y="649.021"/>
-      <point x="447" y="667.021"/>
-      <point x="447" y="725.1" type="curve" smooth="yes"/>
-      <point x="447" y="767.673"/>
-      <point x="409.879" y="800"/>
-      <point x="338.71" y="800" type="curve" smooth="yes"/>
-      <point x="230.61" y="800" type="line" smooth="yes"/>
-      <point x="130.558" y="800"/>
-      <point x="105.58" y="769.23"/>
-      <point x="105.58" y="690.6" type="curve" smooth="yes"/>
+      <point x="106" y="-48" type="curve" smooth="yes"/>
+      <point x="106" y="691" type="line" smooth="yes"/>
+      <point x="106" y="769"/>
+      <point x="131" y="800"/>
+      <point x="231" y="800" type="curve" smooth="yes"/>
+      <point x="339" y="800" type="line" smooth="yes"/>
+      <point x="410" y="800"/>
+      <point x="447" y="768"/>
+      <point x="447" y="725" type="curve" smooth="yes"/>
+      <point x="447" y="667"/>
+      <point x="388" y="649"/>
+      <point x="326" y="649" type="curve"/>
+      <point x="326" y="-7" type="line"/>
+      <point x="388" y="-7"/>
+      <point x="447" y="-25"/>
+      <point x="447" y="-83" type="curve" smooth="yes"/>
+      <point x="447" y="-126"/>
+      <point x="410" y="-159"/>
+      <point x="339" y="-159" type="curve" smooth="yes"/>
+      <point x="231" y="-158" type="line" smooth="yes"/>
+      <point x="131" y="-158"/>
+      <point x="106" y="-128"/>
     </contour>
   </outline>
   <lib>
@@ -45,6 +45,15 @@
             <integer>649</integer>
             <key>width</key>
             <integer>151</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>106</integer>
+            <key>width</key>
+            <integer>220</integer>
           </dict>
         </array>
       </dict>

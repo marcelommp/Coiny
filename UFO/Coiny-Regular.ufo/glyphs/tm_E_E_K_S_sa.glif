@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tm_EEKSsa" format="1">
-  <advance width="2784"/>
+  <advance width="2579"/>
   <outline>
-    <component base="tm_EE"/>
-    <component base="tm_KSsa" xOffset="660"/>
+    <component base="tm_EE" xOffset="-30.21"/>
+    <component base="tm_KSsa" xOffset="629.79"/>
   </outline>
   <lib>
     <dict>
@@ -21,13 +21,13 @@
             <key>position</key>
             <integer>-7</integer>
             <key>width</key>
-            <integer>68</integer>
+            <integer>98</integer>
           </dict>
           <dict>
             <key>position</key>
             <integer>-7</integer>
             <key>width</key>
-            <integer>125</integer>
+            <integer>126</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -39,7 +39,13 @@
             <key>position</key>
             <integer>182</integer>
             <key>width</key>
-            <integer>106</integer>
+            <integer>108</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>183</integer>
+            <key>width</key>
+            <integer>105</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -49,15 +55,21 @@
           </dict>
           <dict>
             <key>position</key>
+            <integer>200</integer>
+            <key>width</key>
+            <integer>100</integer>
+          </dict>
+          <dict>
+            <key>position</key>
             <integer>201</integer>
             <key>width</key>
             <integer>72</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>213</integer>
+            <integer>362</integer>
             <key>width</key>
-            <integer>67</integer>
+            <integer>98</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -67,82 +79,76 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>381</integer>
-            <key>width</key>
-            <integer>68</integer>
-          </dict>
-          <dict>
-            <key>position</key>
             <integer>436</integer>
             <key>width</key>
             <integer>73</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>601</integer>
+            <integer>569</integer>
             <key>width</key>
-            <integer>67</integer>
+            <integer>100</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>50</integer>
+            <integer>20</integer>
             <key>width</key>
             <integer>218</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>337</integer>
+            <integer>296</integer>
             <key>width</key>
-            <integer>139</integer>
+            <integer>149</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>543</integer>
+            <integer>512</integer>
             <key>width</key>
-            <integer>139</integer>
+            <integer>149</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>808</integer>
+            <integer>1049</integer>
             <key>width</key>
-            <integer>208</integer>
+            <integer>215</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1443</integer>
+            <integer>1317</integer>
             <key>width</key>
             <integer>123</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1649</integer>
+            <integer>1523</integer>
             <key>width</key>
             <integer>117</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1858</integer>
+            <integer>1731</integer>
             <key>width</key>
             <integer>194</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>2059</integer>
+            <integer>1932</integer>
             <key>width</key>
             <integer>141</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>2269</integer>
+            <integer>2142</integer>
             <key>width</key>
             <integer>139</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>2510</integer>
+            <integer>2384</integer>
             <key>width</key>
             <integer>215</integer>
           </dict>

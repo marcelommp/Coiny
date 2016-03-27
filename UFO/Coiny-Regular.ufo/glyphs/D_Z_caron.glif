@@ -57,6 +57,12 @@
             <key>width</key>
             <integer>240</integer>
           </dict>
+          <dict>
+            <key>position</key>
+            <integer>823</integer>
+            <key>width</key>
+            <integer>441</integer>
+          </dict>
         </array>
       </dict>
     </dict>

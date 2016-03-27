@@ -1134,7 +1134,7 @@
     <string>rcommaaccent.glif</string>
     <key>tcommaaccent</key>
     <string>tcommaaccent.glif</string>
-    <key>tm_VowelAi.alt</key>
+    <key>.notdef</key>
     <string>tm_V_owelA_i.alt.glif</string>
     <key>tm_VowelI.alt1</key>
     <string>tm_V_owelI_.alt1.glif</string>
@@ -1598,5 +1598,7 @@
     <string>Y_dotbelow.glif</string>
     <key>ydotbelow</key>
     <string>ydotbelow.glif</string>
+    <key>nbsp</key>
+    <string>nbsp.glif</string>
   </dict>
 </plist>

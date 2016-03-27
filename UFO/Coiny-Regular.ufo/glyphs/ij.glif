@@ -30,12 +30,6 @@
             <key>width</key>
             <integer>152</integer>
           </dict>
-          <dict>
-            <key>position</key>
-            <integer>540</integer>
-            <key>width</key>
-            <integer>152</integer>
-          </dict>
         </array>
         <key>vhints</key>
         <array>
