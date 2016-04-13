@@ -1,7 +1,7 @@
 # Coiny Latin + Tamil Font
 
-(https://github.com/marcelommp/Coiny/blob/gh-pages/images/sample_read.png?raw=true)
-Coiny/images/sample_read.png
+https://github.com/marcelommp/Coiny/blob/gh-pages/images/sample_read.png?raw=true
+
 Coiny is a typeface designed originally for the Latin and Tamil scripts in parallel. 
 Naturally bold, and born on street to shine on screen.
 It has a structure based on simple geometrical shapes, and is inspired by the vernacular designs seen around every big city. 
