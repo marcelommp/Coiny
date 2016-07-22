@@ -22,7 +22,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1439837839
-ModificationTime: 1469200127
+ModificationTime: 1469200941
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -74,13 +74,14 @@ MarkAttachSets: 2
 DEI: 91125
 LangName: 1033 "Copyright (c) 2015, Marcelo Magalhaes" "" "" "FontForge : Coiny : 10-8-2015" "" "Version 001.000" "" "" "" "" "" "" "" "Copyright (c) 2015, Marcelo Magalh+AOMA-es (<www.marcelomagalhaes.net|marcelommp@gmail.com>),+AAoA-with Reserved Font Name Coiny Regular.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 Encoding: Custom
+Compacted: 1
 UnicodeInterp: none
 NameList: Adobe Glyph List
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
 WidthSeparation: 45
-WinInfo: 0 15 7
+WinInfo: 132 12 5
 BeginPrivate: 5
 BlueValues 14 [-4 0 515 515]
 OtherBlues 11 [-240 -240]
@@ -5079,28 +5080,28 @@ GlifName: questiondown
 Width: 583
 VWidth: 0
 Flags: W
-HStem: -7 105<265.412 322.713> 539 152<220.925 392.239>
-VStem: 38 205<119.27 274.038> 192 229<564.586 662.923> 324 216<98.8523 177.028>
+HStem: -197.47 105<265.412 322.713> 348.53 152<220.925 392.239>
+VStem: 38 205<-71.1997 83.5685> 192 229<374.116 472.454> 324 216<-91.6175 -13.4414>
 LayerCount: 2
 Back
 Fore
 SplineSet
-38 173 m 4xe8
- 38 52 135 -7 306 -7 c 4
- 475 -7 540 44 540 116 c 4
- 540 158 507 229 394 229 c 4
- 347 229 308 225 308 178 c 4
- 308 155 324 136 324 123 c 4
- 324 108 318 98 298 98 c 4
- 264 98 243 148 243 195 c 4
- 243 318 377 376 377 454 c 4
- 377 492 349 506 304 506 c 4
- 225 506 38 356 38 173 c 4xe8
-421 615 m 4xd0
- 421 658 382 691 311 691 c 4
- 239 691 192 666 192 615 c 4
- 192 555 245 539 311 539 c 4
- 366 539 421 557 421 615 c 4xd0
+38 -17.4697265625 m 0xe8
+ 38 -138.469726562 135 -197.469726562 306 -197.469726562 c 0
+ 475 -197.469726562 540 -146.469726562 540 -74.4697265625 c 0
+ 540 -32.4697265625 507 38.5302734375 394 38.5302734375 c 0
+ 347 38.5302734375 308 34.5302734375 308 -12.4697265625 c 0
+ 308 -35.4697265625 324 -54.4697265625 324 -67.4697265625 c 0
+ 324 -82.4697265625 318 -92.4697265625 298 -92.4697265625 c 0
+ 264 -92.4697265625 243 -42.4697265625 243 4.5302734375 c 0
+ 243 127.530273438 377 185.530273438 377 263.530273438 c 0
+ 377 301.530273438 349 315.530273438 304 315.530273438 c 0
+ 225 315.530273438 38 165.530273438 38 -17.4697265625 c 0xe8
+421 424.530273438 m 0xd0
+ 421 467.530273438 382 500.530273438 311 500.530273438 c 0
+ 239 500.530273438 192 475.530273438 192 424.530273438 c 0
+ 192 364.530273438 245 348.530273438 311 348.530273438 c 0
+ 366 348.530273438 421 366.530273438 421 424.530273438 c 0xd0
 EndSplineSet
 Kerns2: 66 -148 "'kern' Horizontal Kerning lookup 6 Pontuacao-1" 84 -112 "'kern' Horizontal Kerning lookup 6 Pontuacao-1"
 EndChar
