@@ -3,8 +3,10 @@
   <advance width="712"/>
   <unicode hex="1EAE"/>
   <outline>
-    <component base="acute.case" xOffset="174" yOffset="252"/>
-    <component base="Abreve"/>
+    <component base="breve.case" xScale="0.729" yScale="0.729" xOffset="180.966" yOffset="170.657"/>
+    <component base="acute.case" xScale="0.6561" yScale="0.6561" xOffset="239.91" yOffset="426.303"/>
+    <component base="A"/>
+    <component base="uni0300.cap" xOffset="359.031" yOffset="1047.17"/>
   </outline>
   <lib>
     <dict>

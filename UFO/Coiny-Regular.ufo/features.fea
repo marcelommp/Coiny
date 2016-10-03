@@ -1314,7 +1314,8 @@ feature abvm {
 	\ohornhookabove \Ohorndotbelow \Uhookabove \uhookabove \Uhorn \uhorn 
 	\Uhorngrave \uhorngrave \Uhornacute \uhornacute \uni1EEE \uhorntilde 
 	\Uhornhookabove \uhornhookabove \Uhorndotbelow \uhorndotbelow \ohorndotbelow 
-	\Yhookabove \yhookabove \Ydotbelow \ydotbelow \nbsp ];
+	\Yhookabove \yhookabove \Ydotbelow \ydotbelow \nbsp \horn_lower \Horn_Caps 
+	\Hookabove_lower \Hook_above_caps ];
 @GDEF_Ligature = [\tm_KU \tm_CU \tm_NyU \tm_TtU \tm_NnU \tm_TU \tm_NU \tm_NNNU 
 	\tm_MU \tm_RU \tm_RrU \tm_LU \tm_LlU \tm_LllU \tm_KUu \tm_NgUu \tm_CUu \tm_TtUu 
 	\tm_PUu \tm_MUu \tm_LlUu \tm_LllUu \tm_VUu \tm_KSsa \tm_RUu \tm_TtI \tm_TtIi 

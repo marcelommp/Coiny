@@ -1600,5 +1600,13 @@
     <string>ydotbelow.glif</string>
     <key>nbsp</key>
     <string>nbsp.glif</string>
+    <key>horn_lower</key>
+    <string>horn_lower.glif</string>
+    <key>Horn_Caps</key>
+    <string>H_orn_C_aps.glif</string>
+    <key>Hookabove_lower</key>
+    <string>H_ookabove_lower.glif</string>
+    <key>Hook_above_caps</key>
+    <string>H_ook_above_caps.glif</string>
   </dict>
 </plist>

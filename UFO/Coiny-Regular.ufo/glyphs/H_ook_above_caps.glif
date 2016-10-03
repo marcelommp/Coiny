@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hook_above_caps" format="1">
+  <advance width="278"/>
+  <outline>
+    <contour>
+      <point x="271.557" y="898" type="curve" smooth="yes"/>
+      <point x="271.557" y="841.733"/>
+      <point x="239.326" y="805.702"/>
+      <point x="220" y="790" type="curve" smooth="yes"/>
+      <point x="204" y="777"/>
+      <point x="183.52" y="764"/>
+      <point x="148" y="764" type="curve" smooth="yes"/>
+      <point x="111.6" y="764"/>
+      <point x="89.0039" y="774.725"/>
+      <point x="89.0039" y="800" type="curve" smooth="yes"/>
+      <point x="89.0039" y="814.01"/>
+      <point x="102.271" y="825.189"/>
+      <point x="114" y="832" type="curve" smooth="yes"/>
+      <point x="138.122" y="846.008"/>
+      <point x="164" y="859.145"/>
+      <point x="164" y="884" type="curve" smooth="yes"/>
+      <point x="164" y="896"/>
+      <point x="147.636" y="908"/>
+      <point x="124" y="908" type="curve" smooth="yes"/>
+      <point x="110" y="908"/>
+      <point x="104" y="904"/>
+      <point x="104" y="898" type="curve" smooth="yes"/>
+      <point x="104" y="893"/>
+      <point x="110" y="886"/>
+      <point x="110" y="877" type="curve" smooth="yes"/>
+      <point x="110" y="855.4"/>
+      <point x="85.4545" y="853"/>
+      <point x="56" y="853" type="curve" smooth="yes"/>
+      <point x="12.7857" y="853"/>
+      <point x="1" y="890.545"/>
+      <point x="1" y="912" type="curve" smooth="yes"/>
+      <point x="1" y="962.167"/>
+      <point x="38.5" y="998"/>
+      <point x="136" y="998" type="curve" smooth="yes"/>
+      <point x="226.149" y="998"/>
+      <point x="271.557" y="966.275"/>
+    </contour>
+  </outline>
+</glyph>

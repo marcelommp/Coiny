@@ -3,9 +3,10 @@
   <advance width="672"/>
   <unicode hex="1EC4"/>
   <outline>
-    <component base="tilde.case" xOffset="114.159" yOffset="262"/>
+    <component base="tilde" xScale="0.807975" yScale="0.807975" xOffset="154.656" yOffset="528.083"/>
+    <component base="E"/>
+    <component base="circumflex.case" xScale="0.81" yScale="0.81" xOffset="150.415" yOffset="118.009"/>
     <component base="uni0303.cap" xOffset="341.961" yOffset="1040.92"/>
-    <component base="Ecircumflex"/>
   </outline>
   <lib>
     <dict>

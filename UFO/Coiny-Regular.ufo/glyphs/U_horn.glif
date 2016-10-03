@@ -3,7 +3,7 @@
   <advance width="935"/>
   <unicode hex="01AF"/>
   <outline>
-    <component base="comma" xOffset="631.69" yOffset="629.566"/>
+    <component base="Horn_Caps" xOffset="631"/>
     <component base="U"/>
   </outline>
   <lib>

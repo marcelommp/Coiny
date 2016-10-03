@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="uhorntilde" format="1">
-  <advance width="809"/>
+  <advance width="808"/>
   <unicode hex="1EEF"/>
   <outline>
     <component base="tilde" xOffset="70.0049" yOffset="55.4727"/>

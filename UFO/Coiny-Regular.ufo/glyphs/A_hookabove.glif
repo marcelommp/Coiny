@@ -3,38 +3,7 @@
   <advance width="712"/>
   <unicode hex="1EA2"/>
   <outline>
-    <contour>
-      <point x="462" y="882" type="curve" smooth="yes"/>
-      <point x="462" y="811"/>
-      <point x="389" y="753"/>
-      <point x="359" y="753" type="curve" smooth="yes"/>
-      <point x="341" y="753"/>
-      <point x="331" y="758"/>
-      <point x="331" y="773" type="curve" smooth="yes"/>
-      <point x="331" y="803"/>
-      <point x="383" y="826"/>
-      <point x="383" y="873" type="curve" smooth="yes"/>
-      <point x="383" y="892"/>
-      <point x="374" y="911"/>
-      <point x="361" y="911" type="curve" smooth="yes"/>
-      <point x="354" y="911"/>
-      <point x="351" y="907"/>
-      <point x="351" y="901" type="curve" smooth="yes"/>
-      <point x="351" y="896"/>
-      <point x="357" y="889"/>
-      <point x="357" y="880" type="curve" smooth="yes"/>
-      <point x="357" y="862"/>
-      <point x="342" y="860"/>
-      <point x="324" y="860" type="curve" smooth="yes"/>
-      <point x="280" y="860"/>
-      <point x="268" y="888"/>
-      <point x="268" y="904" type="curve" smooth="yes"/>
-      <point x="268" y="932"/>
-      <point x="293" y="952"/>
-      <point x="358" y="952" type="curve" smooth="yes"/>
-      <point x="424" y="952"/>
-      <point x="462" y="929"/>
-    </contour>
+    <component base="Hook_above_caps" xOffset="214"/>
     <component base="A"/>
   </outline>
   <lib>

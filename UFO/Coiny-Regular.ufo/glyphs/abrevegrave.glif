@@ -3,9 +3,10 @@
   <advance width="624"/>
   <unicode hex="1EB1"/>
   <outline>
-    <component base="grave" xOffset="115.272" yOffset="255.584"/>
+    <component base="a"/>
+    <component base="grave.case" xScale="0.729" yScale="0.729" xOffset="170.982" yOffset="209.203"/>
+    <component base="breve.case" xScale="0.729" yScale="0.729" xOffset="159.966" yOffset="-0.343137"/>
     <component base="gravecomb" xOffset="331.915" yOffset="818.081"/>
-    <component base="abreve"/>
   </outline>
   <lib>
     <dict>

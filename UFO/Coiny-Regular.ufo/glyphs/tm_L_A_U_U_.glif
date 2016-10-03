@@ -52,37 +52,37 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>68</integer>
+            <integer>38</integer>
             <key>width</key>
             <integer>222</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>315</integer>
+            <integer>285</integer>
             <key>width</key>
             <integer>149</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>532</integer>
+            <integer>502</integer>
             <key>width</key>
             <integer>149</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>998</integer>
+            <integer>968</integer>
             <key>width</key>
             <integer>208</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1274</integer>
+            <integer>1244</integer>
             <key>width</key>
             <integer>220</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>1625</integer>
+            <integer>1826</integer>
             <key>width</key>
             <integer>219</integer>
           </dict>

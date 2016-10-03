@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horn_lower" format="1">
+  <advance width="283"/>
+  <outline>
+    <contour>
+      <point x="78.2607" y="565.366" type="curve" smooth="yes"/>
+      <point x="78.2607" y="609.648"/>
+      <point x="107.398" y="635"/>
+      <point x="163.261" y="635" type="curve" smooth="yes"/>
+      <point x="212.49" y="635"/>
+      <point x="258" y="613.324"/>
+      <point x="258" y="539.366" type="curve" smooth="yes"/>
+      <point x="258" y="405.46"/>
+      <point x="117.287" y="338.026"/>
+      <point x="56.75" y="338.026" type="curve" smooth="yes"/>
+      <point x="33.4131" y="338.026"/>
+      <point x="18.2324" y="353.5"/>
+      <point x="18.2324" y="374.917" type="curve" smooth="yes"/>
+      <point x="18.2324" y="398.78"/>
+      <point x="52.7611" y="430.99"/>
+      <point x="62.9844" y="463.366" type="curve" smooth="yes"/>
+      <point x="71.492" y="490.309"/>
+      <point x="78.2607" y="521.691"/>
+    </contour>
+  </outline>
+</glyph>

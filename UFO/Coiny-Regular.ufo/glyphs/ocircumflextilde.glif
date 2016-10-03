@@ -3,8 +3,9 @@
   <advance width="631"/>
   <unicode hex="1ED7"/>
   <outline>
-    <component base="tilde" xOffset="75.3306" yOffset="344.727"/>
-    <component base="ocircumflex"/>
+    <component base="tilde" xScale="0.807975" yScale="0.807975" xOffset="118.656" yOffset="343.083"/>
+    <component base="o"/>
+    <component base="circumflex.case" xScale="0.81" yScale="0.81" xOffset="119.415" yOffset="-73.9913"/>
   </outline>
   <lib>
     <dict>

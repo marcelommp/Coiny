@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Horn_Caps" format="1">
+  <advance width="283"/>
+  <outline>
+    <contour>
+      <point x="78.2607" y="694.366" type="curve" smooth="yes"/>
+      <point x="78.2607" y="738.648"/>
+      <point x="107.398" y="764"/>
+      <point x="163.261" y="764" type="curve" smooth="yes"/>
+      <point x="212.49" y="764"/>
+      <point x="258" y="742.324"/>
+      <point x="258" y="668.366" type="curve" smooth="yes"/>
+      <point x="258" y="534.46"/>
+      <point x="117.287" y="467.026"/>
+      <point x="56.75" y="467.026" type="curve" smooth="yes"/>
+      <point x="33.4131" y="467.026"/>
+      <point x="18.2324" y="482.5"/>
+      <point x="18.2324" y="503.917" type="curve" smooth="yes"/>
+      <point x="18.2324" y="527.78"/>
+      <point x="52.7611" y="559.99"/>
+      <point x="62.9844" y="592.366" type="curve" smooth="yes"/>
+      <point x="71.492" y="619.309"/>
+      <point x="78.2607" y="650.691"/>
+    </contour>
+  </outline>
+</glyph>

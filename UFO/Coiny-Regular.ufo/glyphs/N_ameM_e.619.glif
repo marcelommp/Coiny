@@ -3,8 +3,8 @@
   <advance width="712"/>
   <unicode hex="01FA"/>
   <outline>
-    <component base="acute.case" xOffset="166" yOffset="247"/>
-    <component base="ring.case" xOffset="172" yOffset="-35"/>
+    <component base="acute.case" xScale="0.729" yScale="0.729" xOffset="228.944" yOffset="443.883"/>
+    <component base="ring.case" xScale="0.81" yScale="0.81" xOffset="206.526" yOffset="132.14"/>
     <component base="A"/>
   </outline>
   <lib>
